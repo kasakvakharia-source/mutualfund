@@ -1,0 +1,6 @@
+mftool
+pandas
+numpy
+matplotlib
+seaborn
+requests

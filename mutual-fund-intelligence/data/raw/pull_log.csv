@@ -1,0 +1,32 @@
+scheme_code,scheme_name,status,rows,start_date,end_date
+Scheme Code,Scheme Name,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151796,360 ONE FLEXICAP FUND-DIRECT PLAN- GROWTH,success,755.0,2023-07-06,2026-07-31
+151798,360 ONE FLEXICAP FUND-DIRECT PLAN- IDCW,success,755.0,2023-07-06,2026-07-31
+151799,360 ONE FLEXICAP FUND-REGULAR PLAN- GROWTH,success,755.0,2023-07-06,2026-07-31
+151797,360 ONE FLEXICAP FUND-REGULAR PLAN- IDCW,success,755.0,2023-07-06,2026-07-31
+118275,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION,success,3341.0,2013-01-02,2026-07-31
+118276,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),success,3341.0,2013-01-02,2026-07-31
+101922,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - GROWTH OPTION,success,4993.0,2006-04-03,2026-07-31
+101923,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),success,4993.0,2006-04-03,2026-07-31
+148990,ICICI Prudential Flexicap Fund - Direct Plan - Growth,success,1240.0,2021-07-19,2026-07-31
+148991,ICICI Prudential Flexicap Fund - Direct Plan - IDCW,success,1240.0,2021-07-19,2026-07-31
+148989,ICICI Prudential Flexicap Fund - Growth,success,1240.0,2021-07-19,2026-07-31
+148988,ICICI Prudential Flexicap Fund - IDCW,success,1240.0,2021-07-19,2026-07-31
+120492,JM Flexicap Fund (Direct) - Growth Option,success,3341.0,2013-01-02,2026-07-31
+120491,JM Flexicap Fund (Direct) - IDCW,success,3341.0,2013-01-02,2026-07-31
+109522,JM Flexicap Fund (Regular) - Growth option,success,4387.0,2008-09-25,2026-07-31
+109523,JM Flexicap Fund (Regular) - IDCW,success,4387.0,2008-09-25,2026-07-31
+112090,Kotak Flexicap Fund - Growth,success,4151.0,2009-09-17,2026-07-31
+120166,Kotak Flexicap Fund - Growth - Direct,success,3338.0,2013-01-04,2026-07-31
+112089,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option,success,4151.0,2009-09-17,2026-07-31
+120165,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct,success,3329.0,2013-01-17,2026-07-31
+119718,SBI Flexicap Fund - DIRECT PLAN - Growth Option,success,3345.0,2013-01-07,2026-07-31
+119717,SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,3344.0,2013-01-08,2026-07-31
+103216,SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,4992.0,2006-04-03,2026-07-31
+103215,SBI Flexicap Fund - REGULAR PLAN -Growth Option,success,4992.0,2006-04-03,2026-07-31
+150571,Sundaram Flexicap Fund Direct Growth,success,959.0,2022-09-07,2026-07-31
+150573,Sundaram Flexicap Fund Direct Plan IDCW Payout,success,959.0,2022-09-07,2026-07-31
+150572,Sundaram Flexicap Fund Direct Plan IDCW Reinvestment,success,959.0,2022-09-07,2026-07-31
+150568,Sundaram Flexicap Fund Regular Growth,success,959.0,2022-09-07,2026-07-31
+150569,Sundaram Flexicap Fund Regular Plan IDCW Payout,success,959.0,2022-09-07,2026-07-31
+150570,Sundaram Flexicap Fund Regular Plan IDCW Reinvestment,success,959.0,2022-09-07,2026-07-31
