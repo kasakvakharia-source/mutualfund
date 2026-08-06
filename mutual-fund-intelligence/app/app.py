@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import numpy as np
 
 st.set_page_config(page_title="Mutual Fund Intelligence", layout="wide")
 
@@ -88,3 +89,120 @@ if len(selected_funds) >= 2:
     st.plotly_chart(fig2, use_container_width=True)
 else:
     st.info("Select at least 2 funds to compare")
+    st.header("4. What-If: Expense Ratio Sensitivity")
+
+wf_fund = st.selectbox("Pick a fund", options=metrics['scheme_name'].tolist())
+wf_row = metrics[metrics['scheme_name'] == wf_fund].iloc[0]
+
+current_expense = wf_row['expense_ratio']
+current_cagr = wf_row['cagr_5y']
+
+new_expense = st.slider("Simulated expense ratio (%)", 0.0, 3.0, float(current_expense), 0.05)
+
+# Approximate: add back current expense drag to estimate "gross" return, then apply new expense
+approx_gross_return = current_cagr + (current_expense / 100)
+approx_net_return_new = approx_gross_return - (new_expense / 100)
+
+investment = st.number_input("Initial investment (₹)", value=100000, step=10000)
+years = st.slider("Investment horizon (years)", 1, 20, 5)
+
+fv_current = investment * (1 + current_cagr) ** years
+fv_new = investment * (1 + approx_net_return_new) ** years
+
+col1, col2 = st.columns(2)
+col1.metric("Value at current expense ratio", f"₹{fv_current:,.0f}")
+col2.metric(f"Value at {new_expense}% expense ratio", f"₹{fv_new:,.0f}",
+            delta=f"₹{fv_new - fv_current:,.0f}")
+
+st.caption("Approximation: assumes expense drag is linear and additive to CAGR — illustrative, not exact fund accounting.")
+st.header("5. SIP Simulator")
+
+sip_fund = st.selectbox("Pick a fund for SIP simulation", options=metrics['scheme_name'].tolist(), key="sip_fund")
+sip_code = metrics[metrics['scheme_name'] == sip_fund]['scheme_code'].iloc[0]
+
+sip_amount = st.number_input("Monthly SIP amount (₹)", value=5000, step=500)
+sip_years = st.slider("SIP duration (years)", 1, 10, 5, key="sip_years")
+
+fund_nav = nav[nav['scheme_code'] == sip_code].sort_values('date')
+end_date = fund_nav['date'].max()
+start_date = end_date - pd.DateOffset(years=sip_years)
+sip_window = fund_nav[fund_nav['date'] >= start_date].copy()
+
+if not sip_window.empty:
+    sip_window['month'] = sip_window['date'].dt.to_period('M')
+    monthly_nav = sip_window.groupby('month').first().reset_index()
+
+    total_units = 0
+    total_invested = 0
+    for _, row in monthly_nav.iterrows():
+        total_units += sip_amount / row['nav']
+        total_invested += sip_amount
+
+    final_value = total_units * fund_nav.iloc[-1]['nav']
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Total invested", f"₹{total_invested:,.0f}")
+    col2.metric("Final value", f"₹{final_value:,.0f}")
+    col3.metric("Gain", f"₹{final_value - total_invested:,.0f}",
+                delta=f"{((final_value/total_invested)-1)*100:.1f}%")
+else:
+    st.warning("Not enough history for this duration")
+
+st.header("6. Portfolio Allocation What-If")
+
+portfolio_funds = st.multiselect(
+    "Build a hypothetical portfolio (2-5 funds)",
+    options=metrics['scheme_name'].tolist(),
+    default=metrics['scheme_name'].tolist()[:3],
+    key="portfolio_funds"
+)
+
+total_weight = 0
+if len(portfolio_funds) >= 2:
+    portfolio_codes = metrics[metrics['scheme_name'].isin(portfolio_funds)]['scheme_code'].tolist()
+
+    st.write("Set allocation weights (%) — should sum to 100")
+    weights = {}
+    cols = st.columns(len(portfolio_funds))
+    default_weight = round(100 / len(portfolio_funds))
+    for i, fund_name in enumerate(portfolio_funds):
+        weights[fund_name] = cols[i].number_input(fund_name[:15], min_value=0, max_value=100,
+                                                     value=default_weight, key=f"w_{i}")
+
+    total_weight = sum(weights.values())
+    st.write(f"Total allocation: {total_weight}%")
+
+    if total_weight == 100:
+        wide_nav = nav[nav['scheme_code'].isin(portfolio_codes)].pivot(index='date', columns='scheme_code', values='nav')
+        daily_returns = wide_nav.pct_change().dropna()
+
+        code_to_name = dict(zip(metrics['scheme_code'], metrics['scheme_name']))
+        w_array = np.array([weights[code_to_name[c]] / 100 for c in daily_returns.columns])
+
+        cagr_map = dict(zip(metrics['scheme_code'], metrics['cagr_5y']))
+        expected_return = sum(w_array[i] * cagr_map[c] for i, c in enumerate(daily_returns.columns))
+
+        cov_matrix = daily_returns.cov() * 252
+        portfolio_vol = np.sqrt(w_array.T @ cov_matrix.values @ w_array)
+
+        col1, col2 = st.columns(2)
+        col1.metric("Expected Portfolio Return (annualized)", f"{expected_return*100:.2f}%")
+        col2.metric("Expected Portfolio Volatility", f"{portfolio_vol*100:.2f}%")
+        st.caption("Return: weighted average of historical 5Y CAGR. Volatility: accounts for diversification via historical covariance. Both backward-looking, not guarantees.")
+    else:
+        st.warning("Adjust weights to sum to exactly 100%")
+else:
+    st.info("Select at least 2 funds to build a portfolio")
+
+st.header("7. Stress Test: COVID Crash Scenario")
+
+covid_dd = pd.read_csv("data/processed/covid_drawdown.csv")
+covid_dd['scheme_code'] = covid_dd['scheme_code'].astype(str)
+
+if len(portfolio_funds) >= 2 and total_weight == 100:
+    dd_map = dict(zip(covid_dd['scheme_code'], covid_dd['covid_drawdown_pct']))
+    portfolio_dd = sum(w_array[i] * dd_map.get(c, 0) for i, c in enumerate(daily_returns.columns))
+    st.metric("Estimated portfolio drawdown if a COVID-like crash repeated", f"{portfolio_dd*100:.1f}%")
+    st.caption("Based on how each fund actually behaved Feb-Mar 2020, weighted by your allocation above. A historical scenario, not a prediction.")
+else:
+    st.info("Build a portfolio in Section 6 (weights summing to 100%) to see its stress-test result")
