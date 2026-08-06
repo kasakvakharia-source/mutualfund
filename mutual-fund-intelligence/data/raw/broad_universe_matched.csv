@@ -1,0 +1,524 @@
+category,scheme_name,benchmark,return_1y_direct,return_3y_direct,return_5y_direct,scheme_code,matched_name
+Large Cap,Aditya Birla Sun Life Large Cap Fund,Nifty 100 TRI,2.6996078,12.010591,11.359624,119528,Aditya Birla Sun Life Large Cap Fund - Growth - Direct Plan
+Large Cap,Axis Large Cap Fund,BSE 100 TRI,3.8791225,11.113536,8.205929,120465,Axis Large Cap Fund - Direct Plan - Growth
+Large Cap,Bajaj Finserv Large Cap Fund,Nifty 100 TRI,7.990706,,,152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth
+Large Cap,Bandhan Large Cap Fund,BSE 100 TRI,6.107637,14.7437525,12.7151375,118419,Bandhan Large & Mid Cap Fund - Direct Plan - Growth
+Large Cap,Bank of India Large Cap Fund,Nifty 100 TRI,9.046752,14.485656,11.518053,118531,Franklin India Large Cap Fund- Direct - Growth
+Large Cap,Baroda BNP Paribas Large Cap Fund,Nifty 100 TRI,4.608397,13.603746,12.552807,148474,Baroda BNP Paribas Large and Mid Cap Fund- Direct Plan -Growth Option
+Large Cap,Canara Robeco Large Cap Fund,BSE 100 TRI,2.0766995,12.485195,11.184874,150817,Canara Robeco Mid Cap Fund- Direct Plan- Growth Option
+Large Cap,DSP Large Cap Fund,Nifty 100 TRI,1.3211526,12.99074,10.942993,119250,DSP Large Cap Fund - Direct Plan - Growth
+Large Cap,Edelweiss Large Cap Fund,Nifty 100 TRI,4.676259,12.159204,11.989546,118617,Edelweiss Large Cap Fund - Direct Plan-Growth option
+Large Cap,Franklin India Large Cap Fund,Nifty 100 TRI,3.9664516,11.891292,9.9013815,118531,Franklin India Large Cap Fund- Direct - Growth
+Large Cap,Groww Large Cap Fund,Nifty 100 TRI,4.6571035,12.946174,11.317414,154063,Groww Small Cap Fund-Direct-Growth
+Large Cap,HDFC Large Cap Fund,Nifty 100 TRI,3.487861,11.637964,13.076533,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,HSBC Large Cap Fund,Nifty 100 TRI,5.437217,12.392437,11.183526,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,ICICI Prudential Large Cap Fund,Nifty 100 TRI,2.0788112,13.4486475,13.427354,120596,ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth
+Large Cap,ITI Large Cap Fund,Nifty 100 TRI,4.083846,12.102435,10.728799,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,Invesco India Largecap Fund,Nifty 100 TRI,9.054351,15.997203,13.4926605,120392,Invesco India Largecap Fund - Direct Plan - Growth
+Large Cap,JM Large Cap Fund,BSE 100 TRI,6.3718705,13.250659,12.545097,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,JioBlackRock Large Cap Fund,BSE 100 TRI,,,,154307,JioBlackRock Large Cap Fund - Direct Plan - Growth Option
+Large Cap,Kotak Large Cap Fund,Nifty 100 TRI,3.597357,12.723216,11.593302,120152,Kotak Large Cap  Fund - Growth - Direct
+Large Cap,LIC MF Large Cap Fund,Nifty 100 TRI,0.6520451,9.965432,9.185772,120267,LIC MF Large Cap Fund-Direct Plan-Growth
+Large Cap,Mahindra Manulife Large Cap Fund,Nifty 100 TRI,1.3219029,11.323349,10.901046,146549,Mahindra Manulife Large Cap Fund - Direct Plan -Growth
+Large Cap,Mirae Asset Large Cap Fund,Nifty 100 TRI,3.7846737,10.780949,10.182194,118825,Mirae Asset Large Cap Fund - Direct Plan - Growth
+Large Cap,Motilal Oswal Large Cap Fund,Nifty 100 TRI,1.9827279,,,152354,Motilal Oswal Large Cap Direct Plan Growth
+Large Cap,Nippon India Large Cap Fund,BSE 100 TRI,2.929842,13.694688,15.6171465,118531,Franklin India Large Cap Fund- Direct - Growth
+Large Cap,PGIM India Large Cap Fund,Nifty 100 TRI,2.2741487,9.398256,8.813879,138312,PGIM India Large Cap Fund - Direct Plan - Growth
+Large Cap,Parag Parikh Large Cap Fund,Nifty 100 TRI,,,,154155,Parag Parikh Large Cap Fund - Direct Plan - Growth
+Large Cap,SBI Large Cap Fund,BSE 100 TRI,4.458567,11.087264,11.227901,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,Samco Large Cap Fund,Nifty 100 TRI,-5.995935,,,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,Sundaram Large Cap Fund,Nifty 100 TRI,3.6135037,9.951771,10.271392,119566,Sundaram Large and Midcap Fund Direct Plan - Growth
+Large Cap,Tata Large Cap Fund,Nifty 100 TRI,6.923592,12.559025,11.808255,120152,Kotak Large Cap  Fund - Growth - Direct
+Large Cap,Taurus Large Cap Fund,BSE 100 TRI,9.080943,14.71559,11.430261,118870,Taurus Large Cap Fund - Direct Plan - Growth
+Large Cap,UTI Large Cap Fund,BSE 100 TRI,1.0127494,9.546957,9.077422,120030,HSBC Large Cap Fund - Direct Growth
+Large Cap,Union Largecap Fund,BSE 100 TRI,2.144013,9.905182,9.603362,141248,Union Largecap Fund - Direct Plan - Growth Option
+Large Cap,WhiteOak Capital Large Cap Fund,BSE 100 TRI,5.5693393,15.42542,,150797,WhiteOak Capital Large Cap Fund Direct Plan Growth
+Large & Mid Cap,Aditya Birla Sun Life Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.498162,13.633653,9.767877,119436,Aditya Birla Sun Life Large & Mid Cap Fund - Growth - Direct Plan
+Large & Mid Cap,Axis Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,10.022396,17.26584,14.026669,145110,Axis Large & Mid Cap Fund - Direct Plan - Growth
+Large & Mid Cap,Bajaj Finserv Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.040704,,,152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth
+Large & Mid Cap,Bandhan Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,8.693505,20.285187,17.887365,118419,Bandhan Large & Mid Cap Fund - Direct Plan - Growth
+Large & Mid Cap,Bank of India Large & Mid Cap Fund,BSE 250 Large MidCap TRI,10.931626,15.690526,13.108636,118510,Franklin India Large & Mid Cap Fund - Direct - Growth
+Large & Mid Cap,Baroda BNP Paribas Large and Mid Cap Fund,BSE 250 Large MidCap TRI,7.229664,16.015516,14.934144,148474,Baroda BNP Paribas Large and Mid Cap Fund- Direct Plan -Growth Option
+Large & Mid Cap,Canara Robeco Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,3.4641638,14.964186,12.681723,152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth
+Large & Mid Cap,DSP Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,5.456703,16.48589,13.576731,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Edelweiss Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,8.773587,16.680231,14.595,140175,Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option
+Large & Mid Cap,Franklin India Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,4.4807763,13.816968,11.88674,118510,Franklin India Large & Mid Cap Fund - Direct - Growth
+Large & Mid Cap,HDFC Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.6962004,15.831812,16.543312,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,HSBC Large & Midcap Fund,Nifty LargeMidcap 250 TRI,14.526899,20.021097,16.73856,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Helios Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.559513,,,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,ICICI Prudential Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,10.47572,18.350084,18.361317,120596,ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth
+Large & Mid Cap,ITI Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,7.385136,,,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Invesco India Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,12.852083,25.288263,18.759762,120357,Invesco India Large & Mid Cap Fund - Direct Plan - Growth
+Large & Mid Cap,JM Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.865991,,,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Kotak Large & Midcap Fund,Nifty LargeMidcap 250 TRI,7.829439,16.18331,15.25643,120158,Kotak Large & Midcap Fund - Direct- Growth
+Large & Mid Cap,LIC MF Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,5.566173,16.51802,13.846334,133710,LIC MF Large & Mid Cap Fund-Direct Plan-Growth
+Large & Mid Cap,Mahindra Manulife Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.607717,14.682247,14.477961,147840,Mahindra Manulife Large & Mid Cap Fund - Direct Plan -Growth
+Large & Mid Cap,Mirae Asset Large & Midcap Fund,Nifty LargeMidcap 250 TRI,9.392854,14.735789,12.625784,118834,Mirae Asset Large & Midcap Fund - Direct Plan - Growth
+Large & Mid Cap,Motilal Oswal Large and Midcap Fund,Nifty LargeMidcap 250 TRI,9.117998,23.40173,19.372725,147704,Motilal Oswal Large and Midcap Fund - Direct Plan Growth
+Large & Mid Cap,Navi Large & Midcap Fund,Nifty LargeMidcap 250 TRI,8.767521,12.243017,12.963783,120158,Kotak Large & Midcap Fund - Direct- Growth
+Large & Mid Cap,Nippon India Vision Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.5688043,17.440392,15.18518,118675,Nippon India Vision Large & Mid Cap Fund - Direct Plan Growth Plan - Bonus Option
+Large & Mid Cap,PGIM India Large and Midcap Fund,Nifty LargeMidcap 250 TRI,4.7619047,,,152382,PGIM India Large and Midcap Fund - Direct Plan - Growth Option
+Large & Mid Cap,Quant Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,14.173263,17.883347,17.53297,152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth
+Large & Mid Cap,SBI Large & Midcap Fund,Nifty LargeMidcap 250 TRI,8.948504,15.345731,15.080483,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Samco Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,-5.6133056,,,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Sundaram Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,12.907133,16.5045,14.1083765,119566,Sundaram Large and Midcap Fund Direct Plan - Growth
+Large & Mid Cap,Tata Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,-1.0271806,9.526889,11.564593,154381,The Wealth Company Large & Mid Cap Fund Direct Growth
+Large & Mid Cap,The Wealth Company Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,,,,154381,The Wealth Company Large & Mid Cap Fund Direct Growth
+Large & Mid Cap,UTI Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,7.763968,17.699444,15.621265,146772,HSBC Large & Mid Cap Fund - Direct Growth
+Large & Mid Cap,Union Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.848764,14.835892,13.913605,152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth
+Large & Mid Cap,WhiteOak Capital Large & Mid Cap Fund,BSE 250 Large MidCap TRI,10.679611,,,152226,Whiteoak Capital Large & Mid Cap Fund Direct Plan Growth
+Flexi Cap,Abakkus Flexi Cap Fund,BSE 500 TRI,,,,154043,Abakkus Flexi Cap Fund - Direct - Growth
+Flexi Cap,Aditya Birla Sun Life Flexi Cap Fund,Nifty 500 TRI,13.544871,17.30301,13.567915,120564,Aditya Birla Sun Life Flexi Cap Fund - Growth - Direct Plan
+Flexi Cap,Axis Flexi Cap Fund,Nifty 500 TRI,7.613868,15.167935,10.862657,141925,Axis Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,Bajaj Finserv Flexi Cap Fund,BSE 500 TRI,10.823466,,,151895,Bajaj Finserv Flexi Cap Fund-Direct Plan-Growth
+Flexi Cap,Bandhan Flexi Cap Fund,BSE 500 TRI,5.3405476,14.089101,11.722816,144546,Tata Flexi Cap Fund-Direct Plan-Growth
+Flexi Cap,Bank of India Flexi Cap Fund,BSE 500 TRI,15.05876,21.460608,17.4986,151443,Bank of India Multi Cap Fund Direct Plan - Growth
+Flexi Cap,Baroda BNP Paribas Flexi Cap Fund,Nifty 500 TRI,6.5291543,14.834446,,150387,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option
+Flexi Cap,Canara Robeco Flexi Cap Fund,BSE 500 TRI,4.224242,13.6780815,11.845559,150817,Canara Robeco Mid Cap Fund- Direct Plan- Growth Option
+Flexi Cap,Capitalmind Flexi Cap Fund,Nifty 500 TRI,,,,150346,WhiteOak Capital Flexi Cap Fund Direct Plan-Growth
+Flexi Cap,DSP Flexi Cap Fund,Nifty 500 TRI,6.2861786,14.191664,11.598366,119076,DSP Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,Edelweiss Flexi Cap Fund,Nifty 500 TRI,7.6287804,16.750399,14.544862,140353,Edelweiss Flexi Cap Fund - Direct Plan - Growth Option
+Flexi Cap,Franklin India Flexi Cap Fund,Nifty 500 TRI,1.8434355,13.76654,14.009911,118535,Franklin India Flexi Cap Fund - Direct - Growth
+Flexi Cap,HDFC Flexi Cap Fund,Nifty 500 TRI,7.1682253,18.010368,18.652363,120046,HSBC Flexi Cap Fund - Direct Growth
+Flexi Cap,HSBC Flexi Cap Fund,Nifty 500 TRI,8.430476,17.323725,15.017803,120046,HSBC Flexi Cap Fund - Direct Growth
+Flexi Cap,Helios Flexi Cap Fund,Nifty 500 TRI,10.958904,,,152135,Helios Flexi Cap Fund - Direct Plan - Growth Option
+Flexi Cap,ICICI Prudential Flexicap Fund,BSE 500 TRI,14.586543,18.870047,16.957426,148990,ICICI Prudential Flexicap Fund - Direct Plan - Growth
+Flexi Cap,ITI Flexi Cap Fund,Nifty 500 TRI,14.285404,20.192522,,151379,ITI Flexi Cap Fund- Direct Plan- Growth
+Flexi Cap,Invesco India Flexi Cap Fund,BSE 500 TRI,5.9529767,20.409416,,149763,Invesco India Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,JM Flexi Cap Fund,BSE 500 TRI,6.3875375,17.156593,17.595182,120046,HSBC Flexi Cap Fund - Direct Growth
+Flexi Cap,JioBlackRock Flexi Cap Fund,Nifty 500 TRI,,,,153859,JioBlackRock Flexi Cap Fund - Direct Plan - Growth Option
+Flexi Cap,Kotak Flexi Cap Fund,Nifty 500 TRI,3.9417138,13.934468,12.343134,120166,Kotak Flexicap Fund - Growth - Direct
+Flexi Cap,LIC MF Flexi Cap Fund,Nifty 500 TRI,12.410451,13.636953,12.1438055,120264,LIC MF Flexi Cap Fund-Direct Plan-Growth
+Flexi Cap,Mahindra Manulife Flexi Cap Fund,Nifty 500 TRI,2.6544716,12.519261,,149104,Mahindra Manulife Flexi Cap Fund - Direct Plan -Growth
+Flexi Cap,Mirae Asset Flexi Cap Fund,Nifty 500 TRI,6.7609477,13.834738,,151412,Mirae Asset Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,Motilal Oswal Flexi Cap Fund,Nifty 500 TRI,1.6556988,19.952084,13.391606,152651,Motilal Oswal Multi Cap Fund-Direct Plan Growth
+Flexi Cap,NJ Flexi Cap Fund,Nifty 500 TRI,1.6715117,,,120046,HSBC Flexi Cap Fund - Direct Growth
+Flexi Cap,Navi Flexi Cap Fund,Nifty 500 TRI,15.651477,13.4931345,13.3052225,143793,Navi Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,Nippon India Flexi Cap Fund,Nifty 500 TRI,5.097072,13.1555395,,118535,Franklin India Flexi Cap Fund - Direct - Growth
+Flexi Cap,Old Bridge Flexi Cap Fund,BSE 500 TRI,,,,154225,Old Bridge Flexi Cap Fund Direct Growth
+Flexi Cap,PGIM India Flexi Cap Fund,Nifty 500 TRI,4.9479165,11.898118,9.752585,133839,PGIM India Flexi Cap Fund - Direct Plan - Growth Option
+Flexi Cap,Parag Parikh Flexi Cap Fund,Nifty 500 TRI,1.4427521,14.952118,13.774447,122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,Quant Flexi Cap Fund,Nifty 500 TRI,16.81438,18.051073,16.007605,144546,Tata Flexi Cap Fund-Direct Plan-Growth
+Flexi Cap,SBI Flexi Cap Fund,BSE 500 TRI,3.2466211,9.857216,9.709212,120046,HSBC Flexi Cap Fund - Direct Growth
+Flexi Cap,Samco Flexi Cap Fund,Nifty 500 TRI,-4.0256176,-0.59547615,,144905,Shriram Flexi Cap Fund - Direct Growth
+Flexi Cap,Shriram Flexi Cap Fund,Nifty 500 TRI,3.32238,10.360156,9.741745,144905,Shriram Flexi Cap Fund - Direct Growth
+Flexi Cap,Sundaram Flexi Cap Fund,Nifty 500 TRI,1.3789023,11.358181,,150571,Sundaram Flexicap Fund Direct Growth
+Flexi Cap,TRUSTMF Flexi Cap Fund,Nifty 500 TRI,11.568799,,,152584,TRUSTMF Flexi Cap Fund-Direct Plan- Growth
+Flexi Cap,Tata Flexi Cap Fund,Nifty 500 TRI,1.8848647,12.632322,11.284563,144546,Tata Flexi Cap Fund-Direct Plan-Growth
+Flexi Cap,Taurus Flexi Cap Fund,BSE 500 TRI,9.05007,13.368748,11.142377,118883,Taurus Flexi Cap Fund - Direct Plan - Growth
+Flexi Cap,The Wealth Company Flexi Cap Fund,Nifty 500 TRI,,,,154269,The Wealth Company Small Cap Fund- Direct-Growth
+Flexi Cap,UTI Flexi Cap Fund,Nifty 500 TRI,3.6767178,10.066211,6.9495597,151379,ITI Flexi Cap Fund- Direct Plan- Growth
+Flexi Cap,Unifi Flexi Cap Fund,Nifty 500 TRI,6.2620397,,,153543,Unifi Flexi Cap Fund - Direct Growth
+Flexi Cap,Union Flexi Cap Fund,BSE 500 TRI,6.580117,13.23348,12.18886,153543,Unifi Flexi Cap Fund - Direct Growth
+Flexi Cap,WhiteOak Capital Flexi Cap Fund,BSE 500 TRI,8.600347,17.017591,,150346,WhiteOak Capital Flexi Cap Fund Direct Plan-Growth
+Multi Cap,Aditya Birla Sun Life Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.397954,15.868298,14.552405,148921,Aditya Birla Sun Life Multi-Cap Fund-Direct Growth
+Multi Cap,Axis Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.980572,21.627905,,149383,Axis Multicap Fund - Direct Growth
+Multi Cap,Bajaj Finserv Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,12.523448,,,151895,Bajaj Finserv Flexi Cap Fund-Direct Plan-Growth
+Multi Cap,Bandhan Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.224271,15.374893,,153722,Bandhan Multi-Factor Fund - Direct Plan - Growth
+Multi Cap,Bank of India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,16.12542,20.067776,,151443,Bank of India Multi Cap Fund Direct Plan - Growth
+Multi Cap,Baroda BNP Paribas Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.7219577,16.400328,14.885595,150387,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option
+Multi Cap,Canara Robeco Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.152497,16.596006,,151824,Canara Robeco Multi Cap Fund - Direct Plan - Growth Option
+Multi Cap,DSP Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.5653586,,,152310,DSP Multicap Fund - Direct - Growth
+Multi Cap,Edelweiss Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.900918,,,152094,Edelweiss Multi Cap Fund - Direct Plan - Growth
+Multi Cap,Franklin India Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.592008,,,152739,Franklin India Multi Cap Fund - Direct - Growth
+Multi Cap,Groww Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,19.507343,,,153034,Groww Multicap Fund - Direct - Growth
+Multi Cap,HDFC Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.2367215,14.57123,,152310,DSP Multicap Fund - Direct - Growth
+Multi Cap,HSBC Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.523777,20.605629,,151290,HSBC Multi Cap Fund - Direct - Growth
+Multi Cap,ICICI Prudential Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,12.301221,18.394764,16.484617,120599,ICICI Prudential Multicap Fund - Direct Plan -  Growth
+Multi Cap,ITI Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.564062,19.02755,14.57253,150659,LIC MF Multi Cap Fund-Direct Plan-Growth
+Multi Cap,Invesco India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.1688313,15.486205,13.180021,120413,Invesco India Multicap Fund - Direct Plan - Growth Option
+Multi Cap,Kotak Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.136525,19.47004,,149185,Kotak Multicap Fund-Direct Plan-Growth
+Multi Cap,LIC MF Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.813539,19.982313,,150659,LIC MF Multi Cap Fund-Direct Plan-Growth
+Multi Cap,Mahindra Manulife Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.090593,19.136406,17.169998,141226,Mahindra Manulife Multi Cap Fund - Direct Plan -Growth
+Multi Cap,Mirae Asset Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.767124,,,151810,Mirae Asset Multicap Fund - Direct Plan - Growth
+Multi Cap,Motilal Oswal Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.859679,,,152651,Motilal Oswal Multi Cap Fund-Direct Plan Growth
+Multi Cap,Nippon India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.460997,16.264677,19.598694,152739,Franklin India Multi Cap Fund - Direct - Growth
+Multi Cap,PGIM India Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.616161,,,152815,PGIM India Multi Cap Fund - Direct Plan - Growth Option
+Multi Cap,Quant Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.411993,12.26698,12.69153,120823,quant Multi Cap Fund-GROWTH OPTION-Direct Plan
+Multi Cap,SBI Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,3.0806398,15.217423,,152310,DSP Multicap Fund - Direct - Growth
+Multi Cap,Samco Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,-5.735141,,,152847,Samco Multi Cap Fund - Direct Plan - Growth
+Multi Cap,Sundaram Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,6.1155477,15.247837,13.642866,119581,Sundaram Mid Cap Fund Direct Plan - Growth
+Multi Cap,TRUSTMF Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,19.4,,,152584,TRUSTMF Flexi Cap Fund-Direct Plan- Growth
+Multi Cap,Tata Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.921793,13.048298,,151232,Tata Multicap Fund - Direct Plan - Growth
+Multi Cap,UTI Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.9601502,,,150659,LIC MF Multi Cap Fund-Direct Plan-Growth
+Multi Cap,Union Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.686807,17.011822,,149383,Axis Multicap Fund - Direct Growth
+Multi Cap,WhiteOak Capital Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.547495,,,152071,WhiteOak Capital Multi Cap Fund Direct Plan Growth
+Mid Cap,Aditya Birla Sun Life Mid Cap Fund,Nifty Midcap 150 TRI,10.759458,18.151697,15.693181,148921,Aditya Birla Sun Life Multi-Cap Fund-Direct Growth
+Mid Cap,Axis Midcap Fund,BSE Midcap 150 TRI,9.626809,18.564692,14.95706,149383,Axis Multicap Fund - Direct Growth
+Mid Cap,Bank of India Mid Cap Fund,Nifty Midcap 150 TRI,,,,153728,Bank of India Mid Cap Fund - Direct Plan Growth
+Mid Cap,Baroda BNP Paribas Mid Cap Fund,Nifty Midcap 150 TRI,14.809783,20.029451,16.851362,148474,Baroda BNP Paribas Large and Mid Cap Fund- Direct Plan -Growth Option
+Mid Cap,Canara Robeco Mid Cap Fund,BSE Midcap 150 TRI,9.147026,19.627884,,150817,Canara Robeco Mid Cap Fund- Direct Plan- Growth Option
+Mid Cap,DSP Midcap Fund,Nifty Midcap 150 TRI,9.13626,17.258785,13.071841,119071,DSP Midcap Fund - Direct Plan - Growth
+Mid Cap,Edelweiss Mid Cap Fund,Nifty Midcap 150 TRI,11.475761,23.812626,19.778908,152094,Edelweiss Multi Cap Fund - Direct Plan - Growth
+Mid Cap,Franklin India Mid Cap Fund,Nifty Midcap 150 TRI,6.1453457,18.596245,15.5777645,118533,Franklin India Mid Cap Fund - Direct - Growth
+Mid Cap,HSBC Mid Cap Fund,Nifty Midcap 150 TRI,21.16697,26.194756,19.574024,151036,HSBC Midcap Fund - Direct Growth
+Mid Cap,Helios Mid Cap Fund,Nifty Midcap 150 TRI,17.637272,,,153326,Helios Mid Cap Fund - Direct Plan - Growth Option
+Mid Cap,ICICI Prudential Midcap Fund,Nifty Midcap 150 TRI,16.560452,23.902735,18.436733,120381,ICICI Prudential MidCap Fund - Direct Plan -  Growth
+Mid Cap,ITI Mid Cap Fund,Nifty Midcap 150 TRI,14.494553,23.350216,17.472866,120726,UTI Mid Cap Fund-Growth Option- Direct
+Mid Cap,Invesco India Mid Cap Fund,BSE Midcap 150 TRI,13.740672,26.260286,20.971579,120357,Invesco India Large & Mid Cap Fund - Direct Plan - Growth
+Mid Cap,JM Midcap Fund,Nifty Midcap 150 TRI,13.436104,21.882915,,150815,JM Midcap Fund (Direct) - Growth
+Mid Cap,Kotak Midcap Fund,Nifty Midcap 150 TRI,10.105798,20.552298,18.107933,119775,Kotak Midcap Fund - Direct Plan - Growth
+Mid Cap,LIC MF Mid cap Fund,Nifty Midcap 150 TRI,8.945437,18.72221,14.132552,152002,LIC MF Mid Cap Fund-Direct Plan-Growth
+Mid Cap,Mahindra Manulife Mid Cap Fund,Nifty Midcap 150 TRI,16.462181,22.806822,19.481327,142110,Mahindra Manulife Mid Cap Fund - Direct Plan -Growth
+Mid Cap,Mirae Asset Midcap Fund,Nifty Midcap 150 TRI,15.068706,18.840752,17.067854,147445,Mirae Asset Midcap Fund- Direct Growth Option
+Mid Cap,Motilal Oswal Midcap Fund,Nifty Midcap 150 TRI,-0.0048407232,20.489933,23.105713,127042,Motilal Oswal Midcap Fund-Direct Plan-Growth Option
+Mid Cap,Nippon India Growth Mid Cap Fund,Nifty Midcap 150 TRI,12.596235,21.958338,19.945528,118665,Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Bonus Option
+Mid Cap,PGIM India Midcap Fund,Nifty Midcap 150 TRI,3.7438815,13.287084,12.772571,125307,PGIM India Midcap Fund - Direct Plan - Growth Option
+Mid Cap,SBI Midcap Fund,Nifty Midcap 150 TRI,8.2581005,13.581713,15.12774,151036,HSBC Midcap Fund - Direct Growth
+Mid Cap,Samco Mid Cap Fund,Nifty Midcap 150 TRI,,,,152847,Samco Multi Cap Fund - Direct Plan - Growth
+Mid Cap,Sundaram Mid Cap Fund,Nifty Midcap 150 TRI,11.917635,21.946032,19.068197,119581,Sundaram Mid Cap Fund Direct Plan - Growth
+Mid Cap,TRUSTMF Mid Cap Fund,Nifty Midcap 150 TRI,,,,152584,TRUSTMF Flexi Cap Fund-Direct Plan- Growth
+Mid Cap,Taurus Mid Cap Fund,Nifty Midcap 150 TRI,7.7201257,12.391788,12.961778,118872,Taurus Mid Cap Fund - Direct Plan - Growth
+Mid Cap,UTI Mid Cap Fund,Nifty Midcap 150 TRI,7.2158003,14.118532,13.441751,120726,UTI Mid Cap Fund-Growth Option- Direct
+Mid Cap,WhiteOak Capital Mid Cap Fund,BSE Midcap 150 TRI,17.980408,24.159874,,150584,WhiteOak Capital Mid Cap Fund Direct Plan Growth
+Small Cap,Abakkus Small Cap Fund,Nifty Smallcap 250 TRI,,,,154215,Abakkus Small Cap Fund - Direct Plan - Growth
+Small Cap,Aditya Birla Sun Life Small cap Fund,BSE 250 Smallcap TRI,17.521166,17.111977,14.166386,119556,Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan
+Small Cap,Axis Small Cap Fund,Nifty Smallcap 250 TRI,10.884354,17.147257,17.294449,125354,Axis Small Cap Fund - Direct Plan - Growth
+Small Cap,Bajaj Finserv Small Cap Fund,BSE 250 Smallcap TRI,16.084568,,,151895,Bajaj Finserv Flexi Cap Fund-Direct Plan-Growth
+Small Cap,Bandhan Small Cap Fund,BSE 250 Smallcap TRI,12.643838,27.872025,20.195587,145206,Tata Small Cap Fund-Direct Plan-Growth
+Small Cap,Bank of India Small Cap Fund,Nifty Smallcap 250 TRI,23.445345,23.240255,20.429836,118525,Franklin India Small Cap Fund - Direct - Growth
+Small Cap,Baroda BNP Paribas Small Cap Fund,Nifty Smallcap 250 TRI,10.231717,,,152128,Baroda BNP Paribas Small Cap Fund - Direct Plan - Growth option
+Small Cap,Canara Robeco Small Cap Fund,Nifty Smallcap 250 TRI,8.354846,14.967582,16.712805,150817,Canara Robeco Mid Cap Fund- Direct Plan- Growth Option
+Small Cap,DSP Small Cap Fund,BSE 250 Smallcap TRI,16.243563,18.450457,18.096645,119212,DSP Small Cap Fund - Direct Plan - Growth
+Small Cap,Edelweiss Small Cap Fund,Nifty Smallcap 250 TRI,11.481904,18.08404,18.50603,146196,Edelweiss Small Cap Fund - Direct Plan - Growth
+Small Cap,Franklin India Small Cap Fund,Nifty Smallcap 250 TRI,6.5745473,15.660772,17.456642,118525,Franklin India Small Cap Fund - Direct - Growth
+Small Cap,Groww Small Cap Fund,Nifty Smallcap 250 TRI,,,,154063,Groww Small Cap Fund-Direct-Growth
+Small Cap,HDFC Small Cap Fund,BSE 250 Smallcap TRI,3.0218012,14.024469,16.413748,151130,HSBC Small Cap Fund - Direct Growth
+Small Cap,HSBC Small Cap Fund,Nifty Smallcap 250 TRI,10.688392,16.494198,18.190762,151130,HSBC Small Cap Fund - Direct Growth
+Small Cap,Helios Small Cap Fund,Nifty Smallcap 250 TRI,,,,153912,Helios Small Cap Fund - Direct Plan - Growth Option
+Small Cap,ICICI Prudential Smallcap Fund,Nifty Smallcap 250 TRI,5.685176,13.332686,15.338467,120591,ICICI Prudential Smallcap Fund - Direct Plan - Growth
+Small Cap,ITI Small Cap Fund,Nifty Smallcap 250 TRI,18.94405,26.22328,18.597342,154063,Groww Small Cap Fund-Direct-Growth
+Small Cap,Invesco India Smallcap Fund,BSE 250 Smallcap TRI,17.882095,24.683908,20.924128,145137,Invesco India Smallcap Fund - Direct Plan - Growth
+Small Cap,JM Small Cap Fund,Nifty Smallcap 250 TRI,17.518118,,,154063,Groww Small Cap Fund-Direct-Growth
+Small Cap,Kotak Small Cap Fund,Nifty Smallcap 250 TRI,6.99101,13.897585,14.167626,120164,Kotak-Small Cap Fund - Growth - Direct
+Small Cap,LIC MF Small Cap Fund,Nifty Smallcap 250 TRI,15.457705,18.95899,18.688229,152004,LIC MF Small Cap Fund-Direct Plan-Growth
+Small Cap,Mahindra Manulife Small Cap Fund,BSE 250 Smallcap TRI,16.319618,22.428436,,150915,Mahindra Manulife Small Cap Fund - Direct Plan - Growth
+Small Cap,Mirae Asset Small Cap Fund,Nifty Smallcap 250 TRI,12.078825,,,153196,Mirae Asset Small Cap Fund - Direct Plan - Growth
+Small Cap,Motilal Oswal Small Cap Fund,Nifty Smallcap 250 TRI,24.266422,,,152237,Motilal Oswal Small Cap Fund - Direct - Growth
+Small Cap,Nippon India Small Cap Fund,Nifty Smallcap 250 TRI,10.150018,17.722012,19.933283,118525,Franklin India Small Cap Fund - Direct - Growth
+Small Cap,PGIM India Small Cap Fund,Nifty Smallcap 250 TRI,13.222668,17.092993,14.6303625,149019,PGIM India Small Cap Fund - Direct Plan- Growth Option
+Small Cap,Quant Small Cap Fund,Nifty Smallcap 250 TRI,14.619128,19.481092,19.233612,145206,Tata Small Cap Fund-Direct Plan-Growth
+Small Cap,Quantum Small Cap Fund,BSE 250 Smallcap TRI,10.791925,,,145206,Tata Small Cap Fund-Direct Plan-Growth
+Small Cap,SBI Small Cap Fund,BSE 250 Smallcap TRI,7.8014865,12.963236,14.881651,151130,HSBC Small Cap Fund - Direct Growth
+Small Cap,Samco Small Cap Fund,Nifty Smallcap 250 TRI,,,,154063,Groww Small Cap Fund-Direct-Growth
+Small Cap,Sundaram Small Cap Fund,Nifty Smallcap 250 TRI,17.253582,18.9371,18.156311,119589,Sundaram Small Cap Fund Direct Plan - Growth
+Small Cap,TRUSTMF Small Cap Fund,Nifty Smallcap 250 TRI,31.11111,,,152584,TRUSTMF Flexi Cap Fund-Direct Plan- Growth
+Small Cap,Tata Small Cap Fund,Nifty Smallcap 250 TRI,-1.2487752,13.274515,15.815926,145206,Tata Small Cap Fund-Direct Plan-Growth
+Small Cap,The Wealth Company Small Cap Fund,Nifty Smallcap 250 TRI,,,,154269,The Wealth Company Small Cap Fund- Direct-Growth
+Small Cap,UTI Small Cap Fund,Nifty Smallcap 250 TRI,8.008179,16.644163,16.571535,154063,Groww Small Cap Fund-Direct-Growth
+Small Cap,Union Small Cap Fund,BSE 250 Smallcap TRI,22.26142,19.832232,17.91051,154063,Groww Small Cap Fund-Direct-Growth
+Value,Aditya Birla Sun Life Value Fund,Nifty 500 TRI,15.054267,17.37603,15.182962,119659,Aditya Birla Sun Life Value Fund - Growth - Direct Plan
+Value,Axis Value Fund,Nifty 500 TRI,12.571428,19.993586,,149166,Axis Value Fund - Direct Plan - Growth
+Value,Bandhan Value Fund,BSE 500 TRI,4.555573,12.537495,14.13825,118481,Bandhan Value Fund - Direct Plan - Growth
+Value,Baroda BNP Paribas Value Fund,Nifty 500 TRI,4.0945435,11.033342,,151755,Baroda BNP Paribas Value Fund - Direct Plan - Growth option
+Value,Canara Robeco Value Fund,BSE 500 TRI,2.1309772,13.247842,,149085,Canara Robeco Value Fund - Direct Plan - Growth Option
+Value,HDFC Value Fund,Nifty 500 TRI,10.43921,17.841965,15.59593,151113,HSBC Value Fund - Direct Growth
+Value,HSBC Value Fund,Nifty 500 TRI,5.925632,18.851622,17.418293,151113,HSBC Value Fund - Direct Growth
+Value,ICICI Prudential Value Fund,Nifty 500 TRI,1.8390579,14.5837345,16.472425,148600,ICICI Prudential Quant Fund Direct Plan Growth
+Value,LIC MF Value Fund,Nifty 500 TRI,24.491615,19.53161,15.220316,152018,LIC MF Value Fund-Direct Plan-Growth
+Value,Mahindra Manulife Value Fund,Nifty 500 TRI,16.649836,,,153303,Mahindra Manulife Value Fund - Direct Plan - Growth
+Value,Nippon India Value Fund,Nifty 500 TRI,3.6828716,17.162432,15.519916,118784,Nippon India Value Fund - Direct Plan Growth Plan
+Value,Quantum Value Fund,BSE 500 TRI,-0.37890503,12.336157,11.263856,103490,Quantum Value Fund - Direct Plan Growth Option
+Value,Sundaram Value Fund,Nifty 500 TRI,-1.3746247,8.607267,9.927766,119549,Sundaram Value Fund Direct Plan - Growth
+Value,Templeton India Value Fund,Nifty 500 TRI,1.4293184,12.241777,15.242757,118494,Templeton India Value Fund - Direct - Growth
+ELSS,Aditya Birla Sun Life ELSS Tax Saver Fund,Nifty 500 TRI,6.0107656,13.334554,9.679009,119544,Aditya Birla Sun Life ELSS Tax Saver Fund - Growth - Direct Plan
+ELSS,Axis ELSS Tax Saver Fund,Nifty 500 TRI,4.70311,12.514299,8.282948,145819,Shriram ELSS Tax Saver Fund - Direct Growth
+ELSS,Bajaj Finserv ELSS Tax Saver Fund,BSE 500 TRI,8.725437,,,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,Bandhan ELSS Tax saver Fund,BSE 500 TRI,6.5810604,11.80396,13.192126,151078,HSBC ELSS Tax saver Fund - Direct Growth
+ELSS,Bank of India ELSS Tax Saver,BSE 500 TRI,7.28368,14.648047,12.730164,118540,Franklin India ELSS Tax Saver Fund - Direct - Growth
+ELSS,Baroda BNP Paribas ELSS Tax Saver Fund,Nifty 500 TRI,9.963516,17.597776,14.005874,147481,Parag Parikh ELSS Tax Saver Fund- Direct Growth
+ELSS,Canara Robeco ELSS Tax Saver Fund,BSE 500 TRI,6.4975247,13.778953,12.193754,149570,Sundaram ELSS Tax Saver Fund Direct Plan Growth
+ELSS,DSP ELSS Tax Saver Fund,Nifty 500 TRI,4.0515847,15.839315,13.554876,119242,DSP ELSS Tax Saver Fund - Direct Plan - Growth
+ELSS,Edelweiss ELSS Tax saver Fund,Nifty 500 TRI,10.760234,15.755465,13.696497,118620,Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option
+ELSS,Franklin India ELSS Tax Saver Fund,Nifty 500 TRI,0.52719563,13.384734,13.493752,118540,Franklin India ELSS Tax Saver Fund - Direct - Growth
+ELSS,Groww ELSS Tax Saver Fund,BSE 500 TRI,-1.8037835,11.597041,10.572764,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,HDFC ELSS Tax saver,Nifty 500 TRI,1.3437357,15.759913,16.423141,151078,HSBC ELSS Tax saver Fund - Direct Growth
+ELSS,HSBC ELSS Tax saver Fund,Nifty 500 TRI,8.283124,18.03969,14.223862,151078,HSBC ELSS Tax saver Fund - Direct Growth
+ELSS,ICICI Prudential ELSS Tax Saver Fund,Nifty 500 TRI,4.6471734,13.311125,12.154679,120592,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth
+ELSS,ITI ELSS Tax Saver Fund,Nifty 500 TRI,9.815194,19.586996,14.180041,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,Invesco India ELSS Tax Saver Fund,BSE 500 TRI,3.5638986,14.250072,11.457271,120416,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth
+ELSS,JM ELSS Tax Saver Fund,BSE 500 TRI,12.828477,18.241846,16.099775,120494,JM ELSS Tax Saver Fund (Direct) - Growth Option
+ELSS,Kotak ELSS Tax Saver Fund,Nifty 500 TRI,5.38986,13.389135,13.383016,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,LIC MF ELSS Tax Saver,Nifty 500 TRI,1.4315497,12.37357,11.740062,120270,LIC MF ELSS Tax Saver-Direct Plan-Growth
+ELSS,Mahindra Manulife ELSS Tax Saver Fund,Nifty 500 TRI,1.331899,10.898777,11.70397,139781,Mahindra Manulife ELSS Tax Saver Fund - Direct Plan -Growth
+ELSS,Mirae Asset ELSS Tax Saver Fund,Nifty 500 TRI,7.6820173,14.5767,12.963507,135781,Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth
+ELSS,Motilal Oswal ELSS Tax Saver Fund,Nifty 500 TRI,9.635984,22.816786,17.870987,133386,Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option
+ELSS,NJ ELSS Tax Saver Scheme,Nifty 500 TRI,0.66093856,12.815566,,151611,NJ ELSS Tax Saver Scheme Direct Growth
+ELSS,Nippon India ELSS Tax Saver Fund,Nifty 500 TRI,4.9839478,14.715701,13.925587,118540,Franklin India ELSS Tax Saver Fund - Direct - Growth
+ELSS,PGIM India ELSS Tax Saver Fund,Nifty 500 TRI,2.6877668,10.526884,11.3447485,135601,PGIM India ELSS Tax Saver Fund - Direct Plan - Growth Option
+ELSS,Parag Parikh ELSS Tax Saver Fund,Nifty 500 TRI,-3.3447618,12.051394,13.340139,147481,Parag Parikh ELSS Tax Saver Fund- Direct Growth
+ELSS,Quant ELSS Tax Saver Fund,Nifty 500 TRI,16.41333,17.388344,15.940659,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,Quantum ELSS Tax Saver Fund,BSE 500 TRI,-0.14740108,12.43743,11.373125,111549,Quantum ELSS Tax Saver Fund - Direct Plan Growth Option
+ELSS,SBI ELSS Tax Saver Fund,BSE 500 TRI,3.2089806,17.057302,16.66054,151078,HSBC ELSS Tax saver Fund - Direct Growth
+ELSS,Samco ELSS Tax Saver Fund,Nifty 500 TRI,-1.1569053,5.767206,,145819,Shriram ELSS Tax Saver Fund - Direct Growth
+ELSS,Shriram ELSS Tax Saver Fund,Nifty 500 TRI,3.6459513,10.137065,9.760596,145819,Shriram ELSS Tax Saver Fund - Direct Growth
+ELSS,Sundaram ELSS Tax Saver Fund,Nifty 500 TRI,0.52383703,10.782214,11.48223,149570,Sundaram ELSS Tax Saver Fund Direct Plan Growth
+ELSS,Tata ELSS Fund,Nifty 500 TRI,10.173306,14.46783,14.054859,132756,Tata ELSS Fund-Growth-Direct Plan
+ELSS,Taurus ELSS Tax Saver Fund,BSE 500 TRI,1.1400409,12.362184,11.969458,118866,Taurus ELSS Tax Saver Fund - Direct Plan - Growth
+ELSS,UTI ELSS Tax Saver Fund,Nifty 500 TRI,3.1320968,10.923447,9.445426,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,Union ELSS Tax Saver Fund,BSE 500 TRI,5.05441,12.665377,12.401914,119773,Kotak ELSS Tax Saver Fund-Growth - Direct
+ELSS,WhiteOak Capital ELSS Tax Saver Fund,BSE 500 TRI,7.4993105,18.479145,,150587,WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth
+Contra,Invesco India Contra Fund,BSE 500 TRI,3.374778,17.0805,14.745932,120348,Invesco India Contra Fund - Direct Plan - Growth
+Contra,Kotak Contra Fund,Nifty 500 TRI,7.0948806,17.949934,16.198011,119769,Kotak Contra Fund - Direct Plan - Growth
+Contra,Motilal Oswal Contra Fund,Nifty 500 TRI,,,,154337,Motilal Oswal Contra Fund - Direct â Growth
+Dividend Yield,Aditya Birla Sun Life Dividend Yield Fund,Nifty 500 TRI,7.751272,15.495527,14.578495,119507,Aditya Birla Sun Life Dividend Yield Fund - Growth - Direct Plan
+Dividend Yield,Baroda BNP Paribas Dividend Yield Fund,Nifty 500 TRI,7.361139,,,152810,Baroda BNP Paribas Dividend Yield Fund - Direct Plan - Growth Option
+Dividend Yield,Franklin India Dividend Yield Fund,Nifty 500 TRI,3.410758,13.576993,13.719838,118527,Franklin India Dividend Yield Fund - Direct - Growth
+Dividend Yield,HDFC Dividend Yield Fund,Nifty 500 TRI,4.5933967,13.892767,15.962504,148609,HDFC Dividend Yield Fund - Growth Option Direct Plan
+Dividend Yield,ICICI Prudential Dividend Yield Equity Fund,Nifty 500 TRI,5.8171744,18.744339,19.102562,129312,ICICI Prudential Dividend Yield Equity Fund Direct Plan Growth Option
+Dividend Yield,Kotak Dividend Yield Fund,Nifty 500 TRI,,,,154097,Kotak Dividend Yield Fund - Direct - Growth
+Dividend Yield,LIC MF Dividend Yield Fund,Nifty 500 TRI,10.706564,20.82508,17.066637,152022,LIC MF Dividend Yield Fund-Direct Plan-Growth
+Dividend Yield,SBI Dividend Yield Fund,Nifty 500 TRI,9.319522,13.546365,,151478,SBI Dividend Yield Fund - Direct Plan - Growth
+Dividend Yield,Sundaram Dividend Yield Fund,Nifty 500 TRI,2.1487575,12.335528,11.388174,148947,Tata Dividend Yield Fund-Direct Plan-Growth
+Dividend Yield,Tata Dividend Yield Fund,Nifty 500 TRI,14.511916,16.742327,15.283534,148947,Tata Dividend Yield Fund-Direct Plan-Growth
+Dividend Yield,UTI Dividend Yield Fund,Nifty 500 TRI,4.3292036,15.505017,12.949129,120749,UTI-Dividend Yield Fund.-Growth-Direct
+Focused,360 ONE Focused Fund,BSE 500 TRI,8.125302,13.860805,13.055563,131580,360 ONE Focused Fund-Direct Plan-Growth
+Focused,Aditya Birla Sun Life Focused Fund,Nifty 500 TRI,9.890981,15.3202915,13.02694,119564,Aditya Birla Sun Life Focused Fund - Growth - Direct Plan
+Focused,Bandhan Focused Fund,BSE 500 TRI,3.904922,16.216661,13.246604,118421,Bandhan Focused Fund - Direct Plan - Growth
+Focused,Baroda BNP Paribas Focused Fund,Nifty 500 TRI,1.1132174,10.99533,11.162807,153795,Baroda BNP Paribas Gold ETF Fund of Funds Direct Growth
+Focused,Canara Robeco Focused Fund,BSE 500 TRI,2.9508197,15.457078,14.163699,148883,Canara Robeco Focused Fund - Direct Plan - Growth Option
+Focused,DSP Focused Fund,Nifty 500 TRI,5.935108,15.634492,11.848832,119096,DSP Focused Fund - Direct Plan - Growth
+Focused,Edelweiss Focused Fund,Nifty 500 TRI,7.107526,15.381645,,150376,Edelweiss Focused Fund - Direct Plan - Growth
+Focused,Franklin India Focused Equity Fund,Nifty 500 TRI,-2.9000185,10.407141,11.800021,118564,Franklin India Focused Equity Fund - Direct - Growth
+Focused,HDFC Focused Fund,Nifty 500 TRI,5.662632,17.927074,19.644497,148411,HSBC Focused Fund - Direct Growth
+Focused,HSBC Focused Fund,Nifty 500 TRI,10.57197,16.11828,12.697206,148411,HSBC Focused Fund - Direct Growth
+Focused,ICICI Prudential Focused Equity Fund,BSE 500 TRI,8.419029,19.148054,17.526218,120722,ICICI Prudential Focused Equity Fund - Direct Plan - Growth
+Focused,ITI Focused Fund,Nifty 500 TRI,12.228259,20.065731,,151777,ITI Focused Fund - Direct Plan - Growth
+Focused,Invesco India Focused Fund,BSE 500 TRI,4.4227643,23.54096,16.855846,148481,Invesco India Focused Fund - Direct Plan - Growth
+Focused,Kotak Focused Fund,Nifty 500 TRI,13.678629,17.175474,14.480533,147473,Kotak Focused Fund- Direct Plan- Growth option
+Focused,LIC MF Focused Fund,Nifty 500 TRI,7.2852683,11.25215,10.889102,152010,LIC MF Focused Fund-Direct Plan-Growth
+Focused,Mahindra Manulife Focused Fund,Nifty 500 TRI,5.7399144,16.372128,15.818893,148567,Mahindra Manulife Focused Fund - Direct Plan -Growth
+Focused,Mirae Asset Focused Fund,Nifty 500 TRI,-0.42128763,8.668413,7.897683,147206,Mirae Asset Focused Fund Direct Plan Growth
+Focused,Motilal Oswal Focused Fund,Nifty 500 TRI,22.5254,13.6389885,11.051924,122389,Motilal Oswal Focused Fund - Direct Plan Growth Option
+Focused,Old Bridge Focused Fund,BSE 500 TRI,23.706896,,,152358,Old Bridge Focused Fund - Direct Growth
+Focused,Quant Focused Fund,Nifty 500 TRI,13.866964,15.323016,14.164587,147757,Tata Focused Fund-Direct Plan-Growth
+Focused,SBI Focused Fund,BSE 500 TRI,17.759714,17.32147,14.060133,148411,HSBC Focused Fund - Direct Growth
+Focused,Sundaram Focused Fund,Nifty 500 TRI,7.3641887,12.094019,11.350759,150571,Sundaram Flexicap Fund Direct Growth
+Focused,Tata Focused Fund,Nifty 500 TRI,3.8323328,12.514248,12.051866,147757,Tata Focused Fund-Direct Plan-Growth
+Sectoral / Thematic,Aditya Birla Sun Life Banking & Financial Services Fund,Nifty Financial Services TRI,8.717795,12.362467,12.390711,125597,Aditya Birla Sun Life Banking and Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Aditya Birla Sun Life Business Cycle Fund,BSE 500 TRI,11.410256,14.563976,,149295,Aditya Birla Sun Life Business Cycle Fund-Direct Growth
+Sectoral / Thematic,Aditya Birla Sun Life Conglomerate Fund,BSE Select Business Groups Index TRI,9.297913,,,153124,Aditya Birla Sun Life Conglomerate Fund-Direct Growth
+Sectoral / Thematic,Aditya Birla Sun Life Consumption Fund,Nifty India Consumption TRI,0.1951775,11.284467,12.189354,119591,Aditya Birla Sun Life Consumption Fund - Growth - Direct Plan
+Sectoral / Thematic,Aditya Birla Sun Life Digital India Fund,BSE Teck TRI,-1.3080691,7.8300633,6.8086853,120539,Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan
+Sectoral / Thematic,Aditya Birla Sun Life ESG Integration Strategy Fund,Nifty 100 ESG TRI,6.9094806,13.504977,10.377145,148637,Aditya Birla Sun Life ESG Integration Strategy Fund-Direct Plan-Growth
+Sectoral / Thematic,Aditya Birla Sun Life Infrastructure Fund,Nifty Infrastructure TRI,15.955207,19.530521,18.889511,119514,Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan
+Sectoral / Thematic,Aditya Birla Sun Life International Equity Fund,S&P Global 1200 TRI,25.527117,19.983055,12.398876,119517,Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan
+Sectoral / Thematic,Aditya Birla Sun Life MNC Fund,Nifty MNC TRI,-1.1510677,9.715984,7.2480106,148921,Aditya Birla Sun Life Multi-Cap Fund-Direct Growth
+Sectoral / Thematic,Aditya Birla Sun Life Manufacturing Equity Fund,BSE India Manufacturing TRI,26.537683,22.3654,15.916559,133516,Aditya Birla Sun Life Manufacturing Equity Fund - Direct Plan - Growth
+Sectoral / Thematic,Aditya Birla Sun Life PSU Equity Fund,BSE PSU TRI,15.267395,24.399239,24.305025,147844,Aditya Birla Sun Life PSU Equity Fund-Direct Plan-Growth
+Sectoral / Thematic,Aditya Birla Sun Life Pharma & Healthcare Fund,BSE Healthcare TRI,19.547325,22.22373,14.923315,147409,Aditya Birla Sun Life Pharma and Healthcare Fund-Direct-Growth
+Sectoral / Thematic,Aditya Birla Sun Life Quant Fund,Nifty 200 TRI,13.17176,,,152684,Aditya Birla Sun Life Quant Fund - Direct Growth
+Sectoral / Thematic,Aditya Birla Sun Life Special Opportunities Fund,BSE 500 TRI,18.995052,20.879269,16.011292,148539,Aditya Birla Sun Life Special Opportunities Fund-Direct-Growth
+Sectoral / Thematic,Aditya Birla Sun Life Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,27.83286,,,152158,Aditya Birla Sun Life Transportation and Logistics Fund-Direct Growth
+Sectoral / Thematic,Axis Business Cycles Fund,Nifty 500 TRI,6.8275456,15.533669,,151368,Axis Business Cycles Fund - Direct Plan - Growth
+Sectoral / Thematic,Axis Consumption Fund,Nifty India Consumption TRI,2.4973986,,,152805,Axis Consumption Fund Direct Plan - Growth
+Sectoral / Thematic,Axis ESG Integration Strategy Fund,Nifty 100 ESG TRI,2.2153301,10.412482,8.107236,147928,Axis ESG Integration Strategy Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Axis India Manufacturing Fund,Nifty India Manufacturing TRI,19.044222,,,152202,Axis India Manufacturing Fund - Direct Plan - Growth
+Sectoral / Thematic,Axis Innovation Fund,Nifty 500 TRI,15.364983,17.751326,13.18933,148634,Axis Innovation Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Axis Quant Fund,BSE 200 TRI,8.06743,11.618896,11.292753,148993,Axis Quant Fund - Direct Plan - Growth
+Sectoral / Thematic,Axis Services Opportunities Fund,Nifty Services Sector TRI,3.8539553,,,153624,Axis Services Opportunities Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Bajaj Finserv Banking and Financial Services Fund,Nifty Financial Services TRI,,,,153937,Bajaj Finserv Banking and Financial Services Fund - Direct - Growth
+Sectoral / Thematic,Bajaj Finserv Consumption Fund,Nifty India Consumption TRI,1.008316,,,154204,Bajaj Finserv Low Duration Fund - Direct - Growth
+Sectoral / Thematic,Bajaj Finserv Healthcare Fund,BSE Healthcare TRI,20.5298,,,153206,Bajaj Finserv Gilt Fund - Direct - Growth
+Sectoral / Thematic,Bandhan Business Cycle Fund,Nifty 500 TRI,2.6626627,,,152878,Bandhan Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Bandhan Financial Services Fund,Nifty Financial Services TRI,6.6684537,17.287373,,153266,HSBC Financial Services Fund - Direct Growth
+Sectoral / Thematic,Bandhan Healthcare Fund,BSE Healthcare TRI,,,,153972,Bandhan Healthcare Fund - Direct Plan - Growth
+Sectoral / Thematic,Bandhan Infrastructure Fund,BSE India Infrastructure TRI,1.8469024,18.562376,17.803566,151040,HSBC Infrastructure Fund - Direct Growth
+Sectoral / Thematic,Bandhan Innovation Fund,Nifty 500 TRI,22.71921,,,152607,Bandhan Innovation Fund - Direct Plan - Growth
+Sectoral / Thematic,Bandhan Multi-Factor Fund,BSE 200 TRI,3.4669883,,,153722,Bandhan Multi-Factor Fund - Direct Plan - Growth
+Sectoral / Thematic,Bandhan Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,20.999783,22.946415,,153118,Kotak Transportation & Logistics Fund-Direct Growth
+Sectoral / Thematic,Bank of India Banking & Financial Services Fund,Nifty Financial Services TRI,,,,154093,Bank of India Banking & Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Bank of India Business Cycle Fund,Nifty 500 TRI,8.552631,,,152789,Bank of India Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Bank of India Consumption Fund,Nifty India Consumption TRI,7.6208177,,,153139,Bank of India Consumption Fund - Direct - Growth
+Sectoral / Thematic,Bank of India Manufacturing & Infrastructure Fund,BSE India Manufacturing Total Return Index (TRI) - 50% & BSE India Infrastructure,22.623604,24.844244,22.16904,119364,BANK OF INDIA Manufacturing & Infrastructure Fund-Direct Plan-Growth
+Sectoral / Thematic,Baroda BNP Paribas Banking and Financial Services Fund,Nifty Financial Services TRI,7.948217,15.7942705,13.481582,119333,Baroda BNP Paribas Banking and Financial Services Fund - Direct - Growth Option
+Sectoral / Thematic,Baroda BNP Paribas Business Conglomerates Fund,Nifty Conglomerate 50 Index,,,,153847,Baroda BNP Paribas Business Conglomerates Fund Direct Growth Option
+Sectoral / Thematic,Baroda BNP Paribas Business Cycle Fund,BSE 500 TRI,7.268324,14.824774,,149141,Baroda BNP Paribas Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Baroda BNP Paribas ESG Best-in-Class Strategy Fund,Nifty 100 ESG TRI,,,,154195,Baroda BNP Paribas Best-in-Class Strategy Fund - Direct - Growth Option
+Sectoral / Thematic,Baroda BNP Paribas Energy Opportunities Fund,Nifty Energy TRI,6.8399367,,,153225,Baroda BNP Paribas Energy Opportunities Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Baroda BNP Paribas Health and Wellness Fund,BSE Healthcare TRI,11.212731,,,153604,Baroda BNP Paribas Health and Wellness Fund Direct Growth
+Sectoral / Thematic,Baroda BNP Paribas India Consumption Fund,Nifty India Consumption TRI,1.9530766,12.791322,13.002968,143508,Baroda BNP Paribas Ultra Short Duration Fund- Direct Plan- Growth
+Sectoral / Thematic,Baroda BNP Paribas Innovation Fund,Nifty 500 TRI,14.194646,,,152470,Baroda BNP Paribas Innovation Fund Direct plan - Growth Option
+Sectoral / Thematic,Baroda BNP Paribas Manufacturing Fund,Nifty India Manufacturing TRI,18.15333,,,152697,Baroda BNP Paribas Manufacturing Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Canara Robeco Banking and Financial Services Fund,Nifty Financial Services TRI,,,,154250,Canara Robeco Banking and Financials Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Canara Robeco Infrastructure Fund,BSE India Infrastructure TRI,7.3377233,22.280626,21.51945,151040,HSBC Infrastructure Fund - Direct Growth
+Sectoral / Thematic,Canara Robeco Manufacturing Fund,Nifty India Manufacturing TRI,14.454976,,,152450,Canara Robeco Manufacturing Fund - Direct Plan - Growth Option
+Sectoral / Thematic,DSP Banking & Financial Services Fund,Nifty Financial Services TRI,17.726557,,,152206,DSP Banking & Financial Services Fund - Direct - Growth
+Sectoral / Thematic,DSP Business Cycle Fund,Nifty 500 TRI,8.555667,,,153121,DSP Business Cycle Fund - Direct - Growth
+Sectoral / Thematic,DSP Healthcare Fund,BSE Healthcare TRI,15.344844,21.274769,16.12289,145454,DSP Healthcare Fund - Direct Plan - Growth
+Sectoral / Thematic,DSP India T.I.G.E.R. Fund,BSE India Infrastructure TRI,18.250042,23.228893,22.8396,119247,DSP India T.I.G.E.R. Fund - Direct Plan - Growth
+Sectoral / Thematic,DSP Natural Resources and New Energy Fund,35% BSE Oil & Gas Index +30% BSE Metal Index + 35% MSCI World Energy 30% Buffer 10/40 Net Total Return,24.548855,21.712284,16.637419,119028,DSP Natural Resources and New Energy Fund - Direct Plan - Growth
+Sectoral / Thematic,Edelweiss Business Cycle Fund,Nifty 500 TRI,4.964785,,,152710,Edelweiss Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Edelweiss Consumption Fund,Nifty India Consumption TRI,4.850924,,,153214,Edelweiss Consumption Fund - Direct - Growth
+Sectoral / Thematic,Edelweiss Recently Listed IPO Fund,Nifty IPO TRI,21.555433,18.0953,13.013231,142388,Edelweiss Recently Listed IPO Fund Direct Plan Growth
+Sectoral / Thematic,Edelweiss Technology Fund,BSE Teck TRI,13.54621,,,152437,Edelweiss Technology Fund - Direct Plan - Growth
+Sectoral / Thematic,Franklin Asian Equity Fund,75% MSCI Asia (Ex-Japan) Standard Index + 25% Nifty 500 Index,43.63846,20.7718,8.946517,118559,Franklin Asian Equity Fund - Direct - Growth
+Sectoral / Thematic,Franklin Build India Fund,BSE India Infrastructure TRI,4.9420815,20.451637,20.765963,118557,Franklin Build India Fund - Direct - Growth
+Sectoral / Thematic,Franklin India Multi-Factor Fund,BSE 200 TRI,,,,153942,Franklin India Multi-Factor Fund- Direct- Growth
+Sectoral / Thematic,Franklin India Opportunities Fund,Nifty 500 TRI,7.539328,23.035187,19.731771,118539,Franklin India Opportunities Fund - Direct - Growth
+Sectoral / Thematic,Franklin India Technology Fund,BSE Teck TRI,-2.1647823,12.042101,9.659098,118537,Franklin India Technology Fund - Direct - Growth
+Sectoral / Thematic,Groww Banking & Financial Services Fund,Nifty Financial Services TRI,14.958196,,,152254,Groww Banking & Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,HDFC Banking and Financial Services Fund,Nifty Financial Services TRI,10.17188,14.31302,13.759097,134017,LIC MF Banking and Financial Services Fund-Direct Plan-Growth
+Sectoral / Thematic,HDFC Business Cycle Fund,Nifty 500 TRI,5.791379,12.6987705,,151142,HSBC Business Cycles Fund - Direct Growth
+Sectoral / Thematic,HDFC Consumption Fund,Nifty India Consumption TRI,-0.102165915,13.792568,,152032,HSBC Consumption Fund - Direct Growth
+Sectoral / Thematic,HDFC Housing Opportunities Fund,Nifty Housing TRI,-0.7365486,12.287559,12.905405,141924,HDFC Housing Opportunities Fund  - Growth Option - Direct Plan
+Sectoral / Thematic,HDFC Infrastructure Fund,BSE India Infrastructure TRI,1.5095206,17.722422,20.669027,151040,HSBC Infrastructure Fund - Direct Growth
+Sectoral / Thematic,HDFC Manufacturing Fund,Nifty India Manufacturing TRI,13.614937,,,152920,LIC MF Manufacturing Fund-Direct Plan-Growth
+Sectoral / Thematic,HDFC Pharma and Healthcare Fund,BSE Healthcare TRI,24.920671,,,152082,HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan
+Sectoral / Thematic,HDFC Technology Fund,BSE Teck TRI,-5.695639,,,152059,HDFC Technology Fund - Growth Option - Direct Plan
+Sectoral / Thematic,HDFC Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,22.566504,,,151901,HDFC Transportation and Logistics Fund - Growth Option - Direct Plan
+Sectoral / Thematic,HSBC Business Cycles Fund,Nifty 500 TRI,3.6717017,16.998951,16.586493,151142,HSBC Business Cycles Fund - Direct Growth
+Sectoral / Thematic,HSBC Consumption Fund,Nifty India Consumption TRI,5.8772073,,,152032,HSBC Consumption Fund - Direct Growth
+Sectoral / Thematic,HSBC Financial Services Fund,BSE Financial Services TRI,14.149109,,,153266,HSBC Financial Services Fund - Direct Growth
+Sectoral / Thematic,HSBC India Export Opportunities Fund,Nifty 500 TRI,20.84054,,,152829,HSBC India Export Opportunities Fund - Direct Growth
+Sectoral / Thematic,HSBC Infrastructure Fund,Nifty Infrastructure TRI,9.333107,17.448236,19.733212,151040,HSBC Infrastructure Fund - Direct Growth
+Sectoral / Thematic,Helios Financial Services Fund,Nifty Financial Services TRI,4.2534723,,,153266,HSBC Financial Services Fund - Direct Growth
+Sectoral / Thematic,ICICI Prudential Active Momentum Fund,Nifty 500 TRI,11.6,,,153684,ICICI Prudential Active Momentum Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Banking and Financial Services Fund,Nifty Financial Services TRI,0.3481288,10.894202,10.4099655,120244,ICICI Prudential Banking and Financial Services Fund - Direct Plan -  Growth
+Sectoral / Thematic,ICICI Prudential Bharat Consumption Fund,Nifty India Consumption TRI,4.0755835,12.874172,15.790537,146951,ICICI Prudential Bharat Consumption Fund - Direct Plan - Growth Option
+Sectoral / Thematic,ICICI Prudential Business Cycle Fund,Nifty 500 TRI,4.8828125,17.563017,17.643473,148651,ICICI Prudential Business Cycle Fund Direct Plan Growth
+Sectoral / Thematic,ICICI Prudential Commodities Fund,Nifty Commodities TRI,14.627775,18.471441,14.800173,147662,ICICI Prudential Commodities Fund - Direct Plan - Growth Option
+Sectoral / Thematic,ICICI Prudential Conglomerate Fund,BSE Select Business Groups Index,,,,153867,ICICI Prudential Conglomerate Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,0.21285653,14.185572,11.476092,148516,ICICI Prudential ESG Exclusionary Strategy Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Energy Opportunities Fund,Nifty Energy TRI,17.330677,,,153184,ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Equity Minimum Variance Fund,Nifty 50 TRI,4.789272,,,153070,ICICI Prudential Equity Minimum Variance Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Exports and Services Fund,BSE 500 TRI,7.5589657,16.845604,15.827706,120688,ICICI Prudential Exports & Services Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential FMCG Fund,Nifty FMCG TRI,-11.762039,-1.0687686,7.858116,120587,ICICI Prudential FMCG Fund - Direct Plan -  Growth
+Sectoral / Thematic,ICICI Prudential Housing Opportunities Fund,Nifty Housing TRI,3.2832499,13.995396,,153184,ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential India Opportunities Fund,Nifty 500 TRI,6.457516,17.34299,20.230515,153184,ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Infrastructure Fund,BSE India Infrastructure TRI,7.3906994,20.300013,23.704725,120621,ICICI Prudential Infrastructure Fund - Direct Plan -  Growth
+Sectoral / Thematic,ICICI Prudential Innovation Fund,Nifty 500 TRI,10.531972,20.892963,,151580,ICICI Prudential Innovation Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential MNC Fund,Nifty MNC TRI,14.6921015,13.665042,13.79919,120587,ICICI Prudential FMCG Fund - Direct Plan -  Growth
+Sectoral / Thematic,ICICI Prudential Manufacturing  Fund,Nifty India Manufacturing TRI,16.475607,23.230669,21.253853,148600,ICICI Prudential Quant Fund Direct Plan Growth
+Sectoral / Thematic,ICICI Prudential PSU Equity Fund,BSE PSU TRI,10.819828,24.03377,,150539,ICICI Prudential PSU Equity Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Quality Fund,Nifty 200 Quality 30 TRI,9.244533,,,153458,ICICI Prudential Quality Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Quant Fund,BSE 200 TRI,6.3471503,14.235269,12.341832,148600,ICICI Prudential Quant Fund Direct Plan Growth
+Sectoral / Thematic,ICICI Prudential Rural Opportunities Fund,Nifty Rural TRI,3.4019697,,,153184,ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,ICICI Prudential Technology Fund,BSE Teck TRI,-3.574081,9.249422,6.4956875,120594,ICICI Prudential Technology Fund - Direct Plan -  Growth
+Sectoral / Thematic,ICICI Prudential Transportation And Logistics Fund,Nifty Transportation & Logistics TRI,23.671995,25.97401,,153118,Kotak Transportation & Logistics Fund-Direct Growth
+Sectoral / Thematic,ICICI Prudential US Bluechip Equity Fund,S&P 500 International,21.631493,15.307391,12.817168,120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth
+Sectoral / Thematic,ITI Banking and Financial Services Fund,Nifty Financial Services TRI,12.466282,13.696578,,134017,LIC MF Banking and Financial Services Fund-Direct Plan-Growth
+Sectoral / Thematic,ITI Bharat Consumption Fund,Nifty India Consumption TRI,7.78421,,,153260,ITI Bharat Consumption Fund - Direct Plan - Growth
+Sectoral / Thematic,ITI Business Cycle Fund,Nifty 500 TRI,,,,154157,ITI Business Cycle Fund- Direct Plan- Growth
+Sectoral / Thematic,ITI Pharma & Healthcare Fund,NIFTY Healthcare TRI,12.438669,20.118195,,135810,Tata India Pharma & Healthcare Fund-Direct Plan-Growth
+Sectoral / Thematic,Invesco India Business Cycle Fund,Nifty 500 TRI,18.290735,,,153291,Invesco India Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India Consumption Fund,Nifty India Consumption TRI,,,,153900,Invesco India Consumption Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India ESG Integration Strategy Fund,Nifty 100 ESG TRI,2.1516945,11.639067,9.664032,148751,Invesco India ESG Integration Strategy Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India Financial Services Fund,Nifty Financial Services TRI,10.208603,19.671091,15.4257145,120385,Invesco India Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India Infrastructure Fund,BSE India Infrastructure TRI,9.476828,22.906307,20.797007,120405,Invesco India Infrastructure Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Invesco India Manufacturing Fund,Nifty India Manufacturing TRI,16.68274,,,152756,Invesco India Manufacturing Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India PSU Equity Fund,BSE PSU TRI,6.896083,23.248507,22.162092,120395,Invesco India PSU Equity Fund - Direct Plan - Growth
+Sectoral / Thematic,Invesco India Technology Fund,Nifty IT TRI,6.6736183,,,152863,Invesco India Technology Fund - Direct Plan - Growth
+Sectoral / Thematic,JioBlackRock Sector Rotation Fund,Nifty 500 TRI,,,,154082,JioBlackRock Sector Rotation Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Kotak Active Momentum Fund,Nifty 500 TRI,,,,153364,Motilal Oswal Active Momentum Fund- Direct-Growth
+Sectoral / Thematic,Kotak Banking & Financial Services Fund,Nifty Financial Services TRI,11.313312,14.97266,,151384,Kotak Banking & Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Kotak Business Cycle Fund,Nifty 500 TRI,9.86632,17.704145,,149071,Tata Business Cycle Fund-Direct Plan-Growth
+Sectoral / Thematic,Kotak Consumption Fund,Nifty India Consumption TRI,7.287392,,,153913,Motilal Oswal Consumption Fund-Direct-Growth
+Sectoral / Thematic,Kotak ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,4.1698713,12.048911,9.497378,148606,Kotak ESG Exclusionary Strategy Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Kotak Energy Opportunities Fund,Nifty Energy TRI,9.22007,,,153447,Kotak Energy Opportunities Fund-Direct-Growth
+Sectoral / Thematic,Kotak Healthcare Fund,NIFTY Healthcare TRI,23.632338,,,152214,Kotak Healthcare Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Kotak Infrastructure and Economic Reform Fund,Nifty Infrastructure TRI,9.986875,17.65258,20.02005,133801,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Growth Option
+Sectoral / Thematic,Kotak MNC Fund,Nifty MNC TRI,26.130703,,,152910,Kotak MNC Fund-Direct Plan-Growth
+Sectoral / Thematic,Kotak Manufacture In India Fund,Nifty India Manufacturing TRI,21.752033,21.618626,,149841,Kotak Manufacture in India Fund - Direct Plan Growth
+Sectoral / Thematic,Kotak Rural Opportunities Fund,Nifty Rural TRI,,,,153970,Kotak Rural Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,Kotak Services Fund,Nifty Services Sector TRI,,,,154149,Kotak Services Fund - Direct - Growth
+Sectoral / Thematic,Kotak Special Opportunities Fund,Nifty 500 TRI,19.613173,,,152702,Kotak Special Opportunities Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Kotak Technology Fund,BSE Teck TRI,-4.0136414,,,152462,Kotak Technology Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Kotak Transportation & Logistics Fund,Nifty Transportation & Logistics TRI,14.236723,,,153118,Kotak Transportation & Logistics Fund-Direct Growth
+Sectoral / Thematic,LIC MF Banking & Financial Services Fund,Nifty Financial Services TRI,7.1393094,9.509838,10.666452,134017,LIC MF Banking and Financial Services Fund-Direct Plan-Growth
+Sectoral / Thematic,LIC MF Consumption Fund,Nifty India Consumption TRI,,,,153948,LIC MF Consumption Fund-Direct Plan-Growth
+Sectoral / Thematic,LIC MF Healthcare Fund,BSE Healthcare TRI,14.79047,21.462778,12.5551605,152024,LIC MF Healthcare Fund-Direct Plan-Growth
+Sectoral / Thematic,LIC MF Infrastructure Fund,Nifty Infrastructure TRI,14.1807575,26.610023,23.887768,120351,LIC MF Infrastructure Fund-Direct Plan-Growth
+Sectoral / Thematic,LIC MF Manufacturing Fund,Nifty India Manufacturing TRI,20.141247,,,152920,LIC MF Manufacturing Fund-Direct Plan-Growth
+Sectoral / Thematic,LIC MF Technology Fund,BSE Teck TRI,,,,154244,LIC MF Technology Fund-Direct Plan-Growth
+Sectoral / Thematic,Mahindra Manulife Banking & Financial Services Fund,Nifty Financial Services TRI,12.8006525,,,153674,Mahindra Manulife Banking & Financial Services Fund - Direct - Growth
+Sectoral / Thematic,Mahindra Manulife Business Cycle Fund,Nifty 500 TRI,13.34937,,,152045,Mahindra Manulife Business Cycle Fund - Direct Plan - Growth
+Sectoral / Thematic,Mahindra Manulife Consumption Fund,Nifty India Consumption TRI,2.0782247,12.852317,12.981808,145356,Mahindra Manulife Consumption Fund - Direct Plan -Growth
+Sectoral / Thematic,Mahindra Manulife Innovation Opportunities Fund,Nifty 500 TRI,,,,154121,Mahindra Manulife Innovation Opportunities Fund - Direct - Growth
+Sectoral / Thematic,Mahindra Manulife Manufacturing Fund,Nifty India Manufacturing TRI,12.507495,,,152672,Mahindra Manulife Manufacturing Fund - Direct Plan - Growth
+Sectoral / Thematic,Mirae Asset Banking and Financial Services Fund,Nifty Financial Services TRI,8.456303,14.329566,14.132442,148623,Mirae Asset Banking and Financial Services Fund Direct Growth
+Sectoral / Thematic,Mirae Asset Great Consumer Fund,Nifty India Consumption TRI,4.382883,13.468886,15.164508,118837,Mirae Asset Great Consumer Fund - Direct Plan - Growth
+Sectoral / Thematic,Mirae Asset Healthcare Fund,BSE Healthcare TRI,20.065191,23.396412,15.904072,143783,Mirae Asset Healthcare Fund Direct Growth
+Sectoral / Thematic,Mirae Asset Infrastructure Fund,BSE India Infrastructure TRI,,,,153983,Mirae Asset Infrastructure Fund - Direct Plan - Growth
+Sectoral / Thematic,Motilal Oswal Active Momentum Fund,Nifty 500 TRI,26.82248,,,153364,Motilal Oswal Active Momentum Fund- Direct-Growth
+Sectoral / Thematic,Motilal Oswal Business Cycle Fund,Nifty 500 TRI,1.3760892,,,152796,Motilal Oswal Business Cycle Fund - Direct Plan- Growth
+Sectoral / Thematic,Motilal Oswal Consumption Fund,Nifty India Consumption TRI,,,,153913,Motilal Oswal Consumption Fund-Direct-Growth
+Sectoral / Thematic,Motilal Oswal Digital India Fund,BSE Teck TRI,3.4455569,,,152964,Motilal Oswal Digital India Fund - Direct Plan - Growth
+Sectoral / Thematic,Motilal Oswal Financial Services Fund,Nifty Financial Services TRI,,,,154142,Motilal Oswal Financial Services Fund- Direct Growth
+Sectoral / Thematic,Motilal Oswal Infrastructure Fund,Nifty Infrastructure TRI,9.852622,,,153484,Motilal Oswal Infrastructure Fund-Direct-Growth
+Sectoral / Thematic,Motilal Oswal Innovation Opportunities Fund,Nifty 500 TRI,17.665005,,,153258,Motilal Oswal Innovation Opportunities Fund - Direct Plan- Growth
+Sectoral / Thematic,Motilal Oswal Manufacturing Fund,Nifty India Manufacturing TRI,5.6188493,,,152760,Motilal Oswal Manufacturing Fund - Direct Plan- Growth
+Sectoral / Thematic,Motilal Oswal Quant Fund,Nifty 200 TRI,3.8319366,,,152694,Motilal Oswal Quant Fund - Direct - Growth
+Sectoral / Thematic,Motilal Oswal Services Fund,Nifty Services Sector TRI,15.9261055,,,153558,Motilal Oswal Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Motilal Oswal Special Opportunities Fund,Nifty 500 TRI,,,,153749,Motilal Oswal Special Opportunities Fund - Direct - Growth
+Sectoral / Thematic,Nippon India Active Momentum Fund,Nifty 500 TRI,15.927121,,,153274,Nippon India Active Momentum Fund-Direct Plan - Growth Option
+Sectoral / Thematic,Nippon India Banking & Financial Services Fund,Nifty Financial Services TRI,6.354632,13.827928,14.2693615,154093,Bank of India Banking & Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Nippon India Consumption Fund,Nifty India Consumption TRI,2.3532157,12.813568,15.284641,118722,Nippon India Consumption Fund - Direct Plan Growth Plan - Bonus
+Sectoral / Thematic,Nippon India Innovation Fund,Nifty 500 TRI,7.639455,,,152033,Nippon India Innovation Fund-Direct Plan-Growth Option
+Sectoral / Thematic,Nippon India Japan Equity Fund,S&P Japan 500 TRI,35.313293,21.481298,11.674102,149329,Nippon India Taiwan Equity Fund- Direct Plan- Growth Option
+Sectoral / Thematic,Nippon India MNC Fund,Nifty MNC TRI,13.068056,,,153693,Nippon India MNC Fund- Direct Plan- Growth Option
+Sectoral / Thematic,Nippon India Power & Infra Fund,Nifty Infrastructure TRI,14.086157,21.956844,23.060425,118762,Nippon India Power & Infra Fund - Direct Plan Growth Plan - Bonus Option
+Sectoral / Thematic,Nippon India Taiwan Equity Fund,Taiwan Capitalization Weighted Stock Index,140.27438,57.592007,,149329,Nippon India Taiwan Equity Fund- Direct Plan- Growth Option
+Sectoral / Thematic,Nippon India US Equity Opportunities Fund,S&P 500 TRI,20.627758,18.993738,12.169956,134923,Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option
+Sectoral / Thematic,PGIM India Healthcare Fund,BSE Healthcare TRI,23.06163,,,153039,PGIM India Healthcare Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Quant Business Cycle Fund,Nifty 500 TRI,9.200841,16.37819,,149071,Tata Business Cycle Fund-Direct Plan-Growth
+Sectoral / Thematic,Quant Commodities Fund,Nifty Commodities TRI,18.579943,,,152255,quant Commodities Fund - Growth Option - Direct Plan
+Sectoral / Thematic,Quant Consumption Fund,Nifty India Consumption TRI,2.9464521,,,152032,HSBC Consumption Fund - Direct Growth
+Sectoral / Thematic,Quant ESG Integration Strategy Fund,Nifty 100 ESG TRI,25.319239,18.68547,20.10272,148564,quant ESG Integration Strategy Fund - Growth Option - Direct Plan
+Sectoral / Thematic,Quant Healthcare Fund,NIFTY Healthcare TRI,19.929401,21.431335,,143783,Mirae Asset Healthcare Fund Direct Growth
+Sectoral / Thematic,Quant Infrastructure Fund,Nifty Infrastructure TRI,13.815574,19.694677,20.027452,120833,quant Infrastructure Fund - Growth Option-Direct Plan
+Sectoral / Thematic,Quant Manufacturing Fund,Nifty India Manufacturing TRI,20.795855,,,151916,quant Manufacturing Fund - Growth Option - Direct Plan
+Sectoral / Thematic,Quant Quantamental Fund,Nifty 200 TRI,15.726214,17.954153,19.927696,148925,quant Quantamental Fund - Growth Option - Direct Plan
+Sectoral / Thematic,Quantum ESG Best In Class Strategy Fund,Nifty 100 ESG TRI,1.8246727,10.64583,9.223166,152962,WhiteOak Capital ESG Best-In-Class Strategy Fund Direct Plan Growth
+Sectoral / Thematic,Quantum Ethical Fund,Nifty 500 Shariah TRI,4.646465,,,153094,Quantum Ethical Fund - Direct Plan Growth Option
+Sectoral / Thematic,SBI Automotive Opportunities Fund,Nifty Auto TRI,38.779125,,,152657,SBI Automotive Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Banking & Financial Services Fund,Nifty Financial Services TRI,6.4009705,17.197172,13.684119,152206,DSP Banking & Financial Services Fund - Direct - Growth
+Sectoral / Thematic,SBI Consumption Opportunities Fund,Nifty India Consumption TRI,-2.7670166,9.041417,14.371739,154161,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth
+Sectoral / Thematic,SBI ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,5.4751425,11.492353,10.582142,119709,SBI ESG Exclusionary Strategy Fund - Direct Plan -Growth
+Sectoral / Thematic,SBI Energy Opportunities Fund,Nifty Energy TRI,9.066466,,,152417,SBI Energy Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Equity Minimum Variance Fund,Nifty 50 TRI,4.617028,9.657987,10.99034,146643,SBI Equity Minimum Variance Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Healthcare Opportunities Fund,BSE Healthcare TRI,20.509956,24.500591,18.245487,152417,SBI Energy Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Infrastructure Fund,Nifty Infrastructure TRI,8.220023,16.820591,18.328531,151040,HSBC Infrastructure Fund - Direct Growth
+Sectoral / Thematic,SBI Innovative Opportunities Fund,Nifty 500 TRI,12.525925,,,152776,SBI Innovative Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Quality Fund,Nifty 200 Quality 30 TRI,,,,154177,SBI Quality Fund - Direct Plan - Growth
+Sectoral / Thematic,SBI Quant Fund,BSE 200 TRI,7.529558,,,153154,SBI Quant Fund- Direct Plan- Growth
+Sectoral / Thematic,SBI Technology Opportunities Fund,BSE Teck TRI,-1.1954584,11.8041115,9.648334,152417,SBI Energy Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,Samco Active Momentum Fund,Nifty 500 TRI,5.882353,14.970695,,151753,Samco Active Momentum Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Samco Special Opportunities Fund,Nifty 500 TRI,1.010101,,,152586,Samco Special Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,Shriram Multi Sector Rotation Fund,Nifty 500 TRI,10.167356,,,153076,Shriram Multi Sector Rotation Fund - Direct Plan Growth Option
+Sectoral / Thematic,Sundaram Business Cycle Fund,Nifty 500 TRI,7.201198,,,152677,Sundaram Business Cycle Fund Direct Plan Growth
+Sectoral / Thematic,Sundaram Consumption Fund,Nifty India Consumption TRI,1.1210341,12.816109,13.208715,152032,HSBC Consumption Fund - Direct Growth
+Sectoral / Thematic,Sundaram Financial Services Opportunities Fund,Nifty Financial Services TRI,9.891984,14.94635,15.2023115,119597,Sundaram Financial Services Opportunities Fund Direct Plan - Growth
+Sectoral / Thematic,Sundaram Infrastructure Advantage Fund,Nifty Infrastructure TRI,9.077034,18.612322,17.418678,129212,Sundaram Infrastructure Advantage Fund Direct Plan - Growth
+Sectoral / Thematic,Sundaram Multi-Factor Fund,BSE 200 TRI,0.23335129,,,153669,Sundaram Multi-Factor Fund - Direct - Growth
+Sectoral / Thematic,Sundaram Services Fund,Nifty Services Sector TRI,8.953495,16.6154,15.664921,144835,Sundaram Services Fund Direct Plan - Growth
+Sectoral / Thematic,Tata Banking And Financial Services Fund,Nifty Financial Services TRI,6.7921305,13.4001665,13.429786,135793,Tata Banking And Financial Services Fund-Direct Plan-Growth
+Sectoral / Thematic,Tata Business Cycle Fund,Nifty 500 TRI,5.650245,14.956129,15.903146,149071,Tata Business Cycle Fund-Direct Plan-Growth
+Sectoral / Thematic,Tata Digital India Fund,Nifty IT TRI,-4.957667,8.635025,6.986731,135800,Tata Digital India Fund-Direct Plan-Growth
+Sectoral / Thematic,Tata Housing Opportunities Fund,Nifty Housing TRI,2.94713,10.442859,,150532,Tata Housing Opportunities Fund - Direct Plan - Growth
+Sectoral / Thematic,Tata India Consumer Fund,Nifty India Consumption TRI,9.522886,17.096151,16.028675,135805,Tata India Consumer Fund-Direct Plan-Growth
+Sectoral / Thematic,Tata India Innovation Fund,Nifty 500 TRI,7.693639,,,153055,Tata India Innovation Fund- Direct Growth
+Sectoral / Thematic,Tata India Pharma & Heathcare Fund,BSE Healthcare TRI,12.556126,20.541567,15.354476,135810,Tata India Pharma & Healthcare Fund-Direct Plan-Growth
+Sectoral / Thematic,Tata Infrastructure Fund,BSE India Infrastructure TRI,8.831516,15.538416,18.221497,119243,Tata Infrastructure Fund -Direct Plan -Growth Option
+Sectoral / Thematic,Tata Resources & Energy Fund,Nifty Commodities TRI,11.440284,18.30316,13.5912695,135813,Tata Resources & Energy Fund-Direct Plan-Growth
+Sectoral / Thematic,Taurus Banking and Financial Services Fund,BSE BANKEX TRI,1.5923567,9.659086,10.821189,118868,Taurus Banking & Financial Services Fund - Direct Plan - Growth
+Sectoral / Thematic,Taurus Ethical Fund,BSE 500 Shariah TRI,6.8071775,13.137109,11.188511,118876,Taurus Ethical Fund - Direct Plan - Growth
+Sectoral / Thematic,Taurus Infrastructure Fund,Nifty Infrastructure TRI,-1.9316909,12.426738,11.905366,118879,Taurus Infrastructure Fund - Direct Plan - Growth 
+Sectoral / Thematic,The Wealth Company Ethical Fund,Nifty 500 Shariah TRI,,,,154269,The Wealth Company Small Cap Fund- Direct-Growth
+Sectoral / Thematic,UTI Banking and Financial Services Fund,Nifty Financial Services TRI,8.245495,14.570979,13.076213,134017,LIC MF Banking and Financial Services Fund-Direct Plan-Growth
+Sectoral / Thematic,UTI Healthcare Fund,BSE Healthcare TRI,17.281536,24.449532,16.019382,152024,LIC MF Healthcare Fund-Direct Plan-Growth
+Sectoral / Thematic,UTI India Consumer Fund,Nifty India Consumption TRI,6.3076515,13.1803665,11.436027,135805,Tata India Consumer Fund-Direct Plan-Growth
+Sectoral / Thematic,UTI Infrastructure Fund,Nifty Infrastructure TRI,5.304281,15.748974,14.908383,120728,UTI Infrastructure Fund-Growth Option- Direct
+Sectoral / Thematic,UTI Innovation Fund,Nifty 500 TRI,1.3469892,,,153055,Tata India Innovation Fund- Direct Growth
+Sectoral / Thematic,UTI Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,16.945698,21.650002,21.804405,120731,UTI-Transportation and Logistics  Fund-Growth Option- Direct
+Sectoral / Thematic,Union Active Momentum Fund,Nifty 500 TRI,14.466131,,,153109,Union Active Momentum Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Union Business Cycle Fund,Nifty 500 TRI,8.888889,,,152409,Union Business Cycle Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Union Consumption Fund,Nifty India Consumption TRI,,,,154020,Union Consumption Fund - Direct Plan - Growth Option
+Sectoral / Thematic,Union Innovation & Opportunities Fund,Nifty 500 TRI,15.592516,,,151905,Union Innovation & Opportunities Fund - Direct Plan - Growth Option
+Sectoral / Thematic,WhiteOak Capital Banking & Financial Services Fund,Nifty Financial Services TRI,10.170709,,,152321,WhiteOak Capital Banking & Financial Services Fund - Direct Growth
+Sectoral / Thematic,WhiteOak Capital Consumption Opportunities Fund,Nifty India Consumption TRI,,,,154161,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth
+Sectoral / Thematic,WhiteOak Capital Digital Bharat Fund,BSE Teck TRI,3.974794,,,152915,WhiteOak Capital Digital Bharat Fund Direct Plan Growth
+Sectoral / Thematic,WhiteOak Capital ESG Best-In-Class Strategy Fund,Nifty 100 ESG TRI,1.7773976,,,152962,WhiteOak Capital ESG Best-In-Class Strategy Fund Direct Plan Growth
+Sectoral / Thematic,WhiteOak Capital Pharma and Healthcare Fund,BSE Healthcare TRI,22.18627,,,152349,WhiteOak Capital Pharma and Heathcare Fund Direct Plan Growth
+Sectoral / Thematic,WhiteOak Capital Quality Equity Fund,BSE Quality TRI,4.406423,,,153189,WhiteOak Capital Quality Equity Fund Direct Plan Growth
+Sectoral / Thematic,WhiteOak Capital Special Opportunities Fund,BSE 500 TRI,16.112043,,,152644,WhiteOak Capital Special Opportunities Fund - Direct Growth

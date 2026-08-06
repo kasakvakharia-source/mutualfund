@@ -1,0 +1,566 @@
+category,scheme_name,benchmark,return_1y_direct,return_3y_direct,return_5y_direct
+Large Cap,Aditya Birla Sun Life Large Cap Fund,Nifty 100 TRI,2.6996078,12.010591,11.359624
+Large Cap,Axis Large Cap Fund,BSE 100 TRI,3.8791225,11.113536,8.205929
+Large Cap,Bajaj Finserv Large Cap Fund,Nifty 100 TRI,7.990706,,
+Large Cap,Bandhan Large Cap Fund,BSE 100 TRI,6.107637,14.7437525,12.7151375
+Large Cap,Bank of India Large Cap Fund,Nifty 100 TRI,9.046752,14.485656,11.518053
+Large Cap,Baroda BNP Paribas Large Cap Fund,Nifty 100 TRI,4.608397,13.603746,12.552807
+Large Cap,Canara Robeco Large Cap Fund,BSE 100 TRI,2.0766995,12.485195,11.184874
+Large Cap,DSP Large Cap Fund,Nifty 100 TRI,1.3211526,12.99074,10.942993
+Large Cap,Edelweiss Large Cap Fund,Nifty 100 TRI,4.676259,12.159204,11.989546
+Large Cap,Franklin India Large Cap Fund,Nifty 100 TRI,3.9664516,11.891292,9.9013815
+Large Cap,Groww Large Cap Fund,Nifty 100 TRI,4.6571035,12.946174,11.317414
+Large Cap,HDFC Large Cap Fund,Nifty 100 TRI,3.487861,11.637964,13.076533
+Large Cap,HSBC Large Cap Fund,Nifty 100 TRI,5.437217,12.392437,11.183526
+Large Cap,ICICI Prudential Large Cap Fund,Nifty 100 TRI,2.0788112,13.4486475,13.427354
+Large Cap,ITI Large Cap Fund,Nifty 100 TRI,4.083846,12.102435,10.728799
+Large Cap,Invesco India Largecap Fund,Nifty 100 TRI,9.054351,15.997203,13.4926605
+Large Cap,JM Large Cap Fund,BSE 100 TRI,6.3718705,13.250659,12.545097
+Large Cap,JioBlackRock Large Cap Fund,BSE 100 TRI,,,
+Large Cap,Kotak Large Cap Fund,Nifty 100 TRI,3.597357,12.723216,11.593302
+Large Cap,LIC MF Large Cap Fund,Nifty 100 TRI,0.6520451,9.965432,9.185772
+Large Cap,Mahindra Manulife Large Cap Fund,Nifty 100 TRI,1.3219029,11.323349,10.901046
+Large Cap,Mirae Asset Large Cap Fund,Nifty 100 TRI,3.7846737,10.780949,10.182194
+Large Cap,Motilal Oswal Large Cap Fund,Nifty 100 TRI,1.9827279,,
+Large Cap,Nippon India Large Cap Fund,BSE 100 TRI,2.929842,13.694688,15.6171465
+Large Cap,PGIM India Large Cap Fund,Nifty 100 TRI,2.2741487,9.398256,8.813879
+Large Cap,Parag Parikh Large Cap Fund,Nifty 100 TRI,,,
+Large Cap,Quant Large Cap Fund,Nifty 100 TRI,11.04862,15.631605,
+Large Cap,SBI Large Cap Fund,BSE 100 TRI,4.458567,11.087264,11.227901
+Large Cap,Samco Large Cap Fund,Nifty 100 TRI,-5.995935,,
+Large Cap,Sundaram Large Cap Fund,Nifty 100 TRI,3.6135037,9.951771,10.271392
+Large Cap,Tata Large Cap Fund,Nifty 100 TRI,6.923592,12.559025,11.808255
+Large Cap,Taurus Large Cap Fund,BSE 100 TRI,9.080943,14.71559,11.430261
+Large Cap,UTI Large Cap Fund,BSE 100 TRI,1.0127494,9.546957,9.077422
+Large Cap,Union Largecap Fund,BSE 100 TRI,2.144013,9.905182,9.603362
+Large Cap,WhiteOak Capital Large Cap Fund,BSE 100 TRI,5.5693393,15.42542,
+Large & Mid Cap,Aditya Birla Sun Life Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.498162,13.633653,9.767877
+Large & Mid Cap,Axis Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,10.022396,17.26584,14.026669
+Large & Mid Cap,Bajaj Finserv Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.040704,,
+Large & Mid Cap,Bandhan Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,8.693505,20.285187,17.887365
+Large & Mid Cap,Bank of India Large & Mid Cap Fund,BSE 250 Large MidCap TRI,10.931626,15.690526,13.108636
+Large & Mid Cap,Baroda BNP Paribas Large and Mid Cap Fund,BSE 250 Large MidCap TRI,7.229664,16.015516,14.934144
+Large & Mid Cap,Canara Robeco Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,3.4641638,14.964186,12.681723
+Large & Mid Cap,DSP Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,5.456703,16.48589,13.576731
+Large & Mid Cap,Edelweiss Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,8.773587,16.680231,14.595
+Large & Mid Cap,Franklin India Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,4.4807763,13.816968,11.88674
+Large & Mid Cap,HDFC Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.6962004,15.831812,16.543312
+Large & Mid Cap,HSBC Large & Midcap Fund,Nifty LargeMidcap 250 TRI,14.526899,20.021097,16.73856
+Large & Mid Cap,Helios Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.559513,,
+Large & Mid Cap,ICICI Prudential Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,10.47572,18.350084,18.361317
+Large & Mid Cap,ITI Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,7.385136,,
+Large & Mid Cap,Invesco India Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,12.852083,25.288263,18.759762
+Large & Mid Cap,JM Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.865991,,
+Large & Mid Cap,Kotak Large & Midcap Fund,Nifty LargeMidcap 250 TRI,7.829439,16.18331,15.25643
+Large & Mid Cap,LIC MF Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,5.566173,16.51802,13.846334
+Large & Mid Cap,Mahindra Manulife Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.607717,14.682247,14.477961
+Large & Mid Cap,Mirae Asset Large & Midcap Fund,Nifty LargeMidcap 250 TRI,9.392854,14.735789,12.625784
+Large & Mid Cap,Motilal Oswal Large and Midcap Fund,Nifty LargeMidcap 250 TRI,9.117998,23.40173,19.372725
+Large & Mid Cap,Navi Large & Midcap Fund,Nifty LargeMidcap 250 TRI,8.767521,12.243017,12.963783
+Large & Mid Cap,Nippon India Vision Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,6.5688043,17.440392,15.18518
+Large & Mid Cap,PGIM India Large and Midcap Fund,Nifty LargeMidcap 250 TRI,4.7619047,,
+Large & Mid Cap,Quant Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,14.173263,17.883347,17.53297
+Large & Mid Cap,SBI Large & Midcap Fund,Nifty LargeMidcap 250 TRI,8.948504,15.345731,15.080483
+Large & Mid Cap,Samco Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,-5.6133056,,
+Large & Mid Cap,Sundaram Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,12.907133,16.5045,14.1083765
+Large & Mid Cap,Tata Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,-1.0271806,9.526889,11.564593
+Large & Mid Cap,The Wealth Company Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,,,
+Large & Mid Cap,UTI Large & Mid Cap Fund,Nifty LargeMidcap 250 TRI,7.763968,17.699444,15.621265
+Large & Mid Cap,Union Large and Mid Cap Fund,Nifty LargeMidcap 250 TRI,9.848764,14.835892,13.913605
+Large & Mid Cap,WhiteOak Capital Large & Mid Cap Fund,BSE 250 Large MidCap TRI,10.679611,,
+Flexi Cap,360 ONE Flexicap Fund,BSE 500 TRI,11.871561,19.11727,
+Flexi Cap,Abakkus Flexi Cap Fund,BSE 500 TRI,,,
+Flexi Cap,Aditya Birla Sun Life Flexi Cap Fund,Nifty 500 TRI,13.544871,17.30301,13.567915
+Flexi Cap,Axis Flexi Cap Fund,Nifty 500 TRI,7.613868,15.167935,10.862657
+Flexi Cap,Bajaj Finserv Flexi Cap Fund,BSE 500 TRI,10.823466,,
+Flexi Cap,Bandhan Flexi Cap Fund,BSE 500 TRI,5.3405476,14.089101,11.722816
+Flexi Cap,Bank of India Flexi Cap Fund,BSE 500 TRI,15.05876,21.460608,17.4986
+Flexi Cap,Baroda BNP Paribas Flexi Cap Fund,Nifty 500 TRI,6.5291543,14.834446,
+Flexi Cap,Canara Robeco Flexi Cap Fund,BSE 500 TRI,4.224242,13.6780815,11.845559
+Flexi Cap,Capitalmind Flexi Cap Fund,Nifty 500 TRI,,,
+Flexi Cap,DSP Flexi Cap Fund,Nifty 500 TRI,6.2861786,14.191664,11.598366
+Flexi Cap,Edelweiss Flexi Cap Fund,Nifty 500 TRI,7.6287804,16.750399,14.544862
+Flexi Cap,Franklin India Flexi Cap Fund,Nifty 500 TRI,1.8434355,13.76654,14.009911
+Flexi Cap,HDFC Flexi Cap Fund,Nifty 500 TRI,7.1682253,18.010368,18.652363
+Flexi Cap,HSBC Flexi Cap Fund,Nifty 500 TRI,8.430476,17.323725,15.017803
+Flexi Cap,Helios Flexi Cap Fund,Nifty 500 TRI,10.958904,,
+Flexi Cap,ICICI Prudential Flexicap Fund,BSE 500 TRI,14.586543,18.870047,16.957426
+Flexi Cap,ITI Flexi Cap Fund,Nifty 500 TRI,14.285404,20.192522,
+Flexi Cap,Invesco India Flexi Cap Fund,BSE 500 TRI,5.9529767,20.409416,
+Flexi Cap,JM Flexi Cap Fund,BSE 500 TRI,6.3875375,17.156593,17.595182
+Flexi Cap,JioBlackRock Flexi Cap Fund,Nifty 500 TRI,,,
+Flexi Cap,Kotak Flexi Cap Fund,Nifty 500 TRI,3.9417138,13.934468,12.343134
+Flexi Cap,LIC MF Flexi Cap Fund,Nifty 500 TRI,12.410451,13.636953,12.1438055
+Flexi Cap,Mahindra Manulife Flexi Cap Fund,Nifty 500 TRI,2.6544716,12.519261,
+Flexi Cap,Mirae Asset Flexi Cap Fund,Nifty 500 TRI,6.7609477,13.834738,
+Flexi Cap,Motilal Oswal Flexi Cap Fund,Nifty 500 TRI,1.6556988,19.952084,13.391606
+Flexi Cap,NJ Flexi Cap Fund,Nifty 500 TRI,1.6715117,,
+Flexi Cap,Navi Flexi Cap Fund,Nifty 500 TRI,15.651477,13.4931345,13.3052225
+Flexi Cap,Nippon India Flexi Cap Fund,Nifty 500 TRI,5.097072,13.1555395,
+Flexi Cap,Old Bridge Flexi Cap Fund,BSE 500 TRI,,,
+Flexi Cap,PGIM India Flexi Cap Fund,Nifty 500 TRI,4.9479165,11.898118,9.752585
+Flexi Cap,Parag Parikh Flexi Cap Fund,Nifty 500 TRI,1.4427521,14.952118,13.774447
+Flexi Cap,Quant Flexi Cap Fund,Nifty 500 TRI,16.81438,18.051073,16.007605
+Flexi Cap,SBI Flexi Cap Fund,BSE 500 TRI,3.2466211,9.857216,9.709212
+Flexi Cap,Samco Flexi Cap Fund,Nifty 500 TRI,-4.0256176,-0.59547615,
+Flexi Cap,Shriram Flexi Cap Fund,Nifty 500 TRI,3.32238,10.360156,9.741745
+Flexi Cap,Sundaram Flexi Cap Fund,Nifty 500 TRI,1.3789023,11.358181,
+Flexi Cap,TRUSTMF Flexi Cap Fund,Nifty 500 TRI,11.568799,,
+Flexi Cap,Tata Flexi Cap Fund,Nifty 500 TRI,1.8848647,12.632322,11.284563
+Flexi Cap,Taurus Flexi Cap Fund,BSE 500 TRI,9.05007,13.368748,11.142377
+Flexi Cap,The Wealth Company Flexi Cap Fund,Nifty 500 TRI,,,
+Flexi Cap,UTI Flexi Cap Fund,Nifty 500 TRI,3.6767178,10.066211,6.9495597
+Flexi Cap,Unifi Flexi Cap Fund,Nifty 500 TRI,6.2620397,,
+Flexi Cap,Union Flexi Cap Fund,BSE 500 TRI,6.580117,13.23348,12.18886
+Flexi Cap,WhiteOak Capital Flexi Cap Fund,BSE 500 TRI,8.600347,17.017591,
+Multi Cap,Aditya Birla Sun Life Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.397954,15.868298,14.552405
+Multi Cap,Axis Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.980572,21.627905,
+Multi Cap,Bajaj Finserv Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,12.523448,,
+Multi Cap,Bandhan Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.224271,15.374893,
+Multi Cap,Bank of India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,16.12542,20.067776,
+Multi Cap,Baroda BNP Paribas Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.7219577,16.400328,14.885595
+Multi Cap,Canara Robeco Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.152497,16.596006,
+Multi Cap,DSP Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.5653586,,
+Multi Cap,Edelweiss Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.900918,,
+Multi Cap,Franklin India Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.592008,,
+Multi Cap,Groww Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,19.507343,,
+Multi Cap,HDFC Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.2367215,14.57123,
+Multi Cap,HSBC Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.523777,20.605629,
+Multi Cap,ICICI Prudential Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,12.301221,18.394764,16.484617
+Multi Cap,ITI Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.564062,19.02755,14.57253
+Multi Cap,Invesco India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.1688313,15.486205,13.180021
+Multi Cap,Kotak Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.136525,19.47004,
+Multi Cap,LIC MF Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.813539,19.982313,
+Multi Cap,Mahindra Manulife Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.090593,19.136406,17.169998
+Multi Cap,Mirae Asset Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.767124,,
+Multi Cap,Motilal Oswal Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.859679,,
+Multi Cap,Nippon India Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,4.460997,16.264677,19.598694
+Multi Cap,PGIM India Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.616161,,
+Multi Cap,Quant Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,10.411993,12.26698,12.69153
+Multi Cap,SBI Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,3.0806398,15.217423,
+Multi Cap,Samco Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,-5.735141,,
+Multi Cap,Sundaram Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,6.1155477,15.247837,13.642866
+Multi Cap,TRUSTMF Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,19.4,,
+Multi Cap,Tata Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.921793,13.048298,
+Multi Cap,UTI Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,7.9601502,,
+Multi Cap,Union Multicap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,13.686807,17.011822,
+Multi Cap,WhiteOak Capital Multi Cap Fund,NIFTY 500 Multicap 50:25:25 Total Return Index,11.547495,,
+Mid Cap,Aditya Birla Sun Life Mid Cap Fund,Nifty Midcap 150 TRI,10.759458,18.151697,15.693181
+Mid Cap,Axis Midcap Fund,BSE Midcap 150 TRI,9.626809,18.564692,14.95706
+Mid Cap,Bandhan Midcap Fund,BSE Midcap 150 TRI,11.327696,20.454771,
+Mid Cap,Bank of India Mid Cap Fund,Nifty Midcap 150 TRI,,,
+Mid Cap,Baroda BNP Paribas Mid Cap Fund,Nifty Midcap 150 TRI,14.809783,20.029451,16.851362
+Mid Cap,Canara Robeco Mid Cap Fund,BSE Midcap 150 TRI,9.147026,19.627884,
+Mid Cap,DSP Midcap Fund,Nifty Midcap 150 TRI,9.13626,17.258785,13.071841
+Mid Cap,Edelweiss Mid Cap Fund,Nifty Midcap 150 TRI,11.475761,23.812626,19.778908
+Mid Cap,Franklin India Mid Cap Fund,Nifty Midcap 150 TRI,6.1453457,18.596245,15.5777645
+Mid Cap,HDFC Mid Cap Fund,Nifty Midcap 150 TRI,11.678017,20.579346,20.635101
+Mid Cap,HSBC Mid Cap Fund,Nifty Midcap 150 TRI,21.16697,26.194756,19.574024
+Mid Cap,Helios Mid Cap Fund,Nifty Midcap 150 TRI,17.637272,,
+Mid Cap,ICICI Prudential Midcap Fund,Nifty Midcap 150 TRI,16.560452,23.902735,18.436733
+Mid Cap,ITI Mid Cap Fund,Nifty Midcap 150 TRI,14.494553,23.350216,17.472866
+Mid Cap,Invesco India Mid Cap Fund,BSE Midcap 150 TRI,13.740672,26.260286,20.971579
+Mid Cap,JM Midcap Fund,Nifty Midcap 150 TRI,13.436104,21.882915,
+Mid Cap,Kotak Midcap Fund,Nifty Midcap 150 TRI,10.105798,20.552298,18.107933
+Mid Cap,LIC MF Mid cap Fund,Nifty Midcap 150 TRI,8.945437,18.72221,14.132552
+Mid Cap,Mahindra Manulife Mid Cap Fund,Nifty Midcap 150 TRI,16.462181,22.806822,19.481327
+Mid Cap,Mirae Asset Midcap Fund,Nifty Midcap 150 TRI,15.068706,18.840752,17.067854
+Mid Cap,Motilal Oswal Midcap Fund,Nifty Midcap 150 TRI,-0.0048407232,20.489933,23.105713
+Mid Cap,Nippon India Growth Mid Cap Fund,Nifty Midcap 150 TRI,12.596235,21.958338,19.945528
+Mid Cap,PGIM India Midcap Fund,Nifty Midcap 150 TRI,3.7438815,13.287084,12.772571
+Mid Cap,Quant Mid Cap Fund,Nifty Midcap 150 TRI,8.410557,15.056037,17.379782
+Mid Cap,SBI Midcap Fund,Nifty Midcap 150 TRI,8.2581005,13.581713,15.12774
+Mid Cap,Samco Mid Cap Fund,Nifty Midcap 150 TRI,,,
+Mid Cap,Sundaram Mid Cap Fund,Nifty Midcap 150 TRI,11.917635,21.946032,19.068197
+Mid Cap,TRUSTMF Mid Cap Fund,Nifty Midcap 150 TRI,,,
+Mid Cap,Tata Mid Cap Fund,Nifty Midcap 150 TRI,10.895279,17.704866,16.464643
+Mid Cap,Taurus Mid Cap Fund,Nifty Midcap 150 TRI,7.7201257,12.391788,12.961778
+Mid Cap,UTI Mid Cap Fund,Nifty Midcap 150 TRI,7.2158003,14.118532,13.441751
+Mid Cap,Union Midcap Fund,BSE Midcap 150 TRI,13.59779,19.2382,17.037884
+Mid Cap,WhiteOak Capital Mid Cap Fund,BSE Midcap 150 TRI,17.980408,24.159874,
+Small Cap,Abakkus Small Cap Fund,Nifty Smallcap 250 TRI,,,
+Small Cap,Aditya Birla Sun Life Small cap Fund,BSE 250 Smallcap TRI,17.521166,17.111977,14.166386
+Small Cap,Axis Small Cap Fund,Nifty Smallcap 250 TRI,10.884354,17.147257,17.294449
+Small Cap,Bajaj Finserv Small Cap Fund,BSE 250 Smallcap TRI,16.084568,,
+Small Cap,Bandhan Small Cap Fund,BSE 250 Smallcap TRI,12.643838,27.872025,20.195587
+Small Cap,Bank of India Small Cap Fund,Nifty Smallcap 250 TRI,23.445345,23.240255,20.429836
+Small Cap,Baroda BNP Paribas Small Cap Fund,Nifty Smallcap 250 TRI,10.231717,,
+Small Cap,Canara Robeco Small Cap Fund,Nifty Smallcap 250 TRI,8.354846,14.967582,16.712805
+Small Cap,DSP Small Cap Fund,BSE 250 Smallcap TRI,16.243563,18.450457,18.096645
+Small Cap,Edelweiss Small Cap Fund,Nifty Smallcap 250 TRI,11.481904,18.08404,18.50603
+Small Cap,Franklin India Small Cap Fund,Nifty Smallcap 250 TRI,6.5745473,15.660772,17.456642
+Small Cap,Groww Small Cap Fund,Nifty Smallcap 250 TRI,,,
+Small Cap,HDFC Small Cap Fund,BSE 250 Smallcap TRI,3.0218012,14.024469,16.413748
+Small Cap,HSBC Small Cap Fund,Nifty Smallcap 250 TRI,10.688392,16.494198,18.190762
+Small Cap,Helios Small Cap Fund,Nifty Smallcap 250 TRI,,,
+Small Cap,ICICI Prudential Smallcap Fund,Nifty Smallcap 250 TRI,5.685176,13.332686,15.338467
+Small Cap,ITI Small Cap Fund,Nifty Smallcap 250 TRI,18.94405,26.22328,18.597342
+Small Cap,Invesco India Smallcap Fund,BSE 250 Smallcap TRI,17.882095,24.683908,20.924128
+Small Cap,JM Small Cap Fund,Nifty Smallcap 250 TRI,17.518118,,
+Small Cap,Kotak Small Cap Fund,Nifty Smallcap 250 TRI,6.99101,13.897585,14.167626
+Small Cap,LIC MF Small Cap Fund,Nifty Smallcap 250 TRI,15.457705,18.95899,18.688229
+Small Cap,Mahindra Manulife Small Cap Fund,BSE 250 Smallcap TRI,16.319618,22.428436,
+Small Cap,Mirae Asset Small Cap Fund,Nifty Smallcap 250 TRI,12.078825,,
+Small Cap,Motilal Oswal Small Cap Fund,Nifty Smallcap 250 TRI,24.266422,,
+Small Cap,Nippon India Small Cap Fund,Nifty Smallcap 250 TRI,10.150018,17.722012,19.933283
+Small Cap,PGIM India Small Cap Fund,Nifty Smallcap 250 TRI,13.222668,17.092993,14.6303625
+Small Cap,Quant Small Cap Fund,Nifty Smallcap 250 TRI,14.619128,19.481092,19.233612
+Small Cap,Quantum Small Cap Fund,BSE 250 Smallcap TRI,10.791925,,
+Small Cap,SBI Small Cap Fund,BSE 250 Smallcap TRI,7.8014865,12.963236,14.881651
+Small Cap,Samco Small Cap Fund,Nifty Smallcap 250 TRI,,,
+Small Cap,Sundaram Small Cap Fund,Nifty Smallcap 250 TRI,17.253582,18.9371,18.156311
+Small Cap,TRUSTMF Small Cap Fund,Nifty Smallcap 250 TRI,31.11111,,
+Small Cap,Tata Small Cap Fund,Nifty Smallcap 250 TRI,-1.2487752,13.274515,15.815926
+Small Cap,The Wealth Company Small Cap Fund,Nifty Smallcap 250 TRI,,,
+Small Cap,UTI Small Cap Fund,Nifty Smallcap 250 TRI,8.008179,16.644163,16.571535
+Small Cap,Union Small Cap Fund,BSE 250 Smallcap TRI,22.26142,19.832232,17.91051
+Value,Aditya Birla Sun Life Value Fund,Nifty 500 TRI,15.054267,17.37603,15.182962
+Value,Axis Value Fund,Nifty 500 TRI,12.571428,19.993586,
+Value,Bandhan Value Fund,BSE 500 TRI,4.555573,12.537495,14.13825
+Value,Baroda BNP Paribas Value Fund,Nifty 500 TRI,4.0945435,11.033342,
+Value,Canara Robeco Value Fund,BSE 500 TRI,2.1309772,13.247842,
+Value,Groww Value Fund,Nifty 500 TRI,5.415944,15.552811,13.215059
+Value,HDFC Value Fund,Nifty 500 TRI,10.43921,17.841965,15.59593
+Value,HSBC Value Fund,Nifty 500 TRI,5.925632,18.851622,17.418293
+Value,ICICI Prudential Value Fund,Nifty 500 TRI,1.8390579,14.5837345,16.472425
+Value,ITI Value Fund,Nifty 500 TRI,7.4457464,15.095843,13.636781
+Value,JM Value Fund,BSE 500 TRI,2.0461357,15.226503,16.021412
+Value,LIC MF Value Fund,Nifty 500 TRI,24.491615,19.53161,15.220316
+Value,Mahindra Manulife Value Fund,Nifty 500 TRI,16.649836,,
+Value,Nippon India Value Fund,Nifty 500 TRI,3.6828716,17.162432,15.519916
+Value,Quant Value Fund,Nifty 500 TRI,19.702791,22.50474,
+Value,Quantum Value Fund,BSE 500 TRI,-0.37890503,12.336157,11.263856
+Value,Sundaram Value Fund,Nifty 500 TRI,-1.3746247,8.607267,9.927766
+Value,Tata Value Fund,Nifty 500 TRI,5.7715607,14.990596,15.282074
+Value,Templeton India Value Fund,Nifty 500 TRI,1.4293184,12.241777,15.242757
+Value,UTI Value Fund,Nifty 500 TRI,2.5395625,14.717023,12.773613
+Value,Union Value Fund,BSE 500 TRI,6.6509113,15.009288,14.437042
+ELSS,Aditya Birla Sun Life ELSS Tax Saver Fund,Nifty 500 TRI,6.0107656,13.334554,9.679009
+ELSS,Axis ELSS Tax Saver Fund,Nifty 500 TRI,4.70311,12.514299,8.282948
+ELSS,Bajaj Finserv ELSS Tax Saver Fund,BSE 500 TRI,8.725437,,
+ELSS,Bandhan ELSS Tax saver Fund,BSE 500 TRI,6.5810604,11.80396,13.192126
+ELSS,Bank of India ELSS Tax Saver,BSE 500 TRI,7.28368,14.648047,12.730164
+ELSS,Baroda BNP Paribas ELSS Tax Saver Fund,Nifty 500 TRI,9.963516,17.597776,14.005874
+ELSS,Canara Robeco ELSS Tax Saver Fund,BSE 500 TRI,6.4975247,13.778953,12.193754
+ELSS,DSP ELSS Tax Saver Fund,Nifty 500 TRI,4.0515847,15.839315,13.554876
+ELSS,Edelweiss ELSS Tax saver Fund,Nifty 500 TRI,10.760234,15.755465,13.696497
+ELSS,Franklin India ELSS Tax Saver Fund,Nifty 500 TRI,0.52719563,13.384734,13.493752
+ELSS,Groww ELSS Tax Saver Fund,BSE 500 TRI,-1.8037835,11.597041,10.572764
+ELSS,HDFC ELSS Tax saver,Nifty 500 TRI,1.3437357,15.759913,16.423141
+ELSS,HSBC ELSS Tax saver Fund,Nifty 500 TRI,8.283124,18.03969,14.223862
+ELSS,ICICI Prudential ELSS Tax Saver Fund,Nifty 500 TRI,4.6471734,13.311125,12.154679
+ELSS,ITI ELSS Tax Saver Fund,Nifty 500 TRI,9.815194,19.586996,14.180041
+ELSS,Invesco India ELSS Tax Saver Fund,BSE 500 TRI,3.5638986,14.250072,11.457271
+ELSS,JM ELSS Tax Saver Fund,BSE 500 TRI,12.828477,18.241846,16.099775
+ELSS,Kotak ELSS Tax Saver Fund,Nifty 500 TRI,5.38986,13.389135,13.383016
+ELSS,LIC MF ELSS Tax Saver,Nifty 500 TRI,1.4315497,12.37357,11.740062
+ELSS,Mahindra Manulife ELSS Tax Saver Fund,Nifty 500 TRI,1.331899,10.898777,11.70397
+ELSS,Mirae Asset ELSS Tax Saver Fund,Nifty 500 TRI,7.6820173,14.5767,12.963507
+ELSS,Motilal Oswal ELSS Tax Saver Fund,Nifty 500 TRI,9.635984,22.816786,17.870987
+ELSS,NJ ELSS Tax Saver Scheme,Nifty 500 TRI,0.66093856,12.815566,
+ELSS,Nippon India ELSS Tax Saver Fund,Nifty 500 TRI,4.9839478,14.715701,13.925587
+ELSS,PGIM India ELSS Tax Saver Fund,Nifty 500 TRI,2.6877668,10.526884,11.3447485
+ELSS,Parag Parikh ELSS Tax Saver Fund,Nifty 500 TRI,-3.3447618,12.051394,13.340139
+ELSS,Quant ELSS Tax Saver Fund,Nifty 500 TRI,16.41333,17.388344,15.940659
+ELSS,Quantum ELSS Tax Saver Fund,BSE 500 TRI,-0.14740108,12.43743,11.373125
+ELSS,SBI ELSS Tax Saver Fund,BSE 500 TRI,3.2089806,17.057302,16.66054
+ELSS,Samco ELSS Tax Saver Fund,Nifty 500 TRI,-1.1569053,5.767206,
+ELSS,Shriram ELSS Tax Saver Fund,Nifty 500 TRI,3.6459513,10.137065,9.760596
+ELSS,Sundaram ELSS Tax Saver Fund,Nifty 500 TRI,0.52383703,10.782214,11.48223
+ELSS,Tata ELSS Fund,Nifty 500 TRI,10.173306,14.46783,14.054859
+ELSS,Taurus ELSS Tax Saver Fund,BSE 500 TRI,1.1400409,12.362184,11.969458
+ELSS,UTI ELSS Tax Saver Fund,Nifty 500 TRI,3.1320968,10.923447,9.445426
+ELSS,UTI Master Equity Plan Unit Scheme,BSE 100 TRI,,,
+ELSS,Union ELSS Tax Saver Fund,BSE 500 TRI,5.05441,12.665377,12.401914
+ELSS,WhiteOak Capital ELSS Tax Saver Fund,BSE 500 TRI,7.4993105,18.479145,
+Contra,Invesco India Contra Fund,BSE 500 TRI,3.374778,17.0805,14.745932
+Contra,Kotak Contra Fund,Nifty 500 TRI,7.0948806,17.949934,16.198011
+Contra,Motilal Oswal Contra Fund,Nifty 500 TRI,,,
+Contra,SBI Contra Fund,BSE 500 TRI,2.4379544,13.530206,16.779516
+Dividend Yield,Aditya Birla Sun Life Dividend Yield Fund,Nifty 500 TRI,7.751272,15.495527,14.578495
+Dividend Yield,Baroda BNP Paribas Dividend Yield Fund,Nifty 500 TRI,7.361139,,
+Dividend Yield,Franklin India Dividend Yield Fund,Nifty 500 TRI,3.410758,13.576993,13.719838
+Dividend Yield,HDFC Dividend Yield Fund,Nifty 500 TRI,4.5933967,13.892767,15.962504
+Dividend Yield,ICICI Prudential Dividend Yield Equity Fund,Nifty 500 TRI,5.8171744,18.744339,19.102562
+Dividend Yield,Kotak Dividend Yield Fund,Nifty 500 TRI,,,
+Dividend Yield,LIC MF Dividend Yield Fund,Nifty 500 TRI,10.706564,20.82508,17.066637
+Dividend Yield,SBI Dividend Yield Fund,Nifty 500 TRI,9.319522,13.546365,
+Dividend Yield,Sundaram Dividend Yield Fund,Nifty 500 TRI,2.1487575,12.335528,11.388174
+Dividend Yield,Tata Dividend Yield Fund,Nifty 500 TRI,14.511916,16.742327,15.283534
+Dividend Yield,UTI Dividend Yield Fund,Nifty 500 TRI,4.3292036,15.505017,12.949129
+Focused,360 ONE Focused Fund,BSE 500 TRI,8.125302,13.860805,13.055563
+Focused,Aditya Birla Sun Life Focused Fund,Nifty 500 TRI,9.890981,15.3202915,13.02694
+Focused,Axis Focused Fund,Nifty 500 TRI,4.8803678,11.446342,6.7496476
+Focused,Bandhan Focused Fund,BSE 500 TRI,3.904922,16.216661,13.246604
+Focused,Baroda BNP Paribas Focused Fund,Nifty 500 TRI,1.1132174,10.99533,11.162807
+Focused,Canara Robeco Focused Fund,BSE 500 TRI,2.9508197,15.457078,14.163699
+Focused,DSP Focused Fund,Nifty 500 TRI,5.935108,15.634492,11.848832
+Focused,Edelweiss Focused Fund,Nifty 500 TRI,7.107526,15.381645,
+Focused,Franklin India Focused Equity Fund,Nifty 500 TRI,-2.9000185,10.407141,11.800021
+Focused,HDFC Focused Fund,Nifty 500 TRI,5.662632,17.927074,19.644497
+Focused,HSBC Focused Fund,Nifty 500 TRI,10.57197,16.11828,12.697206
+Focused,ICICI Prudential Focused Equity Fund,BSE 500 TRI,8.419029,19.148054,17.526218
+Focused,ITI Focused Fund,Nifty 500 TRI,12.228259,20.065731,
+Focused,Invesco India Focused Fund,BSE 500 TRI,4.4227643,23.54096,16.855846
+Focused,JM Focused Fund,BSE 500 TRI,8.186381,15.459248,15.269442
+Focused,Kotak Focused Fund,Nifty 500 TRI,13.678629,17.175474,14.480533
+Focused,LIC MF Focused Fund,Nifty 500 TRI,7.2852683,11.25215,10.889102
+Focused,Mahindra Manulife Focused Fund,Nifty 500 TRI,5.7399144,16.372128,15.818893
+Focused,Mirae Asset Focused Fund,Nifty 500 TRI,-0.42128763,8.668413,7.897683
+Focused,Motilal Oswal Focused Fund,Nifty 500 TRI,22.5254,13.6389885,11.051924
+Focused,Nippon India Focused Fund,BSE 500 TRI,4.7425117,12.217797,12.148494
+Focused,Old Bridge Focused Fund,BSE 500 TRI,23.706896,,
+Focused,Quant Focused Fund,Nifty 500 TRI,13.866964,15.323016,14.164587
+Focused,SBI Focused Fund,BSE 500 TRI,17.759714,17.32147,14.060133
+Focused,Sundaram Focused Fund,Nifty 500 TRI,7.3641887,12.094019,11.350759
+Focused,Tata Focused Fund,Nifty 500 TRI,3.8323328,12.514248,12.051866
+Focused,UTI Focused Fund,Nifty 500 TRI,4.7500525,12.314657,
+Focused,Union Focused Fund,BSE 500 TRI,11.111111,13.215656,11.531795
+Sectoral / Thematic,360 ONE Quant Fund,BSE 200 TRI,2.826112,18.649382,
+Sectoral / Thematic,Aditya Birla Sun Life Banking & Financial Services Fund,Nifty Financial Services TRI,8.717795,12.362467,12.390711
+Sectoral / Thematic,Aditya Birla Sun Life Business Cycle Fund,BSE 500 TRI,11.410256,14.563976,
+Sectoral / Thematic,Aditya Birla Sun Life Conglomerate Fund,BSE Select Business Groups Index TRI,9.297913,,
+Sectoral / Thematic,Aditya Birla Sun Life Consumption Fund,Nifty India Consumption TRI,0.1951775,11.284467,12.189354
+Sectoral / Thematic,Aditya Birla Sun Life Digital India Fund,BSE Teck TRI,-1.3080691,7.8300633,6.8086853
+Sectoral / Thematic,Aditya Birla Sun Life ESG Integration Strategy Fund,Nifty 100 ESG TRI,6.9094806,13.504977,10.377145
+Sectoral / Thematic,Aditya Birla Sun Life Infrastructure Fund,Nifty Infrastructure TRI,15.955207,19.530521,18.889511
+Sectoral / Thematic,Aditya Birla Sun Life International Equity Fund,S&P Global 1200 TRI,25.527117,19.983055,12.398876
+Sectoral / Thematic,Aditya Birla Sun Life MNC Fund,Nifty MNC TRI,-1.1510677,9.715984,7.2480106
+Sectoral / Thematic,Aditya Birla Sun Life Manufacturing Equity Fund,BSE India Manufacturing TRI,26.537683,22.3654,15.916559
+Sectoral / Thematic,Aditya Birla Sun Life PSU Equity Fund,BSE PSU TRI,15.267395,24.399239,24.305025
+Sectoral / Thematic,Aditya Birla Sun Life Pharma & Healthcare Fund,BSE Healthcare TRI,19.547325,22.22373,14.923315
+Sectoral / Thematic,Aditya Birla Sun Life Quant Fund,Nifty 200 TRI,13.17176,,
+Sectoral / Thematic,Aditya Birla Sun Life Special Opportunities Fund,BSE 500 TRI,18.995052,20.879269,16.011292
+Sectoral / Thematic,Aditya Birla Sun Life Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,27.83286,,
+Sectoral / Thematic,Axis Business Cycles Fund,Nifty 500 TRI,6.8275456,15.533669,
+Sectoral / Thematic,Axis Consumption Fund,Nifty India Consumption TRI,2.4973986,,
+Sectoral / Thematic,Axis ESG Integration Strategy Fund,Nifty 100 ESG TRI,2.2153301,10.412482,8.107236
+Sectoral / Thematic,Axis India Manufacturing Fund,Nifty India Manufacturing TRI,19.044222,,
+Sectoral / Thematic,Axis Innovation Fund,Nifty 500 TRI,15.364983,17.751326,13.18933
+Sectoral / Thematic,Axis Momentum Fund,Nifty 500 TRI,0.32362458,,
+Sectoral / Thematic,Axis Quant Fund,BSE 200 TRI,8.06743,11.618896,11.292753
+Sectoral / Thematic,Axis Services Opportunities Fund,Nifty Services Sector TRI,3.8539553,,
+Sectoral / Thematic,Bajaj Finserv Banking and Financial Services Fund,Nifty Financial Services TRI,,,
+Sectoral / Thematic,Bajaj Finserv Consumption Fund,Nifty India Consumption TRI,1.008316,,
+Sectoral / Thematic,Bajaj Finserv Healthcare Fund,BSE Healthcare TRI,20.5298,,
+Sectoral / Thematic,Bandhan Business Cycle Fund,Nifty 500 TRI,2.6626627,,
+Sectoral / Thematic,Bandhan Financial Services Fund,Nifty Financial Services TRI,6.6684537,17.287373,
+Sectoral / Thematic,Bandhan Healthcare Fund,BSE Healthcare TRI,,,
+Sectoral / Thematic,Bandhan Infrastructure Fund,BSE India Infrastructure TRI,1.8469024,18.562376,17.803566
+Sectoral / Thematic,Bandhan Innovation Fund,Nifty 500 TRI,22.71921,,
+Sectoral / Thematic,Bandhan Multi-Factor Fund,BSE 200 TRI,3.4669883,,
+Sectoral / Thematic,Bandhan Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,20.999783,22.946415,
+Sectoral / Thematic,Bank of India Banking & Financial Services Fund,Nifty Financial Services TRI,,,
+Sectoral / Thematic,Bank of India Business Cycle Fund,Nifty 500 TRI,8.552631,,
+Sectoral / Thematic,Bank of India Consumption Fund,Nifty India Consumption TRI,7.6208177,,
+Sectoral / Thematic,Bank of India Manufacturing & Infrastructure Fund,BSE India Manufacturing Total Return Index (TRI) - 50% & BSE India Infrastructure,22.623604,24.844244,22.16904
+Sectoral / Thematic,Baroda BNP Paribas Banking and Financial Services Fund,Nifty Financial Services TRI,7.948217,15.7942705,13.481582
+Sectoral / Thematic,Baroda BNP Paribas Business Conglomerates Fund,Nifty Conglomerate 50 Index,,,
+Sectoral / Thematic,Baroda BNP Paribas Business Cycle Fund,BSE 500 TRI,7.268324,14.824774,
+Sectoral / Thematic,Baroda BNP Paribas ESG Best-in-Class Strategy Fund,Nifty 100 ESG TRI,,,
+Sectoral / Thematic,Baroda BNP Paribas Energy Opportunities Fund,Nifty Energy TRI,6.8399367,,
+Sectoral / Thematic,Baroda BNP Paribas Health and Wellness Fund,BSE Healthcare TRI,11.212731,,
+Sectoral / Thematic,Baroda BNP Paribas India Consumption Fund,Nifty India Consumption TRI,1.9530766,12.791322,13.002968
+Sectoral / Thematic,Baroda BNP Paribas Innovation Fund,Nifty 500 TRI,14.194646,,
+Sectoral / Thematic,Baroda BNP Paribas Manufacturing Fund,Nifty India Manufacturing TRI,18.15333,,
+Sectoral / Thematic,Canara Robeco Banking and Financial Services Fund,Nifty Financial Services TRI,,,
+Sectoral / Thematic,Canara Robeco Consumption Fund,Nifty India Consumption TRI,2.3731782,13.340711,13.722366
+Sectoral / Thematic,Canara Robeco Infrastructure Fund,BSE India Infrastructure TRI,7.3377233,22.280626,21.51945
+Sectoral / Thematic,Canara Robeco Manufacturing Fund,Nifty India Manufacturing TRI,14.454976,,
+Sectoral / Thematic,DSP Banking & Financial Services Fund,Nifty Financial Services TRI,17.726557,,
+Sectoral / Thematic,DSP Business Cycle Fund,Nifty 500 TRI,8.555667,,
+Sectoral / Thematic,DSP Healthcare Fund,BSE Healthcare TRI,15.344844,21.274769,16.12289
+Sectoral / Thematic,DSP India T.I.G.E.R. Fund,BSE India Infrastructure TRI,18.250042,23.228893,22.8396
+Sectoral / Thematic,DSP Natural Resources and New Energy Fund,35% BSE Oil & Gas Index +30% BSE Metal Index + 35% MSCI World Energy 30% Buffer 10/40 Net Total Return,24.548855,21.712284,16.637419
+Sectoral / Thematic,DSP Quant Fund,BSE 200 TRI,4.106182,8.625075,7.4695997
+Sectoral / Thematic,Edelweiss Business Cycle Fund,Nifty 500 TRI,4.964785,,
+Sectoral / Thematic,Edelweiss Consumption Fund,Nifty India Consumption TRI,4.850924,,
+Sectoral / Thematic,Edelweiss Recently Listed IPO Fund,Nifty IPO TRI,21.555433,18.0953,13.013231
+Sectoral / Thematic,Edelweiss Technology Fund,BSE Teck TRI,13.54621,,
+Sectoral / Thematic,Franklin Asian Equity Fund,75% MSCI Asia (Ex-Japan) Standard Index + 25% Nifty 500 Index,43.63846,20.7718,8.946517
+Sectoral / Thematic,Franklin Build India Fund,BSE India Infrastructure TRI,4.9420815,20.451637,20.765963
+Sectoral / Thematic,Franklin India Multi-Factor Fund,BSE 200 TRI,,,
+Sectoral / Thematic,Franklin India Opportunities Fund,Nifty 500 TRI,7.539328,23.035187,19.731771
+Sectoral / Thematic,Franklin India Technology Fund,BSE Teck TRI,-2.1647823,12.042101,9.659098
+Sectoral / Thematic,Groww Banking & Financial Services Fund,Nifty Financial Services TRI,14.958196,,
+Sectoral / Thematic,HDFC Banking and Financial Services Fund,Nifty Financial Services TRI,10.17188,14.31302,13.759097
+Sectoral / Thematic,HDFC Business Cycle Fund,Nifty 500 TRI,5.791379,12.6987705,
+Sectoral / Thematic,HDFC Consumption Fund,Nifty India Consumption TRI,-0.102165915,13.792568,
+Sectoral / Thematic,HDFC Defence Fund,Nifty India Defence TRI,27.992619,40.603176,
+Sectoral / Thematic,HDFC Housing Opportunities Fund,Nifty Housing TRI,-0.7365486,12.287559,12.905405
+Sectoral / Thematic,HDFC Infrastructure Fund,BSE India Infrastructure TRI,1.5095206,17.722422,20.669027
+Sectoral / Thematic,HDFC Innovation Fund,Nifty 500 TRI,19.387754,,
+Sectoral / Thematic,HDFC MNC Fund,Nifty MNC TRI,8.23538,8.702497,
+Sectoral / Thematic,HDFC Manufacturing Fund,Nifty India Manufacturing TRI,13.614937,,
+Sectoral / Thematic,HDFC Pharma and Healthcare Fund,BSE Healthcare TRI,24.920671,,
+Sectoral / Thematic,HDFC Technology Fund,BSE Teck TRI,-5.695639,,
+Sectoral / Thematic,HDFC Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,22.566504,,
+Sectoral / Thematic,HSBC Business Cycles Fund,Nifty 500 TRI,3.6717017,16.998951,16.586493
+Sectoral / Thematic,HSBC Consumption Fund,Nifty India Consumption TRI,5.8772073,,
+Sectoral / Thematic,HSBC Financial Services Fund,BSE Financial Services TRI,14.149109,,
+Sectoral / Thematic,HSBC India Export Opportunities Fund,Nifty 500 TRI,20.84054,,
+Sectoral / Thematic,HSBC Infrastructure Fund,Nifty Infrastructure TRI,9.333107,17.448236,19.733212
+Sectoral / Thematic,Helios Financial Services Fund,Nifty Financial Services TRI,4.2534723,,
+Sectoral / Thematic,ICICI Prudential Active Momentum Fund,Nifty 500 TRI,11.6,,
+Sectoral / Thematic,ICICI Prudential Banking and Financial Services Fund,Nifty Financial Services TRI,0.3481288,10.894202,10.4099655
+Sectoral / Thematic,ICICI Prudential Bharat Consumption Fund,Nifty India Consumption TRI,4.0755835,12.874172,15.790537
+Sectoral / Thematic,ICICI Prudential Business Cycle Fund,Nifty 500 TRI,4.8828125,17.563017,17.643473
+Sectoral / Thematic,ICICI Prudential Commodities Fund,Nifty Commodities TRI,14.627775,18.471441,14.800173
+Sectoral / Thematic,ICICI Prudential Conglomerate Fund,BSE Select Business Groups Index,,,
+Sectoral / Thematic,ICICI Prudential ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,0.21285653,14.185572,11.476092
+Sectoral / Thematic,ICICI Prudential Energy Opportunities Fund,Nifty Energy TRI,17.330677,,
+Sectoral / Thematic,ICICI Prudential Equity Minimum Variance Fund,Nifty 50 TRI,4.789272,,
+Sectoral / Thematic,ICICI Prudential Exports and Services Fund,BSE 500 TRI,7.5589657,16.845604,15.827706
+Sectoral / Thematic,ICICI Prudential FMCG Fund,Nifty FMCG TRI,-11.762039,-1.0687686,7.858116
+Sectoral / Thematic,ICICI Prudential Housing Opportunities Fund,Nifty Housing TRI,3.2832499,13.995396,
+Sectoral / Thematic,ICICI Prudential India Opportunities Fund,Nifty 500 TRI,6.457516,17.34299,20.230515
+Sectoral / Thematic,ICICI Prudential Infrastructure Fund,BSE India Infrastructure TRI,7.3906994,20.300013,23.704725
+Sectoral / Thematic,ICICI Prudential Innovation Fund,Nifty 500 TRI,10.531972,20.892963,
+Sectoral / Thematic,ICICI Prudential MNC Fund,Nifty MNC TRI,14.6921015,13.665042,13.79919
+Sectoral / Thematic,ICICI Prudential Manufacturing  Fund,Nifty India Manufacturing TRI,16.475607,23.230669,21.253853
+Sectoral / Thematic,ICICI Prudential PSU Equity Fund,BSE PSU TRI,10.819828,24.03377,
+Sectoral / Thematic,ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund,BSE Healthcare TRI,10.739191,23.584782,16.689993
+Sectoral / Thematic,ICICI Prudential Quality Fund,Nifty 200 Quality 30 TRI,9.244533,,
+Sectoral / Thematic,ICICI Prudential Quant Fund,BSE 200 TRI,6.3471503,14.235269,12.341832
+Sectoral / Thematic,ICICI Prudential Rural Opportunities Fund,Nifty Rural TRI,3.4019697,,
+Sectoral / Thematic,ICICI Prudential Technology Fund,BSE Teck TRI,-3.574081,9.249422,6.4956875
+Sectoral / Thematic,ICICI Prudential Transportation And Logistics Fund,Nifty Transportation & Logistics TRI,23.671995,25.97401,
+Sectoral / Thematic,ICICI Prudential US Bluechip Equity Fund,S&P 500 International,21.631493,15.307391,12.817168
+Sectoral / Thematic,ITI Banking and Financial Services Fund,Nifty Financial Services TRI,12.466282,13.696578,
+Sectoral / Thematic,ITI Bharat Consumption Fund,Nifty India Consumption TRI,7.78421,,
+Sectoral / Thematic,ITI Business Cycle Fund,Nifty 500 TRI,,,
+Sectoral / Thematic,ITI Pharma & Healthcare Fund,NIFTY Healthcare TRI,12.438669,20.118195,
+Sectoral / Thematic,Invesco India Business Cycle Fund,Nifty 500 TRI,18.290735,,
+Sectoral / Thematic,Invesco India Consumption Fund,Nifty India Consumption TRI,,,
+Sectoral / Thematic,Invesco India ESG Integration Strategy Fund,Nifty 100 ESG TRI,2.1516945,11.639067,9.664032
+Sectoral / Thematic,Invesco India Financial Services Fund,Nifty Financial Services TRI,10.208603,19.671091,15.4257145
+Sectoral / Thematic,Invesco India Infrastructure Fund,BSE India Infrastructure TRI,9.476828,22.906307,20.797007
+Sectoral / Thematic,Invesco India Manufacturing Fund,Nifty India Manufacturing TRI,16.68274,,
+Sectoral / Thematic,Invesco India PSU Equity Fund,BSE PSU TRI,6.896083,23.248507,22.162092
+Sectoral / Thematic,Invesco India Technology Fund,Nifty IT TRI,6.6736183,,
+Sectoral / Thematic,JioBlackRock Sector Rotation Fund,Nifty 500 TRI,,,
+Sectoral / Thematic,Kotak Active Momentum Fund,Nifty 500 TRI,,,
+Sectoral / Thematic,Kotak Banking & Financial Services Fund,Nifty Financial Services TRI,11.313312,14.97266,
+Sectoral / Thematic,Kotak Business Cycle Fund,Nifty 500 TRI,9.86632,17.704145,
+Sectoral / Thematic,Kotak Consumption Fund,Nifty India Consumption TRI,7.287392,,
+Sectoral / Thematic,Kotak ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,4.1698713,12.048911,9.497378
+Sectoral / Thematic,Kotak Energy Opportunities Fund,Nifty Energy TRI,9.22007,,
+Sectoral / Thematic,Kotak Healthcare Fund,NIFTY Healthcare TRI,23.632338,,
+Sectoral / Thematic,Kotak Infrastructure and Economic Reform Fund,Nifty Infrastructure TRI,9.986875,17.65258,20.02005
+Sectoral / Thematic,Kotak MNC Fund,Nifty MNC TRI,26.130703,,
+Sectoral / Thematic,Kotak Manufacture In India Fund,Nifty India Manufacturing TRI,21.752033,21.618626,
+Sectoral / Thematic,Kotak Quant Fund,Nifty 200 TRI,6.990861,16.129547,
+Sectoral / Thematic,Kotak Rural Opportunities Fund,Nifty Rural TRI,,,
+Sectoral / Thematic,Kotak Services Fund,Nifty Services Sector TRI,,,
+Sectoral / Thematic,Kotak Special Opportunities Fund,Nifty 500 TRI,19.613173,,
+Sectoral / Thematic,Kotak Technology Fund,BSE Teck TRI,-4.0136414,,
+Sectoral / Thematic,Kotak Transportation & Logistics Fund,Nifty Transportation & Logistics TRI,14.236723,,
+Sectoral / Thematic,LIC MF Banking & Financial Services Fund,Nifty Financial Services TRI,7.1393094,9.509838,10.666452
+Sectoral / Thematic,LIC MF Consumption Fund,Nifty India Consumption TRI,,,
+Sectoral / Thematic,LIC MF Healthcare Fund,BSE Healthcare TRI,14.79047,21.462778,12.5551605
+Sectoral / Thematic,LIC MF Infrastructure Fund,Nifty Infrastructure TRI,14.1807575,26.610023,23.887768
+Sectoral / Thematic,LIC MF Manufacturing Fund,Nifty India Manufacturing TRI,20.141247,,
+Sectoral / Thematic,LIC MF Technology Fund,BSE Teck TRI,,,
+Sectoral / Thematic,Mahindra Manulife Banking & Financial Services Fund,Nifty Financial Services TRI,12.8006525,,
+Sectoral / Thematic,Mahindra Manulife Business Cycle Fund,Nifty 500 TRI,13.34937,,
+Sectoral / Thematic,Mahindra Manulife Consumption Fund,Nifty India Consumption TRI,2.0782247,12.852317,12.981808
+Sectoral / Thematic,Mahindra Manulife Innovation Opportunities Fund,Nifty 500 TRI,,,
+Sectoral / Thematic,Mahindra Manulife Manufacturing Fund,Nifty India Manufacturing TRI,12.507495,,
+Sectoral / Thematic,Mirae Asset Banking and Financial Services Fund,Nifty Financial Services TRI,8.456303,14.329566,14.132442
+Sectoral / Thematic,Mirae Asset Great Consumer Fund,Nifty India Consumption TRI,4.382883,13.468886,15.164508
+Sectoral / Thematic,Mirae Asset Healthcare Fund,BSE Healthcare TRI,20.065191,23.396412,15.904072
+Sectoral / Thematic,Mirae Asset Infrastructure Fund,BSE India Infrastructure TRI,,,
+Sectoral / Thematic,Motilal Oswal Active Momentum Fund,Nifty 500 TRI,26.82248,,
+Sectoral / Thematic,Motilal Oswal Business Cycle Fund,Nifty 500 TRI,1.3760892,,
+Sectoral / Thematic,Motilal Oswal Consumption Fund,Nifty India Consumption TRI,,,
+Sectoral / Thematic,Motilal Oswal Digital India Fund,BSE Teck TRI,3.4455569,,
+Sectoral / Thematic,Motilal Oswal Financial Services Fund,Nifty Financial Services TRI,,,
+Sectoral / Thematic,Motilal Oswal Infrastructure Fund,Nifty Infrastructure TRI,9.852622,,
+Sectoral / Thematic,Motilal Oswal Innovation Opportunities Fund,Nifty 500 TRI,17.665005,,
+Sectoral / Thematic,Motilal Oswal Manufacturing Fund,Nifty India Manufacturing TRI,5.6188493,,
+Sectoral / Thematic,Motilal Oswal Quant Fund,Nifty 200 TRI,3.8319366,,
+Sectoral / Thematic,Motilal Oswal Services Fund,Nifty Services Sector TRI,15.9261055,,
+Sectoral / Thematic,Motilal Oswal Special Opportunities Fund,Nifty 500 TRI,,,
+Sectoral / Thematic,Nippon India Active Momentum Fund,Nifty 500 TRI,15.927121,,
+Sectoral / Thematic,Nippon India Banking & Financial Services Fund,Nifty Financial Services TRI,6.354632,13.827928,14.2693615
+Sectoral / Thematic,Nippon India Consumption Fund,Nifty India Consumption TRI,2.3532157,12.813568,15.284641
+Sectoral / Thematic,Nippon India Innovation Fund,Nifty 500 TRI,7.639455,,
+Sectoral / Thematic,Nippon India Japan Equity Fund,S&P Japan 500 TRI,35.313293,21.481298,11.674102
+Sectoral / Thematic,Nippon India MNC Fund,Nifty MNC TRI,13.068056,,
+Sectoral / Thematic,Nippon India Pharma Fund,BSE Healthcare TRI,12.114954,18.998983,13.7221155
+Sectoral / Thematic,Nippon India Power & Infra Fund,Nifty Infrastructure TRI,14.086157,21.956844,23.060425
+Sectoral / Thematic,Nippon India Quant Fund,BSE 200 TRI,7.23466,16.599705,15.140249
+Sectoral / Thematic,Nippon India Taiwan Equity Fund,Taiwan Capitalization Weighted Stock Index,140.27438,57.592007,
+Sectoral / Thematic,Nippon India US Equity Opportunities Fund,S&P 500 TRI,20.627758,18.993738,12.169956
+Sectoral / Thematic,PGIM India Healthcare Fund,BSE Healthcare TRI,23.06163,,
+Sectoral / Thematic,Quant BFSI Fund,Nifty Financial Services TRI,19.60588,25.735134,
+Sectoral / Thematic,Quant Business Cycle Fund,Nifty 500 TRI,9.200841,16.37819,
+Sectoral / Thematic,Quant Commodities Fund,Nifty Commodities TRI,18.579943,,
+Sectoral / Thematic,Quant Consumption Fund,Nifty India Consumption TRI,2.9464521,,
+Sectoral / Thematic,Quant ESG Integration Strategy Fund,Nifty 100 ESG TRI,25.319239,18.68547,20.10272
+Sectoral / Thematic,Quant Healthcare Fund,NIFTY Healthcare TRI,19.929401,21.431335,
+Sectoral / Thematic,Quant Infrastructure Fund,Nifty Infrastructure TRI,13.815574,19.694677,20.027452
+Sectoral / Thematic,Quant Manufacturing Fund,Nifty India Manufacturing TRI,20.795855,,
+Sectoral / Thematic,Quant Momentum Fund,Nifty 500 TRI,12.95674,,
+Sectoral / Thematic,Quant PSU Fund,Nifty PSE TRI,8.233441,,
+Sectoral / Thematic,Quant Quantamental Fund,Nifty 200 TRI,15.726214,17.954153,19.927696
+Sectoral / Thematic,Quant Teck Fund,Nifty IT TRI,-3.4218104,,
+Sectoral / Thematic,Quantum ESG Best In Class Strategy Fund,Nifty 100 ESG TRI,1.8246727,10.64583,9.223166
+Sectoral / Thematic,Quantum Ethical Fund,Nifty 500 Shariah TRI,4.646465,,
+Sectoral / Thematic,SBI Automotive Opportunities Fund,Nifty Auto TRI,38.779125,,
+Sectoral / Thematic,SBI Banking & Financial Services Fund,Nifty Financial Services TRI,6.4009705,17.197172,13.684119
+Sectoral / Thematic,SBI COMMA Fund,Nifty Commodities TRI,14.9831705,18.473227,11.792235
+Sectoral / Thematic,SBI Consumption Opportunities Fund,Nifty India Consumption TRI,-2.7670166,9.041417,14.371739
+Sectoral / Thematic,SBI ESG Exclusionary Strategy Fund,Nifty 100 ESG TRI,5.4751425,11.492353,10.582142
+Sectoral / Thematic,SBI Energy Opportunities Fund,Nifty Energy TRI,9.066466,,
+Sectoral / Thematic,SBI Equity Minimum Variance Fund,Nifty 50 TRI,4.617028,9.657987,10.99034
+Sectoral / Thematic,SBI Healthcare Opportunities Fund,BSE Healthcare TRI,20.509956,24.500591,18.245487
+Sectoral / Thematic,SBI Infrastructure Fund,Nifty Infrastructure TRI,8.220023,16.820591,18.328531
+Sectoral / Thematic,SBI Innovative Opportunities Fund,Nifty 500 TRI,12.525925,,
+Sectoral / Thematic,SBI MNC Fund,Nifty MNC TRI,16.529497,9.101915,9.841081
+Sectoral / Thematic,SBI PSU Fund,BSE PSU TRI,12.426343,25.166132,24.31714
+Sectoral / Thematic,SBI Quality Fund,Nifty 200 Quality 30 TRI,,,
+Sectoral / Thematic,SBI Quant Fund,BSE 200 TRI,7.529558,,
+Sectoral / Thematic,SBI Technology Opportunities Fund,BSE Teck TRI,-1.1954584,11.8041115,9.648334
+Sectoral / Thematic,Samco Active Momentum Fund,Nifty 500 TRI,5.882353,14.970695,
+Sectoral / Thematic,Samco Special Opportunities Fund,Nifty 500 TRI,1.010101,,
+Sectoral / Thematic,Shriram Multi Sector Rotation Fund,Nifty 500 TRI,10.167356,,
+Sectoral / Thematic,Sundaram Business Cycle Fund,Nifty 500 TRI,7.201198,,
+Sectoral / Thematic,Sundaram Consumption Fund,Nifty India Consumption TRI,1.1210341,12.816109,13.208715
+Sectoral / Thematic,Sundaram Financial Services Opportunities Fund,Nifty Financial Services TRI,9.891984,14.94635,15.2023115
+Sectoral / Thematic,Sundaram Infrastructure Advantage Fund,Nifty Infrastructure TRI,9.077034,18.612322,17.418678
+Sectoral / Thematic,Sundaram Multi-Factor Fund,BSE 200 TRI,0.23335129,,
+Sectoral / Thematic,Sundaram Services Fund,Nifty Services Sector TRI,8.953495,16.6154,15.664921
+Sectoral / Thematic,Tata Banking And Financial Services Fund,Nifty Financial Services TRI,6.7921305,13.4001665,13.429786
+Sectoral / Thematic,Tata Business Cycle Fund,Nifty 500 TRI,5.650245,14.956129,15.903146
+Sectoral / Thematic,Tata Digital India Fund,Nifty IT TRI,-4.957667,8.635025,6.986731
+Sectoral / Thematic,Tata Ethical Fund,Nifty 500 Shariah TRI,0.13778293,7.329876,8.755406
+Sectoral / Thematic,Tata Housing Opportunities Fund,Nifty Housing TRI,2.94713,10.442859,
+Sectoral / Thematic,Tata India Consumer Fund,Nifty India Consumption TRI,9.522886,17.096151,16.028675
+Sectoral / Thematic,Tata India Innovation Fund,Nifty 500 TRI,7.693639,,
+Sectoral / Thematic,Tata India Pharma & Heathcare Fund,BSE Healthcare TRI,12.556126,20.541567,15.354476
+Sectoral / Thematic,Tata Infrastructure Fund,BSE India Infrastructure TRI,8.831516,15.538416,18.221497
+Sectoral / Thematic,Tata Resources & Energy Fund,Nifty Commodities TRI,11.440284,18.30316,13.5912695
+Sectoral / Thematic,Taurus Banking and Financial Services Fund,BSE BANKEX TRI,1.5923567,9.659086,10.821189
+Sectoral / Thematic,Taurus Ethical Fund,BSE 500 Shariah TRI,6.8071775,13.137109,11.188511
+Sectoral / Thematic,Taurus Infrastructure Fund,Nifty Infrastructure TRI,-1.9316909,12.426738,11.905366
+Sectoral / Thematic,The Wealth Company Ethical Fund,Nifty 500 Shariah TRI,,,
+Sectoral / Thematic,UTI Banking and Financial Services Fund,Nifty Financial Services TRI,8.245495,14.570979,13.076213
+Sectoral / Thematic,UTI Healthcare Fund,BSE Healthcare TRI,17.281536,24.449532,16.019382
+Sectoral / Thematic,UTI India Consumer Fund,Nifty India Consumption TRI,6.3076515,13.1803665,11.436027
+Sectoral / Thematic,UTI Infrastructure Fund,Nifty Infrastructure TRI,5.304281,15.748974,14.908383
+Sectoral / Thematic,UTI Innovation Fund,Nifty 500 TRI,1.3469892,,
+Sectoral / Thematic,UTI MNC Fund,Nifty MNC TRI,6.7592926,11.273668,10.329209
+Sectoral / Thematic,UTI Quant Fund,BSE 200 TRI,4.770318,,
+Sectoral / Thematic,UTI Transportation and Logistics Fund,Nifty Transportation & Logistics TRI,16.945698,21.650002,21.804405
+Sectoral / Thematic,Union Active Momentum Fund,Nifty 500 TRI,14.466131,,
+Sectoral / Thematic,Union Business Cycle Fund,Nifty 500 TRI,8.888889,,
+Sectoral / Thematic,Union Consumption Fund,Nifty India Consumption TRI,,,
+Sectoral / Thematic,Union Innovation & Opportunities Fund,Nifty 500 TRI,15.592516,,
+Sectoral / Thematic,WhiteOak Capital Banking & Financial Services Fund,Nifty Financial Services TRI,10.170709,,
+Sectoral / Thematic,WhiteOak Capital Consumption Opportunities Fund,Nifty India Consumption TRI,,,
+Sectoral / Thematic,WhiteOak Capital Digital Bharat Fund,BSE Teck TRI,3.974794,,
+Sectoral / Thematic,WhiteOak Capital ESG Best-In-Class Strategy Fund,Nifty 100 ESG TRI,1.7773976,,
+Sectoral / Thematic,WhiteOak Capital Pharma and Healthcare Fund,BSE Healthcare TRI,22.18627,,
+Sectoral / Thematic,WhiteOak Capital Quality Equity Fund,BSE Quality TRI,4.406423,,
+Sectoral / Thematic,WhiteOak Capital Special Opportunities Fund,BSE 500 TRI,16.112043,,
