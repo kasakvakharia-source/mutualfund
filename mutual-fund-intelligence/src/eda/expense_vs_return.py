@@ -9,7 +9,10 @@ print(f"Correlation between expense ratio and 5Y CAGR: {correlation:.3f}")
 plt.figure(figsize=(8,6))
 plt.scatter(df['expense_ratio'], df['cagr_5y'])
 for _, row in df.iterrows():
-    plt.annotate(row['scheme_name'][:15], (row['expense_ratio'], row['cagr_5y']), fontsize=7)
+    scheme_name = row.get('scheme_name')
+    if pd.notna(scheme_name):
+        scheme_name = str(scheme_name)[:15]
+        plt.annotate(scheme_name, (row['expense_ratio'], row['cagr_5y']), fontsize=7)
 plt.xlabel("Expense Ratio (%)")
 plt.ylabel("5-Year CAGR")
 plt.title(f"Expense Ratio vs Return (correlation = {correlation:.2f})")

@@ -1,32 +1,752 @@
 scheme_code,scheme_name,status,rows,start_date,end_date
 Scheme Code,Scheme Name,FAILED: 'NoneType' object has no attribute 'reset_index',,,
-151796,360 ONE FLEXICAP FUND-DIRECT PLAN- GROWTH,success,755.0,2023-07-06,2026-07-31
-151798,360 ONE FLEXICAP FUND-DIRECT PLAN- IDCW,success,755.0,2023-07-06,2026-07-31
-151799,360 ONE FLEXICAP FUND-REGULAR PLAN- GROWTH,success,755.0,2023-07-06,2026-07-31
-151797,360 ONE FLEXICAP FUND-REGULAR PLAN- IDCW,success,755.0,2023-07-06,2026-07-31
-118275,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION,success,3341.0,2013-01-02,2026-07-31
-118276,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),success,3341.0,2013-01-02,2026-07-31
-101922,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - GROWTH OPTION,success,4993.0,2006-04-03,2026-07-31
-101923,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),success,4993.0,2006-04-03,2026-07-31
-148990,ICICI Prudential Flexicap Fund - Direct Plan - Growth,success,1240.0,2021-07-19,2026-07-31
-148991,ICICI Prudential Flexicap Fund - Direct Plan - IDCW,success,1240.0,2021-07-19,2026-07-31
-148989,ICICI Prudential Flexicap Fund - Growth,success,1240.0,2021-07-19,2026-07-31
-148988,ICICI Prudential Flexicap Fund - IDCW,success,1240.0,2021-07-19,2026-07-31
-120492,JM Flexicap Fund (Direct) - Growth Option,success,3341.0,2013-01-02,2026-07-31
-120491,JM Flexicap Fund (Direct) - IDCW,success,3341.0,2013-01-02,2026-07-31
-109522,JM Flexicap Fund (Regular) - Growth option,success,4387.0,2008-09-25,2026-07-31
-109523,JM Flexicap Fund (Regular) - IDCW,success,4387.0,2008-09-25,2026-07-31
-112090,Kotak Flexicap Fund - Growth,success,4151.0,2009-09-17,2026-07-31
-120166,Kotak Flexicap Fund - Growth - Direct,success,3338.0,2013-01-04,2026-07-31
-112089,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option,success,4151.0,2009-09-17,2026-07-31
-120165,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct,success,3329.0,2013-01-17,2026-07-31
-119718,SBI Flexicap Fund - DIRECT PLAN - Growth Option,success,3345.0,2013-01-07,2026-07-31
-119717,SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,3344.0,2013-01-08,2026-07-31
-103216,SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,4992.0,2006-04-03,2026-07-31
-103215,SBI Flexicap Fund - REGULAR PLAN -Growth Option,success,4992.0,2006-04-03,2026-07-31
-150571,Sundaram Flexicap Fund Direct Growth,success,959.0,2022-09-07,2026-07-31
-150573,Sundaram Flexicap Fund Direct Plan IDCW Payout,success,959.0,2022-09-07,2026-07-31
-150572,Sundaram Flexicap Fund Direct Plan IDCW Reinvestment,success,959.0,2022-09-07,2026-07-31
-150568,Sundaram Flexicap Fund Regular Growth,success,959.0,2022-09-07,2026-07-31
-150569,Sundaram Flexicap Fund Regular Plan IDCW Payout,success,959.0,2022-09-07,2026-07-31
-150570,Sundaram Flexicap Fund Regular Plan IDCW Reinvestment,success,959.0,2022-09-07,2026-07-31
+129196,HSBC Income Plus Arbitrage Active FOF IDCW,success,2960.0,2014-05-05,2026-08-06
+150845,HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option - Direct Plan,success,907.0,2022-11-10,2026-08-06
+141755,UTI FTIF Series XXVII-VI (1113 Days) - Regular Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+110014,ICICI Prudential Interval Fund II Quarterly Interval Plan D - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141466,UTI Capital Protection Oriented Scheme Series IX-II ( 1462 Days) - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+143128,ICICI Prudential Fixed Maturity Plan - Series 82 - 1119 Days Plan X - Direct Plan Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149165,Axis Value Fund - Regular Plan - IDCW,success,1204.0,2021-09-28,2026-08-06
+139822,PGIM India Aggressive Hybrid Equity Fund-Quarterly Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149844,Axis Multi Factor Passive FoF - Regular Plan - Growth Option,success,1100.0,2022-02-28,2026-08-06
+135087,Reliance Dual Advantage Fixed Tenure Fund VIII- Plan A- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+122228,Reliance Yearly Interval Fund - Series 7- Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152421,Axis BSE Sensex Index Fund - Regular Plan - Growth,success,607.0,2024-02-29,2026-08-06
+129213,Sundaram Infrastructure Advantage Fund Regular Plan - Growth,success,3031.0,2014-04-07,2026-08-06
+141577,UTI FTIF Series XXVII-III (1096 Days) - Regular Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153861,HDFC Diversified Equity All Cap Active FOF - Regular Plan - Growth Plan,success,209.0,2025-09-30,2026-08-06
+152371,SBI Nifty50 Equal Weight Index Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option,success,625.0,2024-02-06,2026-08-06
+147996,Franklin India Low Duration Fund-Direct- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Monthly - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146616,UTI Fixed Term Income Fund Series XXXI-VII (1155 Days) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+143509,Baroda BNP Paribas Ultra Short Duration Fund- Direct Plan- Weekly IDCW,success,1619.0,2018-06-07,2026-08-06
+152821,ITI Large & Midcap Fund - Direct Plan - Growth,success,467.0,2024-09-13,2026-08-06
+152995,Nippon India CRISIL - IBX AAA Financial Services - Dec 2026 Index Fund - Regular Plan - IDCW Option,success,429.0,2024-10-29,2026-08-06
+151849,Bajaj Finserv Overnight Fund - Direct Plan - Growth,success,929.0,2023-07-05,2026-08-06
+124219,ICICI Prudential Fixed Maturity Plan-Series 70-742 Days Plan D - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139247,Reliance Fixed Horizon Fund XXX- Series 18- Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148239,UTI - Credit Risk Fund (Segregated - 06032020) - Direct Plan - Annual Dividend Option,success,1554.0,2020-03-06,2026-08-06
+153533,Samco Large & Mid Cap Fund - Regular Plan - Growth Option,success,272.0,2025-06-30,2026-08-06
+152408,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth,success,599.0,2024-02-29,2026-08-06
+153778,Edelweiss Multi Asset Omni Fund of Fund- Regular Plan - IDCW,success,223.0,2025-09-09,2026-08-06
+101042,Tata Gilt Securities Fund -Regular Plan- Growth Option,success,4914.0,2006-04-03,2026-08-06
+141937,Kotak FMP Series 212-Direct plan-Growth option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154224,Aditya Birla Sun Life BSE Top 10 Banks ETF,success,106.0,2026-03-04,2026-08-06
+152043,Bandhan Nifty IT Index Fund - Regular Plan - Growth,success,728.0,2023-09-01,2026-08-06
+141263,ICICI Prudential Fixed Maturity Plan - Series 81 - 1101 Days Plan C - Direct Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147159,ITI Liquid Fund - Direct Plan - Weekly IDCW Option,success,1996.0,2019-12-18,2026-08-06
+141839,ICICI Prudential BSE Sensex Index Fund - Cumulative Option,success,1992.0,2018-07-03,2026-08-06
+140084,Nippon India ETF Nifty 50 BeES,success,2407.0,2016-11-07,2026-08-06
+146960,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),success,2347.0,2019-03-24,2026-08-06
+151180,HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option,success,886.0,2022-12-09,2026-08-06
+124595,UTI FIIF Annual Interval Plan II - Direct Plan - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150725,Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Direct Plan - Growth,success,921.0,2022-10-17,2026-08-06
+108766,Bandhan Medium to Long Duration Fund - Regular Plan - Annual IDCW,success,4393.0,2008-06-02,2026-08-06
+152993,Nippon India CRISIL - IBX AAA Financial Services - Dec 2026 Index Fund - Direct Plan - IDCW Option,success,429.0,2024-10-29,2026-08-06
+145423,UTI Fixed Term Income Fund Series XXX-X (1267 Days) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127083,Reliance Fixed Horizon Fund - XXV - Series 22 - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151903,Union Innovation & Opportunities Fund - Regular Plan - Growth Option,success,711.0,2023-09-13,2026-08-06
+153228,DSP BSE SENSEX Next 30 ETF,success,375.0,2025-01-30,2026-08-06
+139651,Nippon India Fixed Horizon Fund XXXI- Series 8- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120410,JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130722,Invesco India Credit Risk Fund - Direct Plan - Growth,success,2877.0,2014-09-08,2026-08-06
+149361,Tata Corporate Bond Fund-Direct Plan-Growth,success,1132.0,2021-12-07,2026-08-06
+141591,Axis Corporate Bond Fund - Direct Plan - Regular IDCW,success,2199.0,2017-07-18,2026-08-06
+123113,ICICI Prudential Fixed Maturity Plan-Series 68-704 Days Plan L - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147577,Axis Money Market Fund - Regular Plan - Daily IDCW,success,1701.0,2019-08-07,2026-08-06
+146128,CANARA ROBECO SMALL CAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),success,1837.0,2019-02-19,2026-08-06
+107138,ICICI Prudential Interval Fund II - Quarterly Interval Plan D - Retail Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154209,Edelweiss Gold ETF Fund of Fund Regular Plan Growth Option,success,104.0,2026-03-06,2026-08-06
+144395,Axis Aggressive Hybrid Fund - Direct Plan - Regular IDCW,success,1969.0,2018-08-16,2026-08-06
+147473,Kotak Focused Fund- Direct Plan- Growth option,success,1734.0,2019-07-23,2026-08-06
+106707,UTI Annual Interval Fund - II - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139410,Reliance Fixed Horizon Fund XXXI Series 2 - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142739,HSBC Fixed Term Series 132 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133800,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,success,2835.0,2015-02-02,2026-08-06
+148518,Nippon India Nifty Smallcap 250 Index Fund - Regular Plan - Growth Option,success,1429.0,2020-10-19,2026-08-06
+118527,Franklin India Dividend Yield Fund - Direct - Growth,success,3344.0,2013-01-01,2026-08-06
+149968,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Regular - Growth,success,1064.0,2022-03-22,2026-08-06
+142265,ICICI Prudential Fixed Maturity Plan - Series 82 - 1223 Days Plan E - Direct Plan Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130642,ICICI Prudential Capital Protection Oriented Fund - Series VI - 1100 Days Plan E Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142237,ICICI Prudential Fixed Maturity Plan - Series 82 - 1219 Days Plan D - Direct Plan Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+126126,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan A - Direct Plan - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140434,ICICI Prudential Value Fund - Series 10 - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146535,ICICI Prudential Fixed Maturity Plan - Series 85 - 1156 Days Plan F - Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+100844,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION,success,6274.0,2006-04-21,2026-08-06
+148100,Nippon India Credit Risk Fund - Segregated Portfolio 1 - Institutional Growth Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120349,Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment),success,3345.0,2013-01-02,2026-08-06
+146156,HDFC FMP 1175D January 2019 (1) - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130885,Reliance Dual Advantage Fixed Tenure Fund VI- Plan B- Direct Plan- DIvidend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144302,ICICI Prudential Fixed Maturity Plan - Series 83 - 1100 Days Plan R - Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+132995,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth,success,2877.0,2014-12-01,2026-08-06
+130007,ICICI Prudential Fixed Maturity Plan -Series 74 -370 Days Plan S Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119570,Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW,success,4328.0,2013-01-01,2026-08-06
+124653,ICICI Prudential Fixed Maturity Plan-Series 70-368 Days Plan M - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142150,Nippon India Capital Builder Fund IV- Series D- Direct Plan-Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144481,NIPPON INDIA FIXED HORIZON FUND - XXXVIII - SERIES 11 - IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151056,HSBC Equity Savings Fund - Regular Monthly IDCW,success,909.0,2022-11-28,2026-08-06
+136420,UTI - Dual Advantage Fixed Term Series III-I (1998 Days) - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+101862,Nippon India Banking & Financial Services Fund-Growth Plan-Growth Option,success,5008.0,2006-04-03,2026-08-06
+118419,Bandhan Large & Mid Cap Fund - Direct Plan - Growth,success,3354.0,2013-01-02,2026-08-06
+145391,HDFC FMP 1261D October 2018 (1) - Quarterly IDCW Option - Direct Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145677,BANK OF INDIA Small Cap Fund Regular Plan Growth,success,1875.0,2018-12-27,2026-08-06
+140980,ICICI Prudential Capital Protection Oriented Fund - Series XI - Plan E 1222 Days - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152804,Axis Consumption Fund Regular Plan - Growth,success,471.0,2024-09-18,2026-08-06
+138297,PGIM India Liquid Fund - Direct Plan - Daily Dividend,success,3322.0,2016-03-08,2026-08-06
+150782,Kotak FMP Series 297-Regular Plan-Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151564,HDFC FMP 1269D March 2023 - Growth Option,success,816.0,2023-03-21,2026-08-06
+142102,UTI FTIF SERIES XXVIII - PLAN III (1203 DAYS) - Regular Plan - Flexi IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146614,UTI Fixed Term Income Fund Series XXXI-VII (1155 Days) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148902,HDFC Multi-Asset Active FOF - IDCW Option - Direct Plan,success,1297.0,2021-05-05,2026-08-06
+150790,Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - Growth,success,917.0,2022-10-21,2026-08-06
+151547,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW,success,787.0,2023-03-29,2026-08-06
+131537,Reliance Fixed Horizon Fund XXVII- Series 8- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+128203,ICICI Prudential Fixed Maturity Plan-Series 73-383 Days Plan K - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134500,UTI Medium Duration Fund - Regular Plan - Annual IDCW,success,2741.0,2015-04-09,2026-08-06
+118570,Franklin India Corporate Debt Fund - Plan A - Direct - Annual - IDCW,success,3282.0,2013-01-01,2026-08-06
+131379,Reliance Interval Fund III- Series 1- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139117,ICICI Prudential Capital Protection Oriented Fund - Series IX - 1120 Days Plan F Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145589,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,success,1857.0,2018-12-06,2026-08-06
+152786,Union Multi Asset Allocation Fund- Regular Plan - Growth Option,success,467.0,2024-09-13,2026-08-06
+147972,Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Weekly Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+113098,ICICI Prudential Regular Savings Fund - Plan - Half Yearly IDCW,success,3876.0,2010-07-20,2026-08-06
+141590,Axis Corporate Bond Fund - Direct Plan - Monthly IDCW,success,2199.0,2017-07-18,2026-08-06
+152712,Motilal Oswal Nifty India Defence Index Fund Direct Plan Growth,success,513.0,2024-07-09,2026-08-06
+145446,ICICI Prudential Bharat Consumption Fund - Series 5 - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+123710,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),success,2038.0,2016-05-26,2026-08-06
+143174,Nippon India Fixed Horizon Fund XXXVII- Series 4- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+125313,ICICI Prudential Fixed Maturity Plan-Series 71-547 Days Plan B - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154349,Axis Nifty Capital Markets Index Fund- Regular Plan,success,53.0,2026-05-25,2026-08-06
+152382,PGIM India Large and Midcap Fund - Direct Plan - Growth Option,success,608.0,2024-02-16,2026-08-06
+145632,ICICI Prudential Fixed Maturity Plan - Series 84 - 1279 Days Plan P - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145966,WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),success,2125.0,2019-01-17,2026-08-06
+133402,JM Aggressive Hybrid Fund (Direct) - Half Yearly IDCW,success,2868.0,2014-12-23,2026-08-06
+108465,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW,success,4477.0,2008-05-26,2026-08-06
+149731,Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Regular - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151623,Union Fixed Maturity Plan - Series 13 - Regular Plan - IDCW Payout Option,success,731.0,2023-03-31,2026-04-15
+152187,Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option,success,637.0,2024-01-04,2026-08-06
+126484,Reliance Fixed Horizon Fund - XXV - Series 16 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+135791,TATA Banking & Financial Services Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ,success,2613.0,2015-12-29,2026-08-06
+119648,Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Direct Plan,success,3344.0,2013-01-02,2026-08-06
+153856,Tata Nifty Next 50 Index Fund - Regular Plan IDCW Reinvestment Option,success,205.0,2025-10-07,2026-08-06
+153271,UTI Nifty India Manufacturing Index Fund - Regular Plan - Growth Option,success,360.0,2025-02-18,2026-08-06
+127724,ICICI Prudential Fixed Maturity Plan-Series 73-1140 Days Plan E - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152865,UTI Nifty Private Bank Index Fund - Regular Plan - Growth Option,success,460.0,2024-09-24,2026-08-06
+152457,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth,success,597.0,2024-03-04,2026-08-06
+134565,Kotak India Gorwth Fund - Series I - Regular Plan - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119086,DSP Credit Risk Fund - Direct Plan - IDCW - Weekly,success,3290.0,2013-01-02,2026-08-06
+143645,Reliance Fixed Horizon Fund XXXVII- Series 13- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150885,DSP FMP Series - 268 - 1281 Days - Direct - Growth,success,851.0,2022-11-25,2026-05-29
+119631,Sundaram Corporate Bond Fund Direct Plan -Income Distribution cum Capital Withdrawal (IDCW),FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149393,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend > 3 Years,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151439,Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Regular Plan-Growth Option,success,824.0,2023-03-08,2026-08-06
+131865,Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option,success,2837.0,2014-11-13,2026-08-06
+146839,Kotak Monthly Interval Plan Series 4-Direct Plan- Dividend Reinvestment,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+138336,PGIM India Premier Bond Fund - Annual Bonus,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150884,DSP FMP Series - 268 - 1281 Days - Regular - Growth,success,851.0,2022-11-25,2026-05-29
+145760,Nippon India Fixed Horizon Fund XXXX - Series 5 - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153138,Motilal Oswal Nifty Capital Market Index Fund - Direct Plan - Growth,success,401.0,2024-12-20,2026-08-06
+123705,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),success,2763.0,2013-09-16,2026-08-06
+148613,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,success,1280.0,2020-12-29,2026-08-06
+118495,Franklin India Dynamic Accrual Fund - Direct - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+125309,Reliance Fixed Horizon Fund - XXV - Series 2-Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+104637,Nippon India Focused Fund -Growth Plan -Growth Option,success,4825.0,2006-12-27,2026-08-06
+147346,ICICI Prudential MNC Fund - Direct Plan - Growth Option,success,1758.0,2019-06-18,2026-08-06
+101803,ICICI Prudential Floating Interest Fund - Fortnightly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120073,HSBC Conservative Hybrid Fund - Direct Growth,success,3275.0,2013-01-11,2026-08-06
+150387,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,success,974.0,2022-08-22,2026-08-06
+151862,HDFC Charity Fund for Cancer Cure - IDCW Option - Direct Plan - 50% IDCW Donation Option,success,720.0,2023-08-14,2026-08-06
+154079,JioBlackRock Short Duration Fund - Direct Plan - Growth Option,success,130.0,2026-01-22,2026-08-06
+144933,Nippon India Fixed Horizon Fund XXXIX- Series 6- Growth Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144457,Kotak FMP Series 237 - Regular Plan -Payout of Income Distribution cum capital withdrawal Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148314,Franklin India Short Term Income Plan - Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Institutional Plan Growth Option,success,1553.0,2020-03-06,2026-08-06
+147992,Franklin India Low Duration Fund- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Quarterly Dividend Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+124316,Motilal Oswal Ultra Short Term Fund Direct - IDCW Daily Reinvestment,success,3115.0,2013-09-10,2026-08-06
+151149,HSBC Medium Duration Fund - Regular Growth,success,895.0,2022-11-28,2026-08-06
+149367,HDFC Multi Cap Fund - IDCW Option - Direct Plan,success,1147.0,2021-12-10,2026-08-06
+130010,Reliance Fixed Horizon Fund-XXVI-Series 28-Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133571,NIPPON INDIA RETIREMENT FUND - INCOME GENERATION SCHEME - IDCW Option,success,2774.0,2015-02-13,2026-08-06
+146773,HDFC FMP 1127D March 2019 (1) - IDCW Option - Direct Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150674,SBI Nifty Midcap 150 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,949.0,2022-10-11,2026-08-06
+143178,SBI Long Term Advantage Fund - Series VI - Direct Plan - Growth,success,1986.0,2018-07-24,2026-08-06
+143733,ICICI Prudential Fixed Maturity Plan - Series 83 - 1392 Days Plan J - Direct Plan Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141565,Sundaram Long Term Micro Cap Tax Advantage Fund Series VI Regular Plan - Growth,success,2177.0,2017-10-04,2026-08-06
+127734,Reliance Fixed Horizon Fund - XXV - Series 30 - Direct Plan - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+135757,Kotak FMP Series 182 - Direct Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+143496,NIPPON INDIA ULTRA SHORT DURATION FUND - QUARTERLY IDCW Option,success,1989.0,2018-05-21,2026-08-06
+152843,Bandhan BSE Healthcare Index Fund Regular Plan - Growth,success,478.0,2024-09-09,2026-08-06
+102149,HDFC Hybrid Debt Fund - IDCW Quarterly,success,4927.0,2006-04-03,2026-08-06
+114240,ICICI Prudential Credit Risk Fund - Quarterly IDCW,success,3782.0,2010-12-06,2026-08-06
+148441,UTI - Medium Term Fund (Segregated - 07072020) - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154350,Groww Nifty Private Bank Index Fund Regular Growth,success,50.0,2026-05-27,2026-08-06
+138339,PGIM India Ultra Short Duration Fund - Regular Plan - Weekly Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153346,DSP Nifty Private Bank Index Fund - Regular - IDCW,success,349.0,2025-03-06,2026-08-06
+145512,UTI - Fixed Term Income Fund Series XXX-XI (1246 Days) - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151123,HSBC Aggressive Hybrid Fund - Direct IDCW,success,909.0,2022-11-28,2026-08-06
+150186,BARODA BNP PARIBAS LARGE CAP Fund - Regular Plan - IDCW Option,success,1083.0,2022-03-14,2026-08-06
+153927,Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option,success,179.0,2025-11-17,2026-08-06
+153396,ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Growth,success,321.0,2025-04-21,2026-08-06
+152418,SBI Energy Opportunities Fund - Regular Plan - Growth,success,607.0,2024-03-01,2026-08-06
+147904,ICICI Prudential Fixed Maturity Plan - Series 87 - 1174 Days Plan B - Direct Plan Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149137,Kotak FMP Series 292 - Regular Plan - IDCW Payout,success,1144.0,2021-08-20,2026-05-14
+129287,IL&FS Infrastructure Debt Fund Series 1A - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+102008,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,success,6948.0,2006-04-01,2026-08-06
+120197,ICICI Prudential Liquid Fund - Direct Plan - Growth,success,4278.0,2013-01-01,2026-08-06
+153660,KOTAK NIFTY 200 QUALITY 30 INDEX FUND - DIRECT PLAN - GROWTH,success,258.0,2025-07-18,2026-08-06
+142140,SBI Long Term Advantage Fund - Series V - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,2001.0,2018-07-03,2026-08-06
+150533,Tata Housing Opportunities Fund - Direct Plan - IDCW Reinvestment,success,961.0,2022-09-09,2026-08-06
+147261,UTI Fixed Term Income Fund Series XXXI-XIV (1111 Days) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152399,Bank of India Multi Asset Allocation Fund-Direct Plan-IDCW,success,587.0,2024-03-01,2026-08-06
+127229,ICICI Prudential Fixed Maturity Plan-Series 72-1075 Days Plan Q - Direct Plan - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131196,ICICI Prudential Fixed Maturity Plan - Series 75 - 1100 Days Plan I Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134017,LIC MF Banking and Financial Services Fund-Direct Plan-Growth,success,2796.0,2015-03-30,2026-08-06
+120791,UTI Gilt Fund - Direct Plan - IDCW,success,3274.0,2013-01-11,2026-08-06
+129684,Reliance Fixed Horizon Fund- XXVI- Series 24- Direct Plan- Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+112099,Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment),success,4170.0,2009-08-28,2026-08-06
+133471,Reliance Fixed Horizon Fund XXVIII- Series 4- Direct Plan-Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+112077,UTI MMF - Regular Plan - Growth Option,success,5217.0,2009-07-13,2026-08-06
+153294,Bank of India Money Market Fund - Direct - Growth,success,362.0,2025-02-05,2026-08-06
+130317,ICICI Prudential Fixed Maturity Plan - Series 74 - 370 Days Plan X Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+113099,SBI PSU Fund - REGULAR PLAN -Growth,success,3955.0,2010-07-12,2026-08-06
+152497,Tata Fixed Maturity Plan Series 61 Scheme A (91 days) - Regular Plan IDCW Reinvestment Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134502,UTI Medium Duration Fund - Direct Plan - Quarterly IDCW,success,2741.0,2015-04-09,2026-08-06
+140302,Edelweiss Government Securities Fund - Direct Plan - IDCW Option,success,1748.0,2019-05-06,2026-08-06
+100651,UTI Large Cap Fund - Regular Plan - Growth Option,success,5003.0,2006-04-03,2026-08-06
+126255,Reliance Fixed Horizon Fund - XXV - Series 13 - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127126,Kotak FMP Series 136 (376 Days) - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139397,UTI FTIF Series XXIV - XIV (1831 Days) - Direct Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152315,Sundaram Multi Asset Allocation Fund Regular Plan IDCW Payout,success,622.0,2024-01-29,2026-08-06
+147730,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW,success,1647.0,2019-10-18,2026-08-06
+133770,Kotak Coporate Bond Fund- Retail Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141858,ICICI Prudential Capital Protection Oriented Fund - Series XII - Plan C 1270 Days - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140306,Edelweiss Government Securities Fund - Direct Plan Fortnightly - IDCW Option,success,768.0,2021-09-08,2026-08-06
+141119,UTI FTIF Series XXVI-VIII (1154 Days)- Direct Plan - Annual Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151582,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Regular IDCW,success,819.0,2023-03-16,2026-08-06
+133386,Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option,success,2841.0,2015-01-22,2026-08-06
+123188,Kotak FMP Series 106 Direct Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145722,HDFC FMP 1224D DECEMBER 2018 (1) - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134384,Aditya Birla Sun Life Credit Risk Fund - Regular Plan - Bonus,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139646,UTI Money Market Fund - Regular Plan - Quarterly IDCW,success,1296.0,2016-07-21,2026-08-06
+110601,BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus,success,4370.0,2008-10-29,2026-08-06
+142882,ICICI Prudential Fixed Maturity Plan - Series 82 - 1170 Days Plan R - Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149911,Navi NASDAQ100 US Specific Equity Passive FOF- Regular- Growth,success,1037.0,2022-03-25,2026-08-06
+120789,UTI Conservative Hybrid Fund - Direct Plan - Flexi IDCW,success,3265.0,2013-01-23,2026-08-06
+140094,Nippon India ETF Nifty 50 Shariah BeES,success,2407.0,2016-11-07,2026-08-06
+150645,ICICI Prudential Nifty Auto Index Fund - Growth,success,939.0,2022-10-12,2026-08-06
+144572,UTI Fixed Term Income fund - Series XXX - I (1104 DAYS) - Direct Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147701,Motilal Oswal Large and Midcap Fund - Regular Plan Growth,success,1676.0,2019-10-22,2026-08-06
+118525,Franklin India Small Cap Fund - Direct - Growth,success,3346.0,2013-01-01,2026-08-06
+103050,NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option,success,5731.0,2006-04-02,2026-08-06
+149720,Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) Direct Plan Fortnightly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140910,Kotak FMP Series 200-Regular Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133894,Axis Short Duration Fund - Direct Plan - Regular IDCW,success,2556.0,2015-02-24,2026-08-06
+152101,Kotak Nifty G-Sec July 2033 Index Fund - Regular Plan - IDCW Payout,success,680.0,2023-10-13,2026-08-06
+134410,Reliance Dual Advantage Fixed Tenure Fund VII- Plan E- Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146259,ICICI Prudential Fixed Maturity Plan - Series 85 - 1178 Days Plan B - Direct Plan Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148768,DSP Floater Fund - Regular Plan - Growth,success,1304.0,2021-03-22,2026-08-06
+143626,Kotak FMP Series 229 - Regular Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150398,HDFC FMP 1158D July 2022 - IDCW Option,success,769.0,2022-07-26,2025-09-25
+138318,PGIM India Corporate Bond Fund - Growth,success,2520.0,2016-03-08,2026-08-06
+147371,QUANTUM ESG BEST IN CLASS STRATEGY FUND - REGULAR PLAN - GROWTH OPTION,success,1741.0,2019-07-12,2026-08-06
+125261,ICICI Prudential Multiple Yield Fund - Series 5 - 1100 Days - Plan B -Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+135287,ICICI Prudential Fixed Maturity Plan - Series 77 - 1151 Days Plan S Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131199,ICICI Prudential Dynamic Bond Fund - Direct Plan - Bonus Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130145,ICICI Prudential Multiple Yield Fund - Series 7 - 1100 Days Plan A Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+123561,ICICI Prudential Capital Protection Oriented Fund IV - PLAN C - 60 Months - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+124842,ICICI Prudential Value Fund - Series 1 - Direct Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153305,Mahindra Manulife Value Fund - Direct Plan - IDCW,success,350.0,2025-03-05,2026-08-06
+148001,Franklin India Short-Term Income Plan- Retail Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149408,ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme,success,1426.0,2021-12-01,2026-08-06
+140416,UTI FTIF Series XXV-XII (1198 Days) - Regular Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127726,ICICI Prudential Fixed Maturity Plan-Series 73-1140 Days Plan E - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+102536,UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW,success,4927.0,2006-04-03,2026-08-06
+129354,Kotak FMP Series 158 (370 Days) - Direct Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152369,UTI Nifty 10 yr Benchmark G-Sec ETF,success,607.0,2024-02-01,2026-08-06
+138301,PGIM India Liquid Fund - Direct Plan - Weekly Dividend,success,3322.0,2016-03-08,2026-08-06
+150491,Nippon India Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Option,success,974.0,2022-08-22,2026-08-06
+149550,Sundaram Arbitrage Fund (Formerly Known as Prinicpal Arbitrage Fund) - Direct Plan - Growth,success,1131.0,2022-01-03,2026-08-06
+134955,JM Large Cap Fund (Regular) - Half Yearly IDCW,success,2739.0,2015-06-30,2026-08-06
+120543,Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),success,3281.0,2013-01-02,2026-08-06
+148414,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,success,1889.0,2020-06-30,2026-08-06
+108799,BANDHAN Large Cap Fund - Regular Plan - Growth,success,4294.0,2008-06-04,2026-08-06
+138298,PGIM India Liquid Fund - Direct Plan - Monthly Dividend,success,3322.0,2016-03-08,2026-08-06
+151436,AXIS CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund- DIRECT PLAN- IDCW,success,836.0,2023-03-01,2026-08-06
+151102,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,success,895.0,2022-11-28,2026-08-06
+144901,NIPPON INDIA FIXED HORIZON FUND - XXXIX - SERIES 4 - IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151714,quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan,success,816.0,2023-04-13,2026-08-06
+134385,Aditya Birla Sun Life Credit Risk Fund - Direct - IDCW,success,2734.0,2015-04-22,2026-08-06
+133385,Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option,success,2841.0,2015-01-22,2026-08-06
+139091,HSBC Fixed Term Series 125 - Direct Plan Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146978,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ,success,2275.0,2019-03-28,2026-08-06
+122531,ICICI Prudential Savings Fund - Monthly IDCW,success,2935.0,2014-06-12,2026-08-06
+147898,Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW,success,1581.0,2020-01-31,2026-08-06
+101071,quant Multi Asset Allocation Fund - IDCW Option - Regular Plan,success,5008.0,2006-04-03,2026-08-06
+143341,UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option,success,1994.0,2018-06-29,2026-08-06
+153112,Union Active Momentum Fund - Regular Plan - IDCW Option,success,400.0,2024-12-23,2026-08-06
+120606,ICICI Prudential Gilt Fund Investment Plan PF Option - Direct Plan - Half Yearly Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147949,BANK OF INDIA Overnight Fund Regular Plan- Monthly IDCW,success,1196.0,2021-06-17,2026-08-06
+119278,DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW,success,3173.0,2013-01-03,2026-08-06
+150937,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU APR 2026 Index Fund-Regular IDCW Payout,success,822.0,2022-12-06,2026-04-30
+119605,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,success,3283.0,2013-01-02,2026-08-06
+135169,JM Arbitrage Fund (Regular) - Quarterly IDCW,success,2717.0,2015-07-29,2026-08-06
+153980,Old Bridge Arbitrage Fund Regular IDCW,success,180.0,2025-11-14,2026-08-06
+154521,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,success,16.0,2026-07-21,2026-08-06
+140055,Nippon India Dual Advantage Fixed Tenure Fund X- Plan A- Direct Plan-Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149318,360 ONE QUANT FUND DIRECT GROWTH,success,1155.0,2021-11-30,2026-08-06
+146281,HDFC FMP 1168D January 2019 (1) - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+103168,Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan,success,5007.0,2006-04-03,2026-08-06
+138309,PGIM India Large Cap Fund Wealth Plan -Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+101818,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan,success,4922.0,2006-04-03,2026-08-06
+135110,ICICI Prudential Capital Protection Oriented Fund - Series VIII - 1101 Days Plan G Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152206,DSP Banking & Financial Services Fund - Direct - Growth,success,654.0,2023-12-11,2026-08-06
+124361,ICICI Prudential Fixed Maturity Plan-Series 70-368 Days Plan J - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+114348,SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW),success,3731.0,2011-03-04,2026-08-06
+141068,Quantum Value Fund - Regular Plan Growth Option,success,2304.0,2017-04-01,2026-08-06
+152957,Groww Gold ETF,success,442.0,2024-10-23,2026-08-06
+138313,PGIM India Large Cap Fund - Direct Plan - Dividend,success,2566.0,2016-03-08,2026-08-06
+131398,Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Periodic IDCW,success,2816.0,2014-09-16,2026-08-06
+147827,Axis Retirement Fund - Dynamic Plan - Direct Plan - IDCW,success,1639.0,2019-12-27,2026-08-06
+108559,Bandhan Gilt Fund - Regular Plan - Annual IDCW,success,3305.0,2012-12-11,2026-08-06
+144937,Reliance Fixed Horizon Fund XXXIX- Series 7- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148433,UTI - Medium Term Fund (Segregated - 07072020) - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153214,Edelweiss Consumption Fund - Direct - Growth,success,356.0,2025-02-24,2026-08-06
+151322,TRUSTMF CORPORATE BOND FUND-REGULAR PLAN-GROWTH,success,855.0,2023-01-23,2026-08-06
+145084,Kotak FMP Series 246 -Regular Plan - Growth oPtion,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148731,ITI Mid Cap Fund - Direct Plan - IDCW Option,success,1330.0,2021-03-10,2026-08-06
+150901,Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Regular Plan - IDCW,success,906.0,2022-12-02,2026-08-06
+134731,ICICI Prudential Fixed Maturity Plan - Series 77 - 1134 Plan H Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149130,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Direct Plan - Income Distribution Cum Capital Withdrawal Plan,success,1171.0,2021-08-24,2026-06-29
+126170,ICICI Prudential Fixed Maturity Plan-Series 72-525 Days Plan B - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146501,HDFC FMP 1146D February 2019 (1) - IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+132878,ICICI Prudential Capital Protection Oriented Fund - Series VII - 1285 Days Plan B Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153181,ICICI Prudential Rural Opportunities Fund - Growth,success,374.0,2025-01-29,2026-08-06
+151841,Bajaj Finserv Liquid Fund - Regular Plan - Fortnightly - IDCW,success,930.0,2023-07-05,2026-08-06
+142846,UTI FTIF SERIES XXVIII - PLAN XIII (1134 DAYS) - Direct Plan - Maturity IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154294,HSBC Gold ETF,success,90.0,2026-03-27,2026-08-06
+154177,SBI Quality Fund - Direct Plan - Growth,success,114.0,2026-02-23,2026-08-06
+150781,Kotak FMP Series 297-Regular Plan- Payout of IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+117447,Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW,success,3425.0,2012-06-12,2026-08-06
+152185,Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option,success,637.0,2024-01-04,2026-08-06
+144104,UTI Fixed Term Income fund - Series XXIX - XIII (1122 DAYS) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145434,ICICI Prudential Fixed Maturity Plan - Series 84 - 1247 Days Plan M - Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147919,ITI Small Cap Fund - Direct Plan - Growth Option,success,1592.0,2020-02-19,2026-08-06
+119381,BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Weekly IDCW,success,3266.0,2013-01-23,2026-08-06
+143606,JM Low Duration Fund (Direct) - Fortnightly IDCW,success,1986.0,2018-05-25,2026-08-06
+150696,TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND - REGULAR PLAN - IDCW REINVESTMENT,success,816.0,2022-10-04,2026-02-13
+149246,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Direct Plan - IDCW,success,1164.0,2021-10-18,2026-08-06
+152492,Kotak Long Duration Fund - Direct Plan - IDCW,success,581.0,2024-03-12,2026-08-06
+118539,Franklin India Opportunities Fund - Direct - Growth,success,3345.0,2013-01-01,2026-08-06
+140973,UTI FTIF Series XXVI-VI (1146 Days)- Regular Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+138308,PGIM India Large Cap Fund - Growth,success,2566.0,2016-03-08,2026-08-06
+146943,Aditya Birla Sun Life Retirement Fund-The 50s Plus-Debt Plan-Direct Plan-Growth,success,1792.0,2019-03-13,2026-08-06
+152657,SBI Automotive Opportunities Fund - Direct Plan - Growth,success,540.0,2024-06-12,2026-08-06
+152823,ITI Large & Midcap Fund - Direct Plan - IDCW Option,success,467.0,2024-09-13,2026-08-06
+138296,PGIM India Insta Cash Fund - Direct Plan - Annual Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149878,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth,success,1415.0,2022-02-22,2026-08-06
+123627,ICICI Prudential Fixed Maturity Plan-Series 69-369 Days Plan J - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147417,UTI Fixed Term Income Fund Series XXXII-II(1111 Days) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144579,UTI Fixed Term Income fund - Series XXX - I (1104 DAYS) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145026,ICICI Prudential Fixed Maturity Plan - Series 84 - 1288 Days Plan E - Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145657,UTI Fixed Term Income Fund Series XXX-XIII (1224 Days) - Regular Plan - Maturity IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+108377,Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment),success,4437.0,2008-07-16,2026-08-06
+102913,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - GROWTH OPTION,success,5416.0,2006-04-01,2026-08-06
+144739,UTI Fixed Term Income Fund Series XXX-III (1106 Days) - Direct Plan - Maturity IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144851,Kotak FMP Series 243-Direct Plan - Payout of Income Distribution cum capital withdrawal Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+126644,ICICI Prudential Fixed Maturity Plan-Series 72-483 Days Plan J - Direct Plan - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142283,DSP Arbitrage Fund - Direct - Growth,success,2098.0,2018-01-29,2026-08-06
+121279,Bandhan Banking and PSU Fund - Direct Growth,success,3245.0,2013-03-08,2026-08-06
+153923,Groww Nifty Smallcap250 ETF,success,192.0,2025-10-29,2026-08-06
+120779,UTI Conservative Hybrid Fund - Direct Plan - Growth Option,success,3280.0,2013-01-02,2026-08-06
+119647,Aditya Birla Sun Life MNC Fund - DIRECT - IDCW,success,3344.0,2013-01-02,2026-08-06
+136172,Reliance Fixed Horizon Fund XXX- Series 5- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152110,Parag Parikh Arbitrage Fund - Regular Plan Growth,success,678.0,2023-11-03,2026-08-06
+104686,ICICI Prudential Balanced Advantage Fund - IDCW,success,4822.0,2007-01-01,2026-08-06
+142225,UTI FTIF Series XXVIII-V (1190 Days) Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148797,Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Regular Plan - Growth,success,1234.0,2021-03-22,2026-04-30
+124311,Motilal Oswal Ultra Short Term Fund Direct - IDCW Fortnightly Reinvestment,success,2861.0,2013-10-14,2026-08-06
+105711,ICICI Prudential Interval Fund - Quarterly Interval Plan I - Retail Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144084,Nippon India Fixed Horizon Fund XXXVIII- Series 5- Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151612,NJ ELSS Tax Saver Scheme Direct IDCW,success,771.0,2023-06-19,2026-08-06
+147420,UTI - Fixed Term Income Fund Series XXXII-II (1111 Days) - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142095,UTI FTIF SERIES XXVIII - PLAN III (1203 DAYS) - Direct Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152737,Franklin India Multi Cap Fund - Direct - IDCW,success,499.0,2024-07-29,2026-08-06
+145140,Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment),success,1910.0,2018-11-02,2026-08-06
+144774,Reliance Fixed Horizon Fund XXXIX- Series 3- Dividend Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150265,BARODA BNP PARIBAS Focused Fund - Direct Plan - IDCW Option,success,1083.0,2022-03-14,2026-08-06
+129409,ICICI Prudential Fixed Maturity Plan Series 74 368 Days Plan H Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+121510,ICICI Prudential Multiple Yield Fund - Series 3 - Plan A - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131390,Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Periodic IDCW,success,2881.0,2014-09-16,2026-08-06
+120424,ICICI Prudential Floating Interest Fund - Direct Plan - Weekly IDCW,success,3281.0,2013-01-03,2026-08-06
+105823,LIC MF Banking & PSU Fund-Regular Plan-Growth,success,4631.0,2007-05-31,2026-08-06
+143530,Reliance Fixed Horizon Fund XXXVII- Series 11- Direct Plan- Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127260,ICICI Prudential Fixed Maturity Plan-Series 72-409 Days Plan S - Direct Plan - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147795,Motilal Oswal Nifty 50 Index Fund - Regular plan - Growth,success,1632.0,2019-12-26,2026-08-06
+151795,Edelweiss Multi Asset Allocation Fund - Regular Plan - Growth,success,754.0,2023-06-26,2026-08-06
+139269,Kotak FMP Series 193 - Regular - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131539,Reliance Fixed Horizon Fund XXVII- Series 8- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149411,ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Stable Scheme,success,1426.0,2021-12-01,2026-08-06
+129542,Kotak FMP Series 160 (1039 Days) - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153780,Motilal Oswal Gold ETF,success,250.0,2025-07-31,2026-08-06
+119597,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,success,3344.0,2013-01-02,2026-08-06
+149661,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option,success,1465.0,2022-01-01,2026-08-06
+149229,Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW,success,1113.0,2021-10-22,2026-08-06
+119788,SBI GOLD FUND- DIRECT PLAN - GROWTH,success,3294.0,2013-01-02,2026-08-06
+147316,WhiteOak Capital Ultra Short Duration Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW),success,1737.0,2019-06-10,2026-08-06
+154077,Axis Gold and Silver Passive FOF - Regular Plan - Growth,success,150.0,2026-01-01,2026-08-06
+150635,BANDHAN NIFTY100 LOW VOLATILITY 30 INDEX FUND - IDCW - REGULAR PLAN,success,951.0,2022-10-07,2026-08-06
+150447,ICICI Prudential Fixed Maturity Plan - Series 88 - 226 Days Plan E - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+143669,HSBC FTS 134 - IDCW - Tenure 1118 Days - Maturity: 29-Jun-2021,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+124317,ICICI Prudential Fixed Maturity Plan-Series 70-745 Days Plan G - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+103636,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152832,HSBC India Export Opportunities Fund - Regular IDCW,success,456.0,2024-09-30,2026-08-06
+112360,BANK OF INDIA Manufacturing & Infrastructure Fund-Quarterly IDCW,success,4044.0,2010-03-10,2026-08-06
+152292,Tata Silver ETF Fund of Fund Regular Plan IDCW Reinvestment Option,success,624.0,2024-01-24,2026-08-06
+151186,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Direct Plan Growth Option,success,806.0,2022-12-20,2026-04-22
+153888,THE WEALTH COMPANY LIQUID FUND REGULAR GROWTH,success,254.0,2025-10-16,2026-08-06
+152153,Helios Overnight Fund - Regular Plan - Growth Option,success,720.0,2023-10-25,2026-08-06
+133783,Kotak Corporate Bond Fund- Retail Plan-Daily Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148646,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,success,1224.0,2021-01-05,2026-08-06
+119312,Tata Childrens Fund-Direct Plan-Growth Option,success,3342.0,2013-01-02,2026-08-06
+135230,Reliance Dual Advantage Fixed Tenure Fund VIII- Plan B-Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153878,Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Regular - IDCW,success,206.0,2025-09-30,2026-08-06
+141545,Axis Nifty 50 ETF,success,2250.0,2017-07-06,2026-08-06
+135341,Groww Value Fund (formerly known as Indiabulls Value Fund) - Direct Plan - Growth Option,success,2684.0,2015-09-09,2026-08-06
+122654,Reliance Yearly Interval Fund - Series 8 - Direct Plan - Dividend Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150897,Edelweiss Nifty Next 50 Index Fund - Regular Plan - Growth,success,906.0,2022-12-02,2026-08-06
+151161,HSBC NIFTY NEXT 50 INDEX FUND - Regular IDCW,success,909.0,2022-11-28,2026-08-06
+148436,UTI - Medium Term Fund (Segregated - 07072020) - Regular Plan - Quarterly Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139113,ICICI Prudential Fixed Maturity Plan - Series 78 - 1281 Days Plan V Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144163,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142857,Kotak FMP Series 220-Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+132765,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F- Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+123002,ICICI Prudential Fixed Maturity Plan-Series 68-369 Days Plan I - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147838,JM Overnight Fund (Direct) - Daily IDCW,success,2059.0,2019-12-04,2026-08-06
+125264,NIPPON INDIA LOW DURATION FUND - DIRECT Plan - IDCW Option,success,3072.0,2013-11-13,2026-08-06
+145984,HDFC FMP 1196D December 2018 (1) - IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+118422,Bandhan Focused Fund - Direct Plan - IDCW,success,3354.0,2013-01-02,2026-08-06
+125578,ICICI Prudential Capital Protection Oriented Fund IV - PLAN G - 60 Months Plan - Direct Plan - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134639,SBI Equity Savings Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW),success,2763.0,2015-06-03,2026-08-06
+130312,Axis Credit Risk Fund - Direct Plan - Monthly IDCW,success,2917.0,2014-07-21,2026-08-06
+147289,HSBC Overnight Fund - Regular Daily IDCW,success,2047.0,2019-07-22,2026-08-06
+135681,Sundaram Long Term Tax Advantage Fund Series II Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),success,2461.0,2016-03-23,2026-03-23
+118543,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,success,3280.0,2013-01-01,2026-08-06
+151012,HSBC Gilt Fund - Regular Quarterly IDCW,success,895.0,2022-11-28,2026-08-06
+140102,Nippon India ETF Nifty Infrastructure BeES,success,2407.0,2016-11-07,2026-08-06
+119581,Sundaram Mid Cap Fund Direct Plan - Growth,success,3344.0,2013-01-02,2026-08-06
+142965,ICICI Prudential Fixed Maturity Plan - Series 82 - 1135 Days Plan U - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141594,Axis Corporate Bond Fund - Regular Plan - Monthly IDCW,success,2199.0,2017-07-18,2026-08-06
+148456,ICICI Prudential Nifty Alpha Low- Volatility 30 ETF,success,1479.0,2020-08-13,2026-08-06
+118560,Franklin India Ultra Short Bond Fund - Super Institutional Plan - Direct - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134348,ICICI Prudential Capital Protection Oriented Fund - Series VIII - 1103 Days Plan B Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141166,ICICI Prudential Fixed Maturity Plan - Series 80 - 1225 Days Plan T - Direct Plan - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+121933,Bandhan Banking and PSU Fund - Regular Annual IDCW,success,2830.0,2014-03-28,2026-08-06
+145177,Nippon India Fixed Horizon Fund XXXIX- Series 11- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+129184,Reliance Fixed Horizon Fund- XXVI- Series 16- Direct Plan - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148349,Baroda BNP Paribas Credit Risk Fund- Regular- Bonus Option- Segregated Portfolio- 1,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150347,WhiteOak Capital Flexi Cap Fund Regular Plan-Growth,success,985.0,2022-08-03,2026-08-06
+145005,Kotak FMP Series 245 -Regular Plan-Payout of Income Distribution cum capital withdrawal Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146663,ICICI Prudential Fixed Maturity Plan - Series 85 - 1156 Days Plan G - Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120336,LIC MF Banking & PSU Fund-Direct Plan-Weekly IDCW,success,3260.0,2013-01-22,2026-08-06
+118969,HDFC Balanced Advantage Fund - IDCW Plan - Direct Plan,success,3346.0,2013-01-01,2026-08-06
+119817,SBI Short Term Debt Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW),success,3291.0,2013-01-02,2026-08-06
+145946,Motilal Oswal Liquid Fund - Regular Growth,success,2154.0,2018-12-20,2026-08-06
+126666,Kotak FMP Series 133 (524 Days) - Direct Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153665,SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Income Cum Distribution Capital Withdrawal Option (IDCW),success,266.0,2025-07-15,2026-08-06
+148623,Mirae Asset Banking and Financial Services Fund Direct Growth,success,1391.0,2020-12-14,2026-08-06
+145514,UTI Fixed Term Income Fund Series XXX-XI (1246 Days) - Regular Plan - Flexi IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+107070,UTI FIIF Annual Interval Plan IV - Regular Plan - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139264,ICICI Prudential India Recovery Fund - Series 5 Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147377,Baroda BNP Paribas Money Market Fund- Direct Plan - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148560,quant ESG Integration Strategy Fund - Growth Option - Regular Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+101672,Tata Value Fund - Regular Plan -Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+135931,ICICI Prudential Fixed Maturity Plan - Series 78 - 1190 Days Plan C Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139267,Reliance Fixed Horizon Fund XXX- Series 19- Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134878,LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Direct Plan-IDCW Reinvestment,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153510,Tata Income Plus Arbitrage Active FOF - Regular Plan IDCW Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146450,ICICI Prudential Fixed Maturity Plan - Series 85 - 1168 Days Plan E - Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+111788,Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+109445,ICICI Prudential Banking and Financial Services Fund -  Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119671,SBI Dynamic Bond Fund - DIRECT PLAN - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+136372,ICICI Prudential Capital Protection Oriented Fund - Series IX - 1325 Days Plan E Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+129339,Kotak FMP Series 157 (370 Days) - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+118781,NIPPON INDIA CREDIT RISK FUND - DIRECT Plan - QUARTERLY IDCW Option,success,3281.0,2013-01-02,2026-08-06
+140172,Edelweiss Large & Mid Cap Fund - Regular Plan - Growth Option,success,2391.0,2016-11-28,2026-08-06
+110664,ICICI Prudential Interval Fund II Quarterly Interval Plan A - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141290,UTI FTIF Series XXVI-XII (1096 Days)- Regular Plan - Annual Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154323,Groww Arbitrage Fund Direct IDCW,success,69.0,2026-04-29,2026-08-06
+141459,Nippon India Fixed Horizon Fund XXXIV- Series 4- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+124922,ICICI Prudential Fixed Maturity Plan-Series 70-540 Days Plan S - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133839,PGIM India Flexi Cap Fund - Direct Plan - Growth Option,success,2813.0,2015-03-09,2026-08-06
+106168,JM Value Fund (Regular) - IDCW,success,4685.0,2007-07-23,2026-08-06
+146811,ICICI Prudential Fixed Maturity Plan - Series 85 - 1143 Days Plan J - Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133200,Reliance Fixed Horizon Fund XXVII- Series 15- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152996,Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Direct Plan - Growth Option,success,429.0,2024-10-29,2026-08-06
+108594,BANDHAN Flexi Cap Fund - Regular Plan - Growth,success,4481.0,2008-06-02,2026-08-06
+144910,Nippon India Fixed Horizon Fund XXXIX- Series 5- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148954,Axis Global Innovation Fund of Fund - Direct Plan - Growth,success,1230.0,2021-06-03,2026-08-06
+149167,Axis Value Fund - Regular Plan - Growth,success,1204.0,2021-09-28,2026-08-06
+152825,Franklin India Ultra Short Duration Fund - Direct - Growth,success,470.0,2024-08-29,2026-08-06
+117967,Reliance Fixed Horizon Fund - XXII - Series 29 - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139253,ICICI Prudential Fixed Maturity Plan - Series 78 - 1102 Days Plan Z Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147736,Mirae Asset Overnight Fund Direct Plan Growth,success,2067.0,2019-10-16,2026-08-06
+153164,Tata Fixed Maturity Plan Series 61 Scheme D Direct Plan IDCW Payout,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+101238,Franklin India Short Term Income Plan -  Retail Plan - Quarterly - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150430,DSP Nifty Midcap 150 Quality 50 Index Fund - Regular - IDCW,success,984.0,2022-08-04,2026-08-06
+152267,Aditya Birla Sun Life Crisil IBX Gilt Apr 2033 Index Fund-Direct Growth,success,633.0,2023-12-26,2026-08-06
+151750,HDFC Defence Fund - Growth Option - Direct Plan,success,782.0,2023-06-02,2026-08-06
+120665,UTI Large & Mid Cap Fund - Direct Plan - Growth Option,success,3345.0,2013-01-02,2026-08-06
+142544,ICICI Prudential Fixed Maturity Plan - Series 82 - 1185 Days Plan M - Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133830,Kotak US Equity Fund - Standard Plan - Dividend option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+124142,ICICI Prudential Fixed Maturity Plan-Series 70-366 Days Plan B - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120488,JM Focused Fund (Direct)  - Growth Option,success,3345.0,2013-01-02,2026-08-06
+153438,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,success,413.0,2025-03-28,2026-08-06
+109473,NIPPON INDIA CORPORATE BOND FUND - WEEKLY IDCW Option,success,4346.0,2008-07-23,2026-08-06
+134537,ICICI Prudential Fixed Maturity Plan - Series 77 - 1132 Days Plan A Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148054,Tata Multi Asset Allocation Fund-Regular Plan-Dividend Payout,success,1578.0,2020-03-12,2026-08-06
+148257,UTI - Medium Term Fund (Segregated - 06032020) - Direct Plan - Growth Option,success,1554.0,2020-03-06,2026-08-06
+125269,NIPPON INDIA SHORT DURATION FUND - Direct Plan - IDCW Option,success,3072.0,2013-11-13,2026-08-06
+101706,ICICI Prudential Multicap Fund - IDCW,success,5009.0,2006-04-02,2026-08-06
+117972,ICICI Prudential Fixed Maturity Plan-Series 65-3 Year Plan A Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152498,Tata Fixed Maturity Plan Series 61 Scheme A (91 days) - Direct Plan IDCW Reinvestment Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149077,TRUSTMF Short Duration Fund-Direct Plan-Weekly Income Distribution Cum Capital Withdrawal,success,1210.0,2021-08-09,2026-08-06
+125314,ICICI Prudential Fixed Maturity Plan-Series 71-547 Days Plan B - Direct Plan - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+108994,BANDHAN Equity Savings Fund -B-GROWTH,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141597,ICICI Prudential Fixed Maturity Plan - Series 81 - 1100 Days Plan O - Direct Plan - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154133,THE WEALTH COMPANY GOLD ETF FOF REGULAR GROWTH,success,125.0,2026-02-04,2026-08-06
+147357,Nippon India Fixed Horizon Fund XLI - Series 11 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145995,ICICI Prudential Fixed Maturity Plan - Series 84 - 1247 Days Plan W - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+118619,Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option,success,3331.0,2013-01-24,2026-08-06
+118625,Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option,success,3343.0,2013-01-08,2026-08-06
+124829,Reliance Dual Advantage Fixed Tenure Fund IV - Plan D - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145403,ICICI Prudential Ultra Short Term Fund - Fortnightly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146031,UTI - Fixed Term Income Fund Series XXXI-II (1222 Days) - Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150867,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - DIRECT IDCW,success,838.0,2023-02-28,2026-08-06
+148075,UTI Bond Fund ( Segregated - 17022020) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152743,Tata Nifty India Tourism Index Fund - Direct - IDCW Reinvestment,success,500.0,2024-07-29,2026-08-06
+133852,UTI Dynamic Bond Fund - Regular Plan - Annual IDCW,success,2781.0,2015-02-04,2026-08-06
+144953,UTI Fixed Term Income Fund Series XXX-IV (1125 Days) - Regular Plan - Maturity IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+132757,Tata ELSS Fund-Growth-Regular Plan,success,2907.0,2014-10-14,2026-08-06
+141939,UTI FTIF Series XXVIII-I (1230 Days) - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127402,Kotak FMP Series 141 (454 Days) - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+143946,Nippon India Fixed Horizon Fund XXXVIII- Series 2- Direct Plan- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153543,Unifi Flexi Cap Fund - Direct Growth,success,287.0,2025-06-09,2026-08-06
+111750,NIPPON INDIA LOW DURATION FUND - QUARTERLY IDCW Option,success,3607.0,2009-02-11,2026-08-06
+133046,Reliance Dual Advantage Fixed Tenure Fund VII- Plan A- Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154098,Kotak Dividend Yield Fund - Regular IDCW,success,126.0,2026-02-03,2026-08-06
+144801,HDFC FMP 1487D August 2018 (1) - Quarterly IDCW Option - Direct Plan,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+105856,LIC MF Banking & PSU Fund-Regular Plan-Monthly IDCW,success,4629.0,2007-06-04,2026-08-06
+152566,Tata Nifty MidSmall Healthcare Index Fund - Direct Plan - IDCW Reinvestment,success,560.0,2024-04-30,2026-08-06
+153578,Tata Nifty Midcap 150 Index Fund - Regular Plan - IDCW Reinvestment Option,success,275.0,2025-06-25,2026-08-06
+139296,ICICI Prudential Fixed Maturity Plan - Series 79 - 1218 Days Plan A Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153662,SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Growth,success,266.0,2025-07-15,2026-08-06
+140121,UTI FTIF Series XXV-X (1229 Days)- Direct Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148074,Union Midcap Fund - Direct Plan - IDCW Option,success,1566.0,2020-03-30,2026-08-06
+153177,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 Months Debt Index Fund-Regular Growth,success,396.0,2024-12-18,2026-08-06
+100383,NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option,success,4912.0,2006-04-03,2026-08-06
+153588,DSP Nifty IT Index Fund - Regular - Growth,success,278.0,2025-06-20,2026-08-06
+118702,Nippon India Low Duration Fund - Direct Plan Growth Plan - Bonus Option,success,3277.0,2013-01-08,2026-08-06
+141184,ICICI Prudential Fixed Maturity Plan - Series 81 - 1205 Days Plan B - Direct Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119092,HDFC Money Market Fund - Growth Option - Direct Plan,success,3612.0,2012-12-31,2026-08-06
+150778,Aditya Birla Sun Life Crisil IBX Gilt-Apr-2029 Index Fund-Direct Growth,success,918.0,2022-10-21,2026-08-06
+135801,TATA India Consumer Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ,success,2613.0,2015-12-29,2026-08-06
+103635,ICICI Prudential Money Market Fund Option - Weekly IDCW,success,5685.0,2006-04-02,2026-08-06
+130945,ICICI Prudential Money Market Fund -Bonus,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153946,Mirae Asset Nifty Smallcap 250 ETF,success,185.0,2025-11-10,2026-08-06
+148728,Mahindra Manulife Short Duration Fund - Regular Plan - IDCW,success,1316.0,2021-02-25,2026-08-06
+147929,Axis ESG Integration Strategy Fund - Regular Plan - Growth Option,success,1601.0,2020-02-18,2026-08-06
+153390,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund-Direct Plan-IDCW,success,346.0,2025-03-11,2026-08-06
+140642,UTI FTIF Series XXVI-III (1169 Days)- Regular Plan - Quarterly Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151130,HSBC Small Cap Fund - Direct Growth,success,909.0,2022-11-28,2026-08-06
+110384,ICICI Prudential Interval Fund II Quarterly Interval Plan F - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149766,Invesco India Flexi Cap Fund - Regular Plan - Growth,success,1100.0,2022-02-16,2026-08-06
+149758,Nippon India Silver ETF,success,1112.0,2022-02-04,2026-08-06
+102448,DSP Regular Savings Fund- Regular Plan - Growth,success,4923.0,2006-04-03,2026-08-06
+117796,Reliance Fixed Horizon Fund - XXII - Series 23 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133397,JM Arbitrage Fund (Direct) - Half Yearly Bonus Option - Principal Units,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119226,DSP Short Term Fund - Direct Plan - Growth,success,3290.0,2013-01-02,2026-08-06
+143252,HDFC FMP 1434D May 2018 (1) - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119590,Aditya Birla Sun Life Consumption Fund -DIRECT - IDCW,success,3344.0,2013-01-02,2026-08-06
+150590,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - DIRECT PLAN,success,974.0,2022-09-05,2026-08-06
+141926,Axis Flexi Cap fund - Direct Plan - IDCW,success,2150.0,2017-11-24,2026-08-06
+148807,Aditya Birla Sun Life Nifty Midcap 150 Index Fund-Direct Growth,success,1315.0,2021-04-06,2026-08-06
+100357,ICICI Prudential Liquid Fund -Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+125025,ICICI Prudential Fixed Maturity Plan-Series 70-1285 Days Plan T - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153137,Motilal Oswal Nifty Capital Market Index Fund - Regular Plan - Growth,success,401.0,2024-12-20,2026-08-06
+135917,BANDHAN Corporate Bond Fund - Direct Periodic IDCW,success,2564.0,2016-01-13,2026-08-06
+153566,Nippon India BSE Sensex Next 30 Index Fund - Regular Plan-Growth Option,success,284.0,2025-06-12,2026-08-06
+116653,Invesco India Money Market Fund - Discretionary IDCW (Payout / Reinvestment),success,3007.0,2012-02-01,2026-08-06
+138524,PGIM India Global Equity Opportunities Fund of Fund- Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+141679,ICICI Prudential Value Fund - Series 16 - Direct Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153105,Mirae Asset Long Duration Fund - Direct Plan - Growth,success,403.0,2024-12-09,2026-08-06
+133832,Kotak US Equity Fund - Direct Plan - Dividend option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150257,BARODA BNP PARIBAS ARBITRAGE FUND REGULAR PLAN QUARTERLY IDCW Option,success,1083.0,2022-03-14,2026-08-06
+146719,ICICI Prudential Retirement Fund - Hybrid Conservative - IDCW Option,success,1799.0,2019-02-28,2026-08-06
+141368,Kotak FMP Series 204-Direct Plan-Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+136030,Reliance Fixed Horizon Fund XXX- Series 2 - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153350,Bandhan Nifty Next 50 Index Fund - Direct Plan - Growth,success,358.0,2025-03-03,2026-08-06
+145548,ICICI Prudential Overnight Fund - Monthly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145669,Nippon India Interval Fund V - Series 2 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148597,DSP Value Fund - Regular Plan - IDCW,success,1311.0,2020-12-11,2026-08-06
+150695,TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND - REGULAR PLAN - IDCW PAYOUT,success,816.0,2022-10-04,2026-02-13
+152180,Bandhan Nifty Alpha 50 Index Fund - Regular Plan - IDCW,success,682.0,2023-11-10,2026-08-06
+130219,ICICI Prudential Capital Protection Oriented Fund Series VI- 1825 Days Plan C Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+122238,Reliance Dual Advantage Fixed Tenure Fund III - Plan B - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+144484,UTI Equity Savings Fund - Regular Plan - Growth Option,success,1951.0,2018-08-31,2026-08-06
+152387,Nippon India Nifty Bank Index Fund - Regular Plan - Growth Option,success,602.0,2024-02-26,2026-08-06
+152561,Tata Nifty Auto Index Fund - Regular Plan - IDCW Payout,success,560.0,2024-04-30,2026-08-06
+152938,TRUSTMF SMALL CAP FUND -REGULAR PLAN- IDCW,success,433.0,2024-11-05,2026-08-06
+152073,360 ONE Balanced Hybrid Fund - Direct Plan - IDCW,success,688.0,2023-10-03,2026-08-06
+127721,ICICI Prudential Fixed Maturity Plan-Series 73-407 Days Plan C - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131019,UTI Focussed Equity Fund Series - 1 (2195 Days) - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120505,Axis Midcap Fund - Direct Plan - Growth,success,3354.0,2013-01-02,2026-08-06
+138331,PGIM India Corporate Bond Fund - Direct Plan - Monthly Dividend,success,2421.0,2016-03-08,2026-08-06
+129069,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E -Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120796,UTI Arbitrage Fund - Direct Plan - IDCW,success,3310.0,2013-02-20,2026-08-06
+135336,UTI Dynamic Bond Fund - Regular Plan - Flexi IDCW,success,2647.0,2015-08-25,2026-08-06
+150312,UTI Nifty Midcap 150 Quality 50 Index Fund - Regular Plan - Growth Option,success,1062.0,2022-04-13,2026-08-06
+152527,DSP US Specific Debt Passive FoF - Regular - Growth,success,562.0,2024-03-19,2026-08-06
+135180,ICICI Prudential Capital Protection Oriented Fund - Series VIII -1105 Days Plan H Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152882,Nippon India Nifty 500 Momentum 50 Index Fund - Regular Plan - IDCW Option,success,455.0,2024-10-01,2026-08-06
+142976,ICICI Prudential Fixed Maturity Plan - Series 82 - 1135 Days Plan V - Half Yearly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120044,HSBC Global Emerging Markets Fund - IDCW Direct Plan,success,3017.0,2013-01-11,2026-08-06
+148296,Nippon India Conservative Hybrid  Fund - Segregated Portfolio 2 - Direct Plan - Growth Plan - Growth Option,success,1553.0,2020-03-06,2026-08-06
+139119,ICICI Prudential Capital Protection Oriented Fund - Series IX - 1120 Days Plan F Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148109,UTI Regular Saving Fund ( Segregated - 17022020) - Direct Plan - Monthly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149468,Axis Nifty Next 50 Index Fund - Regular Plan - IDCW,success,1118.0,2022-02-02,2026-08-06
+148292,NIPPON INDIA CONSERVATIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option,success,1553.0,2020-03-06,2026-08-06
+141185,Nippon India Fixed Horizon Fund XXXIII- Series 10- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139476,ICICI Prudential Fixed Maturity Plan - Series 79 - 1130 Days Plan E  Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149037,Tata Floating Rate Fund-Direct Plan-IDCW Monthly Dividend Reinvestment,success,1229.0,2021-07-12,2026-08-06
+139580,Kotak FMP Series 196 - Regular - Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149450,Samco Flexi Cap Fund - Direct Plan - Growth Option,success,1103.0,2022-02-09,2026-08-06
+115132,Quantum Gold ETF FOF - Direct Plan Growth Option,success,3743.0,2011-05-25,2026-08-06
+124593,ICICI Prudential Fixed Maturity Plan-Series 70-372 Days Plan L - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149299,PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option,success,1106.0,2021-12-08,2026-08-06
+154438,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-GROWTH,success,9.0,2026-07-27,2026-08-06
+139702,ICICI Prudential Fixed Maturity Plan - Series 79 - 1118 Days Plan K Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120723,ICICI Prudential Focused Equity Fund - Direct Plan - IDCW,success,3341.0,2013-01-08,2026-08-06
+153444,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Direct IDCW Payout,success,332.0,2025-03-24,2026-08-06
+146222,Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment,success,1989.0,2019-07-05,2026-08-06
+142463,ICICI Prudential Fixed Maturity Plan - Series 82 - 1203 Days Plan K - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140328,Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option,success,2310.0,2016-11-28,2026-08-06
+153653,Union Low Duration Fund - Regular Plan - IDCW Option,success,254.0,2025-07-18,2026-08-06
+150732,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund - Growth,success,924.0,2022-10-12,2026-08-06
+147301,HSBC Overnight Fund - Regular Monthly IDCW,success,2024.0,2019-08-19,2026-08-06
+100806,UTI Healthcare Fund - Regular Plan - IDCW,success,5004.0,2006-04-03,2026-08-06
+100377,Nippon India Growth Mid Cap Fund-Growth Plan-Growth Option,success,5008.0,2006-04-03,2026-08-06
+111569,BANDHAN ELSS Tax Saver Fund - Regular Plan - Growth,success,4341.0,2008-12-29,2026-08-06
+145036,HDFC Ultra Short Term Fund - Direct Plan-Monthly IDCW Option,success,1904.0,2018-09-25,2026-08-06
+147414,UTI Fixed Term Income Fund Series XXXII-II(1111 Days) - Direct Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149225,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Direct Plan Weekly - IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+154083,quant Overnight Fund - Unclaimed IDCW Greater than 3 years,success,194.0,2025-12-16,2026-08-06
+134630,ICICI Prudential Fixed Maturity Plan - Series 77 - 1130 Days Plan D Direct Plan Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147006,Union Overnight Fund - Direct Plan - Monthly IDCW Option,success,2066.0,2019-03-27,2026-08-06
+143704,Nippon India Nivesh Lakshya Long Duration Fund- Direct Plan- Growth Option,success,1954.0,2018-07-09,2026-08-06
+134013,SBI Nifty Next 50 ETF,success,2813.0,2015-03-25,2026-08-06
+118898,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130003,ICICI Prudential Growth Fund- Series 1 Direct Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+139235,Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option,success,3000.0,2016-04-01,2026-08-06
+141115,UTI FTIF Series XXVI-VIII (1154 Days)- Regular Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147884,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment),success,1980.0,2020-01-09,2026-08-06
+151780,Kotak Nifty 200 Momentum 30 Index Fund - Regular Plan - IDCW Payout,success,770.0,2023-06-20,2026-08-06
+140927,Nippon India Fixed Horizon Fund XXXIII- Series 5- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140431,Nippon India Dual Advantage Fixed Tenure Fund X- Plan D- Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151837,Bajaj Finserv Liquid Fund - Regular Plan - Growth,success,930.0,2023-07-05,2026-08-06
+119496,Aditya Birla Sun Life Short Term Fund - DIRECT - IDCW,success,3283.0,2013-01-02,2026-08-06
+130054,NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - IDCW Option,success,2923.0,2014-06-30,2026-08-06
+154127,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth,success,139.0,2026-01-13,2026-08-06
+139143,Reliance Fixed Horizon Fund XXX- Series 17- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153198,Mirae Asset Small Cap Fund - Regular Plan - Growth,success,371.0,2025-02-03,2026-08-06
+145487,ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW,success,2482.0,2018-11-02,2026-08-06
+154251,Canara Robeco Banking and Financials Services Fund - Direct Plan - IDCW,success,93.0,2026-03-23,2026-08-06
+126932,Reliance Fixed Horizon Fund - XXV - Series 19 - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+135372,Kotak FMP Series 179 - Regular Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+152614,JM Small Cap Fund (Direct) - Growth Option,success,524.0,2024-06-24,2026-08-06
+151727,HDFC NIFTY Smallcap 250 Index Fund - Growth Option - Direct Plan,success,811.0,2023-04-21,2026-08-06
+148980,BANK OF INDIA Large Cap Fund Direct Plan Growth,success,1256.0,2021-07-01,2026-08-06
+153323,SBI Nifty IT Index Fund - Regular Plan - Growth,success,360.0,2025-02-27,2026-08-06
+128653,ICICI Prudential Fixed Maturity Plan-Series 73-369 Days Plan P- Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149996,ICICI Prudential Nifty SDL Sep 2027 Index Fund - Annual IDCW,success,1057.0,2022-03-25,2026-08-06
+150706,SBI CRISIL IBX Gilt Index - April 2029 Fund - Direct Plan - Growth,success,935.0,2022-10-10,2026-08-06
+151953,LIC MF Equity Savings Fund-Direct Plan-Monthly IDCW,success,742.0,2023-07-31,2026-08-06
+153247,LIC MF Multi Asset Allocation Fund-Direct Plan-IDCW,success,360.0,2025-02-18,2026-08-06
+140157,Nippon India Fixed Horizon Fund XXXII- Series 2- Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150863,Baroda BNP Paribas Multi Asset Fund - Regular Plan - Growth Option,success,889.0,2022-12-26,2026-08-06
+153784,Kotak Nifty Alpha 50 Index Fund - Regular Plan - Growth,success,234.0,2025-08-22,2026-08-06
+151365,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index fund - Direct Plan - Growth,success,838.0,2023-02-16,2026-08-06
+150721,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund - Regular Plan - IDCW Option,success,924.0,2022-10-13,2026-08-06
+150316,Aditya Birla Sun Life Fixed Term Plan - Series TQ (1879 days) - Direct Plan - Growth Option,success,1058.0,2022-03-25,2026-08-06
+141182,ICICI Prudential Fixed Maturity Plan - Series 81 - 1205 Days Plan B - Direct Plan - Cumulative Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120710,ICICI Prudential Credit Risk Fund - Direct Plan - Half Yearly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+118759,Nippon India Pharma Fund - Direct Plan Growth Plan - Growth Option,success,3345.0,2013-01-02,2026-08-06
+100363,ICICI Prudential Technology Fund - Growth,success,5008.0,2006-04-02,2026-08-06
+120623,ICICI Prudential Interval Fund IV Quarterly Interval Plan B - Direct Plan -  Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+117222,Reliance Dual Advantage Fixed Tenure Fund II - Plan C - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146541,UTI Fixed Term Income Fund Series XXXI-VI (1167 Days) - Direct Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+130230,Reliance Fixed Horizon Fund - XXVI - Series 31 - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+140648,ICICI Prudential Capital Protection Oriented Fund - Series XI - Plan C 1255 Days - Direct Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+127911,Reliance Fixed Horizon Fund - XXVI - Series 1 - Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+150730,ICICI Prudential Nifty SDL Dec 2028 Index Fund - Direct Plan - Annual IDCW,success,923.0,2022-10-13,2026-08-06
+142098,UTI FTIF SERIES XXVIII - PLAN III (1203 DAYS) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+119107,DSP Savings Fund - Direct Plan - IDCW - Monthly,success,3290.0,2013-01-02,2026-08-06
+103820,DSP Large & Mid Cap Fund - Regular Plan - IDCW,success,5010.0,2006-04-03,2026-08-06
+154279,Mirae Asset Silver ETF FOF - Direct Plan - Growth,success,91.0,2026-03-25,2026-08-06
+151562,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Direct Growth,success,822.0,2023-03-13,2026-08-06
+140966,UTI FTIF Series XXVI-VI (1146 Days)- Regular Plan - Maturity Div Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+123366,ICICI Prudential Fixed Maturity Plan-Series 69-433 Days Plan E - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+147361,UTI Fixed Term Income Fund Series XXXII-I(1126 Days) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+121722,UTI Quarterly Interval Fund - III -Direct Plan - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+118492,BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW,success,3287.0,2013-01-07,2026-08-06
+148925,quant Quantamental Fund - Growth Option - Direct Plan,success,1298.0,2021-05-03,2026-08-06
+136235,Reliance Fixed Horizon Fund XXX- Series 6- Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+133924,DSP Low Duration Fund - Direct Plan - IDCW - Quarterly,success,2768.0,2015-03-11,2026-08-06
+120381,ICICI Prudential MidCap Fund - Direct Plan -  Growth,success,3345.0,2013-01-02,2026-08-06
+139201,BANDHAN Corporate Bond Fund - Direct Annual IDCW,success,2445.0,2016-07-13,2026-08-06
+149870,HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option,success,1095.0,2022-02-23,2026-08-06
+141886,Kotak FMP Series 211-Direct Plan-Dividend option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131666,Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option,success,2908.0,2014-10-13,2026-08-06
+144661,UTI Fixed Term Income fund - Series XXX - II (1107 DAYS) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+117716,Kotak Credit Risk Fund - Growth,success,3398.0,2012-07-09,2026-08-06
+147459,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),success,2139.0,2019-07-09,2026-08-06
+146599,Kotak Quarterly Interval Plan Series13- Direct Plan- Growth,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+146937,Aditya Birla Sun Life Retirement Fund-The 50s Plan- Direct - Payout of IDCW,success,1792.0,2019-03-13,2026-08-06
+143260,Parag Parikh Liquid Fund- Regular Plan- Growth,success,2314.0,2018-05-14,2026-08-06
+154174,Groww Nifty PSE ETF FOF Regular IDCW,success,118.0,2026-02-13,2026-08-06
+140289,Edelweiss Banking and PSU Debt Fund - Regular Plan Weekly - IDCW Option,success,2348.0,2016-11-28,2026-08-06
+117769,ICICI Prudential Fixed Maturity Plan-Series 64-3 Year Plan H Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153596,Motilal Oswal BSE 1000 Index Fund - Direct Plan - Growth,success,271.0,2025-07-01,2026-08-06
+150780,Aditya Birla Sun Life Crisil IBX Gilt-Apr 2029 Index Fund-Direct IDCW,success,918.0,2022-10-21,2026-08-06
+150620,HDFC NIFTY100 QUALITY 30 ETF - Growth Option,success,955.0,2022-09-23,2026-08-06
+128543,HDFC FMP 3360D March 2014 (1) - Quarterly IDCW Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+122756,ICICI Prudential Multiple Yield Fund - Series 4 - 1825 Days - Plan D -Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+153574,Union Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option,success,278.0,2025-06-16,2026-08-06
+140169,UTI - Dual Advantage Fixed Term Series IV-I (1279 Days) - Direct Plan - Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+117471,ICICI Prudential Capital Protection Oriented Fund II - Series X - 36 Months - Cumulative,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+142031,UTI FTIF SERIES XXVIII - PLAN II (1210 DAYS) - Regular Plan - Quarterly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+151184,UTI CRISIL SDL Maturity April 2033 Index Fund - Regular Plan - Growth Option,success,876.0,2022-12-22,2026-08-06
+130265,Reliance Fixed Horizon Fund XXVI- Series 32- Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+148689,SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),success,1330.0,2021-02-17,2026-08-06
+120412,Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment),success,3345.0,2013-01-02,2026-08-06
+152892,Baroda BNP Paribas Credit risk fund -Defunct -Growth option -Seg-Portfolio 2 (erstwhile BBNPP Medium Duration Fund-Defunct Growth Option Seg.Portfolio1),success,461.0,2024-09-11,2026-08-06
+152577,Tata Nifty Financial Services Index Fund - Direct Plan - Growth,success,560.0,2024-04-30,2026-08-06
+134260,ICICI Prudential Multiple Yield Fund - Series 9 - 1140 Days Plan A Direct Plan Dividend Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+145527,Nippon India Fixed Horizon Fund XXXIX - Series 15 Growth option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+120762,UTI Dynamic Bond Fund - Direct Plan - Growth Option,success,3281.0,2013-01-02,2026-08-06
+153385,Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - Growth,success,341.0,2025-03-19,2026-08-06
+135762,Axis Children's Fund - Lock in - Direct Growth,success,2631.0,2015-12-14,2026-08-06
+102395,UTI Infrastructure Fund-Growth Option,success,5003.0,2006-04-03,2026-08-06
+147416,UTI Fixed Term Income Fund Series XXXII-II(1111 Days) - Regular Plan - Annual IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+125933,Reliance Fixed Horizon Fund - XXV - Series 11 - Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+149447,Navi Nifty Next 50 Index Fund- Direct Plan- Growth,success,1119.0,2022-01-20,2026-08-06
+146736,Reliance Fixed Horizon Fund XLI - Series 2 - Dividend Payout Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+117330,ICICI Prudential Medium Term Bond Fund - Half Yearly IDCW,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+134599,NIPPON INDIA EQUITY SAVINGS FUND - Direct Plan - MONTHLY IDCW Option,success,2752.0,2015-06-04,2026-08-06
+115767,ICICI Prudential Capital Protection Oriented Fund - Series V - 60 Months - Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+131545,ICICI Prudential Growth Fund - Series 4 Direct Dividend,FAILED: 'NoneType' object has no attribute 'reset_index',,,
+100081,DSP Aggressive Hybrid Fund- Regular Plan - Growth,success,5011.0,2006-04-03,2026-08-06
+146347,ICICI Prudential Retirement Fund - Pure Equity - IDCW Option,success,1830.0,2019-02-28,2026-08-06
+145824,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - MONTHLY IDCW Option,success,2337.0,2018-12-19,2026-08-06
+149796,TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT,success,1382.0,2022-01-19,2026-08-06
+118373,BANDHAN Low Duration Fund-Direct Plan-Weekly IDCW,success,3289.0,2013-01-03,2026-08-06
+145968,WhiteOak Capital Liquid Fund- Regular plan-Growth Option,success,2125.0,2019-01-17,2026-08-06
+143183,Kotak FMP Series 225-Direct Plan-Growth Option,FAILED: 'NoneType' object has no attribute 'reset_index',,,

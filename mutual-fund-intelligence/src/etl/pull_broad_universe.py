@@ -6,7 +6,6 @@ from mftool import Mftool
 
 
 def parse_payload(payload):
-    """Normalize the mftool response into a dictionary keyed by category."""
     if isinstance(payload, str):
         payload = payload.strip()
         if not payload:
@@ -20,7 +19,6 @@ def parse_payload(payload):
 
 
 def extract_rows(data):
-    """Flatten the category -> funds structure into a row-oriented list."""
     rows = []
     for category, funds in data.items():
         if not isinstance(funds, list):
@@ -47,5 +45,9 @@ rows = extract_rows(parsed_data)
 df = pd.DataFrame(rows)
 os.makedirs("data/raw", exist_ok=True)
 df.to_csv("data/raw/broad_universe_performance.csv", index=False)
-print(f"Pulled {len(df)} funds across {df['category'].nunique()} categories")
-print(df['category'].value_counts())
+num_categories = int(df['category'].nunique()) if 'category' in df.columns else 0
+print(f"Pulled {len(df)} funds across {num_categories} categories")
+if 'category' in df.columns:
+    print(df['category'].value_counts())
+else:
+    print("No category data available")

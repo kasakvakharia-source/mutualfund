@@ -1,17 +1,231 @@
 scheme_code,covid_drawdown_pct,scheme_name
-118276,-0.302788844621514,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)
-118275,-0.3028266455821309,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION
-101922,-0.30403587443946184,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - GROWTH OPTION
-101923,-0.3041513696695848,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)
-120492,-0.32857596948506046,JM Flexicap Fund (Direct) - Growth Option
-120491,-0.3285763827164452,JM Flexicap Fund (Direct) - IDCW
-109522,-0.32931890609945896,JM Flexicap Fund (Regular) - Growth option
-109523,-0.32931976488257075,JM Flexicap Fund (Regular) - IDCW
-119717,-0.3452858721572733,SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)
-119718,-0.3452875200543626,SBI Flexicap Fund - DIRECT PLAN - Growth Option
-103216,-0.34614521378072055,SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)
-103215,-0.3461863981017012,SBI Flexicap Fund - REGULAR PLAN -Growth Option
-120165,-0.36,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct
-120166,-0.3600009873861421,Kotak Flexicap Fund - Growth - Direct
-112090,-0.3610567514677103,Kotak Flexicap Fund - Growth
-112089,-0.3610784478414245,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option
+108559,0.012608531521328774,Bandhan Gilt Fund - Regular Plan - Annual IDCW
+143704,0.010514357536498084,Nippon India Nivesh Lakshya Long Duration Fund- Direct Plan- Growth Option
+131390,0.010006403166657013,Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Periodic IDCW
+101042,0.009210609387385712,Tata Gilt Securities Fund -Regular Plan- Growth Option
+120791,0.008189493877234876,UTI Gilt Fund - Direct Plan - IDCW
+108766,0.007614932064447669,Bandhan Medium to Long Duration Fund - Regular Plan - Annual IDCW
+119605,0.006353551069725372,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan
+140302,0.00600542876780958,Edelweiss Government Securities Fund - Direct Plan - IDCW Option
+142283,0.0014875743787188887,DSP Arbitrage Fund - Direct - Growth
+139646,0.0004612374944016903,UTI Money Market Fund - Regular Plan - Quarterly IDCW
+112077,0.00046121983518890015,UTI MMF - Regular Plan - Growth Option
+124316,0.00043611453856966167,Motilal Oswal Ultra Short Term Fund Direct - IDCW Daily Reinvestment
+124311,0.0004352996135389968,Motilal Oswal Ultra Short Term Fund Direct - IDCW Fortnightly Reinvestment
+139235,0.00041565784740593356,Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option
+135169,0.0003314782183916545,JM Arbitrage Fund (Regular) - Quarterly IDCW
+145968,0.000282590267886899,WhiteOak Capital Liquid Fund- Regular plan-Growth Option
+120197,0.0002802083512403275,ICICI Prudential Liquid Fund - Direct Plan - Growth
+147736,0.00027244435319154355,Mirae Asset Overnight Fund Direct Plan Growth
+143260,0.0002638256344997389,Parag Parikh Liquid Fund- Regular Plan- Growth
+145946,0.0002545272862676907,Motilal Oswal Liquid Fund - Regular Growth
+146222,0.0002527904172987444,Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment
+147838,0.0,JM Overnight Fund (Direct) - Daily IDCW
+146978,0.0,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   
+147289,0.0,HSBC Overnight Fund - Regular Daily IDCW
+145487,0.0,ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW
+146960,0.0,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW)
+147884,0.0,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment)
+147316,-5.79165827460909e-06,WhiteOak Capital Ultra Short Duration Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW)
+147301,-0.0003869016355314952,HSBC Overnight Fund - Regular Monthly IDCW
+147006,-0.00039354832458787597,Union Overnight Fund - Direct Plan - Monthly IDCW Option
+147159,-0.0005005485264971845,ITI Liquid Fund - Direct Plan - Weekly IDCW Option
+145824,-0.0005228872958345219,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - MONTHLY IDCW Option
+119570,-0.0005637316038912425,Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW
+116653,-0.0006989680797481568,Invesco India Money Market Fund - Discretionary IDCW (Payout / Reinvestment)
+146943,-0.000705935505732223,Aditya Birla Sun Life Retirement Fund-The 50s Plus-Debt Plan-Direct Plan-Growth
+138297,-0.0009696587243792448,PGIM India Liquid Fund - Direct Plan - Daily Dividend
+120543,-0.0010797779183403195,Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment)
+145966,-0.0014364406449831834,WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW)
+138301,-0.00151279464458776,PGIM India Liquid Fund - Direct Plan - Weekly Dividend
+143606,-0.0019159234526958504,JM Low Duration Fund (Direct) - Fortnightly IDCW
+146937,-0.0020223393597797335,Aditya Birla Sun Life Retirement Fund-The 50s Plan- Direct - Payout of IDCW
+123710,-0.0026178797581366156,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+125264,-0.0027226590735176326,NIPPON INDIA LOW DURATION FUND - DIRECT Plan - IDCW Option
+118702,-0.002722796852973187,Nippon India Low Duration Fund - Direct Plan Growth Plan - Bonus Option
+145589,-0.0029555453503740665,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option
+147459,-0.0037170071460469888,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+120796,-0.004411661725916639,UTI Arbitrage Fund - Direct Plan - IDCW
+138298,-0.004591153154930915,PGIM India Liquid Fund - Direct Plan - Monthly Dividend
+119092,-0.004843219414925695,HDFC Money Market Fund - Growth Option - Direct Plan
+143496,-0.005076269196946008,NIPPON INDIA ULTRA SHORT DURATION FUND - QUARTERLY IDCW Option
+147730,-0.005133132256033106,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW
+133924,-0.005918583389471712,DSP Low Duration Fund - Direct Plan - IDCW - Quarterly
+125269,-0.005936550750576685,NIPPON INDIA SHORT DURATION FUND - Direct Plan - IDCW Option
+102913,-0.00625555083600411,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - GROWTH OPTION
+102008,-0.006256500378705575,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option
+103050,-0.006730790818528289,NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option
+145036,-0.006732366073648161,HDFC Ultra Short Term Fund - Direct Plan-Monthly IDCW Option
+130722,-0.006835547667180381,Invesco India Credit Risk Fund - Direct Plan - Growth
+100844,-0.00717416198609833,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION
+114240,-0.007220998324201233,ICICI Prudential Credit Risk Fund - Quarterly IDCW
+119381,-0.007236001563028762,BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Weekly IDCW
+123705,-0.008421780611005356,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+114348,-0.008956848772763133,SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW)
+143509,-0.00900688925953541,Baroda BNP Paribas Ultra Short Duration Fund- Direct Plan- Weekly IDCW
+147577,-0.009864351820401674,Axis Money Market Fund - Regular Plan - Daily IDCW
+103635,-0.01005018639953547,ICICI Prudential Money Market Fund Option - Weekly IDCW
+134385,-0.010576545117146306,Aditya Birla Sun Life Credit Risk Fund - Direct - IDCW
+111750,-0.010786685545624595,NIPPON INDIA LOW DURATION FUND - QUARTERLY IDCW Option
+133894,-0.01102280186067753,Axis Short Duration Fund - Direct Plan - Regular IDCW
+147898,-0.011473918823023866,Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW
+119086,-0.011986501775055551,DSP Credit Risk Fund - Direct Plan - IDCW - Weekly
+118373,-0.01230662435541455,BANDHAN Low Duration Fund-Direct Plan-Weekly IDCW
+119226,-0.01273530173821936,DSP Short Term Fund - Direct Plan - Growth
+119107,-0.01310149239853087,DSP Savings Fund - Direct Plan - IDCW - Monthly
+141591,-0.014148451429703512,Axis Corporate Bond Fund - Direct Plan - Regular IDCW
+122531,-0.014507171669020498,ICICI Prudential Savings Fund - Monthly IDCW
+105823,-0.014567839116967234,LIC MF Banking & PSU Fund-Regular Plan-Growth
+130312,-0.014646514865267926,Axis Credit Risk Fund - Direct Plan - Monthly IDCW
+100383,-0.015872567038974512,NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option
+138318,-0.016070152520944545,PGIM India Corporate Bond Fund - Growth
+120762,-0.016126903429227804,UTI Dynamic Bond Fund - Direct Plan - Growth Option
+135336,-0.01696402186761229,UTI Dynamic Bond Fund - Regular Plan - Flexi IDCW
+133852,-0.016965232434845642,UTI Dynamic Bond Fund - Regular Plan - Annual IDCW
+131398,-0.017000032003072242,Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Periodic IDCW
+109473,-0.01732764307857558,NIPPON INDIA CORPORATE BOND FUND - WEEKLY IDCW Option
+120424,-0.017403609600997842,ICICI Prudential Floating Interest Fund - Direct Plan - Weekly IDCW
+119817,-0.017853085952290723,SBI Short Term Debt Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW)
+121279,-0.018938793083913014,Bandhan Banking and PSU Fund - Direct Growth
+121933,-0.01937626205968136,Bandhan Banking and PSU Fund - Regular Annual IDCW
+139201,-0.0194989407755364,BANDHAN Corporate Bond Fund - Direct Annual IDCW
+135917,-0.01950490496627837,BANDHAN Corporate Bond Fund - Direct Periodic IDCW
+105856,-0.020227413366336554,LIC MF Banking & PSU Fund-Regular Plan-Monthly IDCW
+117716,-0.022884255668598013,Kotak Credit Risk Fund - Growth
+120336,-0.025597370973808847,LIC MF Banking & PSU Fund-Direct Plan-Weekly IDCW
+138331,-0.026061216190088887,PGIM India Corporate Bond Fund - Direct Plan - Monthly Dividend
+141590,-0.028249477955951254,Axis Corporate Bond Fund - Direct Plan - Monthly IDCW
+117447,-0.028448007833561873,Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW
+141594,-0.028724924836118212,Axis Corporate Bond Fund - Regular Plan - Monthly IDCW
+119788,-0.03217997030946677,SBI GOLD FUND- DIRECT PLAN - GROWTH
+115132,-0.034043655911386334,Quantum Gold ETF FOF - Direct Plan Growth Option
+140289,-0.03705720508999182,Edelweiss Banking and PSU Debt Fund - Regular Plan Weekly - IDCW Option
+129196,-0.03839579907844882,HSBC Income Plus Arbitrage Active FOF IDCW
+133571,-0.040913219082498356,NIPPON INDIA RETIREMENT FUND - INCOME GENERATION SCHEME - IDCW Option
+134502,-0.04342139910471341,UTI Medium Duration Fund - Direct Plan - Quarterly IDCW
+134500,-0.04411777673918214,UTI Medium Duration Fund - Regular Plan - Annual IDCW
+119496,-0.07514113514180867,Aditya Birla Sun Life Short Term Fund - DIRECT - IDCW
+113098,-0.07888437517056406,ICICI Prudential Regular Savings Fund - Plan - Half Yearly IDCW
+118570,-0.08426530838223907,Franklin India Corporate Debt Fund - Plan A - Direct - Annual - IDCW
+120073,-0.0899714017099906,HSBC Conservative Hybrid Fund - Direct Growth
+146719,-0.09409301851663167,ICICI Prudential Retirement Fund - Hybrid Conservative - IDCW Option
+118492,-0.09837283704289795,BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW
+102448,-0.11174681015302187,DSP Regular Savings Fund- Regular Plan - Growth
+120779,-0.1222423812766434,UTI Conservative Hybrid Fund - Direct Plan - Growth Option
+120789,-0.12224247796491113,UTI Conservative Hybrid Fund - Direct Plan - Flexi IDCW
+101818,-0.1258584719199823,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan
+144484,-0.12988661608147484,UTI Equity Savings Fund - Regular Plan - Growth Option
+118781,-0.13119588701919285,NIPPON INDIA CREDIT RISK FUND - DIRECT Plan - QUARTERLY IDCW Option
+102536,-0.1328681945853433,UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW
+102149,-0.13601430784312263,HDFC Hybrid Debt Fund - IDCW Quarterly
+134955,-0.14251153420690524,JM Large Cap Fund (Regular) - Half Yearly IDCW
+147827,-0.1566502463054187,Axis Retirement Fund - Dynamic Plan - Direct Plan - IDCW
+132995,-0.15992037159920372,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth
+100806,-0.1607066122756518,UTI Healthcare Fund - Regular Plan - IDCW
+118759,-0.16403759187261538,Nippon India Pharma Fund - Direct Plan Growth Plan - Growth Option
+134639,-0.18401457790065667,SBI Equity Savings Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW)
+131865,-0.21569176837015946,Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option
+120044,-0.2187144654595856,HSBC Global Emerging Markets Fund - IDCW Direct Plan
+118543,-0.2242300091896646,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth
+140328,-0.23458750380257756,Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option
+135762,-0.2510421731660669,Axis Children's Fund - Lock in - Direct Growth
+134599,-0.2529039931704603,NIPPON INDIA EQUITY SAVINGS FUND - Direct Plan - MONTHLY IDCW Option
+131666,-0.2540250447227191,Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option
+140094,-0.2592965123845053,Nippon India ETF Nifty 50 Shariah BeES
+144395,-0.2605694564279551,Axis Aggressive Hybrid Fund - Direct Plan - Regular IDCW
+104686,-0.26284970722186074,ICICI Prudential Balanced Advantage Fund - IDCW
+100081,-0.2649301483937404,DSP Aggressive Hybrid Fund- Regular Plan - Growth
+130054,-0.26604729049762094,NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - IDCW Option
+120505,-0.27125775022143495,Axis Midcap Fund - Direct Plan - Growth
+119278,-0.27133581077284874,DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW
+133402,-0.27317005855436266,JM Aggressive Hybrid Fund (Direct) - Half Yearly IDCW
+118625,-0.277750848279205,Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option
+135801,-0.2863364433836521,TATA India Consumer Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option 
+120723,-0.28775167785234895,ICICI Prudential Focused Equity Fund - Direct Plan - IDCW
+147346,-0.2884071630537229,ICICI Prudential MNC Fund - Direct Plan - Growth Option
+145677,-0.29249352890422786,BANK OF INDIA Small Cap Fund Regular Plan Growth
+119647,-0.2935976983604285,Aditya Birla Sun Life MNC Fund - DIRECT - IDCW
+118276,-0.302788844621514,
+118275,-0.3028266455821309,
+101922,-0.30403587443946184,
+101923,-0.3041513696695848,
+101071,-0.306960398664625,quant Multi Asset Allocation Fund - IDCW Option - Regular Plan
+112360,-0.3094083414161009,BANK OF INDIA Manufacturing & Infrastructure Fund-Quarterly IDCW
+147371,-0.3159366262814539,QUANTUM ESG BEST IN CLASS STRATEGY FUND - REGULAR PLAN - GROWTH OPTION
+103168,-0.3181266261925411,Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan
+119312,-0.32323536603950115,Tata Childrens Fund-Direct Plan-Growth Option
+113099,-0.32507191213644426,SBI PSU Fund - REGULAR PLAN -Growth
+120492,-0.32857596948506046,
+120491,-0.3285763827164452,
+109522,-0.32931890609945896,
+109523,-0.32931976488257075,
+100651,-0.3310872268938762,UTI Large Cap Fund - Regular Plan - Growth Option
+108799,-0.3325540619520748,BANDHAN Large Cap Fund - Regular Plan - Growth
+110601,-0.33264939728135423,BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus
+140172,-0.3327693677649154,Edelweiss Large & Mid Cap Fund - Regular Plan - Growth Option
+100377,-0.3330347033223467,Nippon India Growth Mid Cap Fund-Growth Plan-Growth Option
+118527,-0.33375671875611146,Franklin India Dividend Yield Fund - Direct - Growth
+119590,-0.33377527345044744,Aditya Birla Sun Life Consumption Fund -DIRECT - IDCW
+118969,-0.33527822798487306,HDFC Balanced Advantage Fund - IDCW Plan - Direct Plan
+100363,-0.33667268845459025,ICICI Prudential Technology Fund - Growth
+146128,-0.33777354900095147,CANARA ROBECO SMALL CAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)
+142140,-0.33927993672933815,SBI Long Term Advantage Fund - Series V - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)
+141926,-0.3403614457831325,Axis Flexi Cap fund - Direct Plan - IDCW
+145140,-0.340696686491079,Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment)
+143178,-0.34138746075014664,SBI Long Term Advantage Fund - Series VI - Direct Plan - Growth
+134013,-0.3430706671365329,SBI Nifty Next 50 ETF
+120349,-0.34317343173431736,Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment)
+143341,-0.34343464090784154,UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option
+119717,-0.3452858721572733,
+119718,-0.3452875200543626,
+135341,-0.34530269791786944,Groww Value Fund (formerly known as Indiabulls Value Fund) - Direct Plan - Growth Option
+103216,-0.34614521378072055,
+103215,-0.3461863981017012,
+133839,-0.34691195795006574,PGIM India Flexi Cap Fund - Direct Plan - Growth Option
+112099,-0.3478931140801645,Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment)
+140102,-0.3481501944177324,Nippon India ETF Nifty Infrastructure BeES
+118619,-0.34836852207293667,Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option
+147473,-0.3506888531043121,Kotak Focused Fund- Direct Plan- Growth option
+120412,-0.3520047169811321,Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment)
+118422,-0.3520280420630946,Bandhan Focused Fund - Direct Plan - IDCW
+147795,-0.3524430301786081,Motilal Oswal Nifty 50 Index Fund - Regular plan - Growth
+118539,-0.35299500853363125,Franklin India Opportunities Fund - Direct - Growth
+120488,-0.35303020079237324,JM Focused Fund (Direct)  - Growth Option
+141068,-0.35326604456294036,Quantum Value Fund - Regular Plan Growth Option
+141839,-0.354120759783596,ICICI Prudential BSE Sensex Index Fund - Cumulative Option
+119648,-0.35539179828652473,Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Direct Plan
+108465,-0.3559822747415066,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW
+108594,-0.3559851001711467,BANDHAN Flexi Cap Fund - Regular Plan - Growth
+138313,-0.35627726611730487,PGIM India Large Cap Fund - Direct Plan - Dividend
+132757,-0.35699870821811924,Tata ELSS Fund-Growth-Regular Plan
+138308,-0.3576667042762044,PGIM India Large Cap Fund - Growth
+103820,-0.358357408171688,DSP Large & Mid Cap Fund - Regular Plan - IDCW
+120165,-0.36,
+120166,-0.3600009873861421,
+146347,-0.36098020735155506,ICICI Prudential Retirement Fund - Pure Equity - IDCW Option
+112090,-0.3610567514677103,
+112089,-0.3610784478414245,
+141545,-0.3621637998629562,Axis Nifty 50 ETF
+140084,-0.3631800806781127,Nippon India ETF Nifty 50 BeES
+106168,-0.36661149563647305,JM Value Fund (Regular) - IDCW
+147701,-0.3670872444675772,Motilal Oswal Large and Midcap Fund - Regular Plan Growth
+133386,-0.3680580094584848,Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option
+133385,-0.36919753630020263,Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option
+135681,-0.36941940821821195,Sundaram Long Term Tax Advantage Fund Series II Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW)
+120665,-0.36988554812011853,UTI Large & Mid Cap Fund - Direct Plan - Growth Option
+118419,-0.3707403055229142,Bandhan Large & Mid Cap Fund - Direct Plan - Growth
+101706,-0.3713060057197331,ICICI Prudential Multicap Fund - IDCW
+119581,-0.37540190310869476,Sundaram Mid Cap Fund Direct Plan - Growth
+111569,-0.3850820842255532,BANDHAN ELSS Tax Saver Fund - Regular Plan - Growth
+120381,-0.3851441665075424,ICICI Prudential MidCap Fund - Direct Plan -  Growth
+104637,-0.38555946705065364,Nippon India Focused Fund -Growth Plan -Growth Option
+102395,-0.3864044726650584,UTI Infrastructure Fund-Growth Option
+118525,-0.38759131214329456,Franklin India Small Cap Fund - Direct - Growth
+133800,-0.3934793101935145,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option
+129213,-0.39745220197290393,Sundaram Infrastructure Advantage Fund Regular Plan - Growth
+135791,-0.4014496608591568,TATA Banking & Financial Services Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option 
+108377,-0.4084682440846824,Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment)
+141565,-0.41653546380752865,Sundaram Long Term Micro Cap Tax Advantage Fund Series VI Regular Plan - Growth
+134017,-0.41708522870861764,LIC MF Banking and Financial Services Fund-Direct Plan-Growth
+119597,-0.4187432664996991,Sundaram Financial Services Opportunities Fund Direct Plan - Growth
+101862,-0.46663286695559586,Nippon India Banking & Financial Services Fund-Growth Plan-Growth Option
