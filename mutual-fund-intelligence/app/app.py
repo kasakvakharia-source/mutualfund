@@ -206,3 +206,16 @@ if len(portfolio_funds) >= 2 and total_weight == 100:
     st.caption("Based on how each fund actually behaved Feb-Mar 2020, weighted by your allocation above. A historical scenario, not a prediction.")
 else:
     st.info("Build a portfolio in Section 6 (weights summing to 100%) to see its stress-test result")
+
+st.header("8. Proposed New Fund")
+
+alloc = pd.read_csv("data/processed/proposed_allocations.csv")
+portfolio_choice = st.radio("View allocation", ["Max Sharpe", "Min Volatility"])
+show_alloc = alloc[alloc['portfolio'] == portfolio_choice]
+
+fig3 = px.pie(show_alloc, names='scheme_name', values='weight_pct',
+              title=f"Proposed New Fund Allocation ({portfolio_choice})")
+st.plotly_chart(fig3, use_container_width=True)
+st.dataframe(show_alloc[['scheme_name', 'weight_pct']], use_container_width=True)
+
+st.image("data/processed/efficient_frontier.png", caption="Efficient frontier of candidate pool")
