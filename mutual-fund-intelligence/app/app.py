@@ -7,7 +7,17 @@ from groq import Groq
 import os
 
 load_dotenv()
+
+def get_groq_key():
+    try:
+        return st.secrets["GROQ_API_KEY"]
+    except (KeyError, FileNotFoundError):
+        return os.getenv("GROQ_API_KEY")
+
+groq_client = Groq(api_key=get_groq_key())
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+
 
 @st.cache_data(show_spinner=False)
 def get_ai_summary(scheme_name, category, score, sharpe):
