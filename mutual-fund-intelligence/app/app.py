@@ -2,6 +2,24 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import numpy as np
+from dotenv import load_dotenv
+from groq import Groq
+import os
+
+load_dotenv()
+groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+@st.cache_data(show_spinner=False)
+def get_ai_summary(scheme_name, category, score, sharpe):
+    prompt = f"""Write a 3-4 sentence factual, neutral summary of this fund for a retail investor.
+Fund: {scheme_name} | Category: {category} | Quality Score: {score}/100 | 3Y Sharpe: {sharpe:.2f}
+End with a note that this is historical data, not a guarantee. No investment advice."""
+    response = groq_client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3, max_tokens=200
+    )
+    return response.choices[0].message.content
 
 st.set_page_config(page_title="Mutual Fund Intelligence", layout="wide")
 
@@ -219,3 +237,13 @@ st.plotly_chart(fig3, use_container_width=True)
 st.dataframe(show_alloc[['scheme_name', 'weight_pct']], use_container_width=True)
 
 st.image("data/processed/efficient_frontier.png", caption="Efficient frontier of candidate pool")
+
+st.header("9. AI Fund Insights")
+scores = pd.read_csv("data/processed/fund_scores.csv")
+ai_fund = st.selectbox("Get an AI summary for", options=scores['scheme_name'].tolist(), key="ai_fund")
+row = scores[scores['scheme_name'] == ai_fund].iloc[0]
+
+if st.button("Generate Summary"):
+    with st.spinner("Generating..."):
+        summary = get_ai_summary(row['scheme_name'], row['category_group'], row['quality_score'], row['sharpe_3y'])
+        st.info(summary)
